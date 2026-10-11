@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:20:54.211894+03:00",
+  "updatedAt": "2026-10-11T22:21:08.8080844+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -126,6 +126,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/resim-699.png",
       "readingMinutes": 7,
       "file": "articles/Allahi-hakkiyla-sevmek.json"
+    },
+    {
+      "id": "mutlulugun-sirri-Allahin-nimetlerine-sukretmektir",
+      "title": "Mutluluğun Sırrı Allah’ın Nimetlerine Şükretmektir",
+      "publishedAt": "2026-02-15",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/spring-day-celebration-with-beautiful-nature-374.png",
+      "readingMinutes": 4,
+      "file": "articles/mutlulugun-sirri-Allahin-nimetlerine-sukretmektir.json"
     },
     {
       "id": "olum-yeni-bir-baslangictir",
