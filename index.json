@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:18:09.899884+03:00",
+  "updatedAt": "2026-10-11T22:18:37.8825076+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -117,6 +117,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/kapak-denemeler-1280-x-720-piksel-419.jpg",
       "readingMinutes": 5,
       "file": "articles/musluman-dunyaperestlikten-uzak-durmalidir.json"
+    },
+    {
+      "id": "olum-yeni-bir-baslangictir",
+      "title": "Ölüm yeni bir başlangıçtır",
+      "publishedAt": "2026-01-31",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/olum-yeni-bir-baslangictir-745-928.jpg",
+      "readingMinutes": 5,
+      "file": "articles/olum-yeni-bir-baslangictir.json"
     }
   ]
 }
