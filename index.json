@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:30:54.1070503+03:00",
+  "updatedAt": "2026-10-11T22:31:04.0721997+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -81,6 +81,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/bir-yapragin-yaralanmasindan-butun-bitkiye-yayilan-haber/makale-kapak-alternatif-4-157.jpg",
       "readingMinutes": 13,
       "file": "articles/bir-yapragin-yaralanmasindan-butun-bitkiye-yayilan-haber.json"
+    },
+    {
+      "id": "dunyaya-ozgu-bir-istisna-oksijen",
+      "title": "Dünyaya Özgü Bir İstisna: Oksijen",
+      "publishedAt": "2026-10-06",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/dunyaya-ozgu-bir-istisna-oksijen/makale-kapak-alternatif-340.jpg",
+      "readingMinutes": 8,
+      "file": "articles/dunyaya-ozgu-bir-istisna-oksijen.json"
     },
     {
       "id": "muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir",
