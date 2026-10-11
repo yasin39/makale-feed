@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:14:01.471421+03:00",
+  "updatedAt": "2026-10-11T22:14:37.104819+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -18,6 +18,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/kucuk-dunyalarin-insani-olmamak/makale-kapak-alternatif-629.jpg",
       "readingMinutes": 7,
       "file": "articles/kucuk-dunyalarin-insani-olmamak.json"
+    },
+    {
+      "id": "dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir",
+      "title": "Dünya Hayatı Hırsla Bağlanmak İçin Değil, İmtihan İçin Yaratılmıştır",
+      "publishedAt": "2026-09-21",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir/2-523.jpg",
+      "readingMinutes": 11,
+      "file": "articles/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
