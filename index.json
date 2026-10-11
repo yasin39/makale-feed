@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:15:46.0906527+03:00",
+  "updatedAt": "2026-10-11T22:16:08.3927599+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -54,6 +54,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/bugun-en-cok-hangi-konuyu-dusundunuz/kapak-ana-dosya-1280x720-7-900.jpg",
       "readingMinutes": 6,
       "file": "articles/bugun-en-cok-hangi-konuyu-dusundunuz.json"
+    },
+    {
+      "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
+      "title": "Dünya Savaşlar ve Acılarla Sarsılırken Mümin Nasıl Yaşamalıdır?",
+      "publishedAt": "2026-07-15",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir/makale-kapak-ana-dosya-1280x720-577.jpg",
+      "readingMinutes": 6,
+      "file": "articles/dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
