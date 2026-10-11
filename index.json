@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:15:21.0912663+03:00",
+  "updatedAt": "2026-10-11T22:15:46.0906527+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -18,6 +18,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/kucuk-dunyalarin-insani-olmamak/makale-kapak-alternatif-629.jpg",
       "readingMinutes": 7,
       "file": "articles/kucuk-dunyalarin-insani-olmamak.json"
+    },
+    {
+      "id": "muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir",
+      "title": "Müminin Ayırt Edici Bir Özelliği Cahiliyeye Benzememesidir",
+      "publishedAt": "2026-10-03",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir/6-653.jpg",
+      "readingMinutes": 5,
+      "file": "articles/muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir.json"
     },
     {
       "id": "dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir",
