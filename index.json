@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:23:52.0524493+03:00",
+  "updatedAt": "2026-10-11T22:24:54.464923+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -234,6 +234,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/08/zer-alemi-1-680.jpg",
       "readingMinutes": 7,
       "file": "articles/zer-aleminde-Allaha-verilen-ahde-sadakat.json"
+    },
+    {
+      "id": "muminlerin-mutlak-velisi-Allahtir",
+      "title": "Müminlerin Mutlak Velisi Allah'tır",
+      "publishedAt": "2025-08-03",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/orange-grey-white-black-modern-minimalist-marketing-agency-business-facebook-ads-235.jpg",
+      "readingMinutes": 7,
+      "file": "articles/muminlerin-mutlak-velisi-Allahtir.json"
     }
   ]
 }
