@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:29:19.5317579+03:00",
+  "updatedAt": "2026-10-11T22:29:33.9679714+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -27,6 +27,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/bu-el-kimin/makale-kapak-alternatif-3-184.jpg",
       "readingMinutes": 3,
       "file": "articles/bu-el-kimin.json"
+    },
+    {
+      "id": "gordugumuz-goruntunun-ardinda-ne-var",
+      "title": "Gördüğümüz Görüntünün Ardında Ne Var?",
+      "publishedAt": "2026-10-09",
+      "category": "Maddenin Ardındaki Sır",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gordugumuz-goruntunun-ardinda-ne-var/makale-kapak-alternatif-4-66.jpg",
+      "readingMinutes": 7,
+      "file": "articles/gordugumuz-goruntunun-ardinda-ne-var.json"
     },
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
