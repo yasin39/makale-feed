@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:21:33.3760815+03:00",
+  "updatedAt": "2026-10-11T22:21:51.826474+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -180,6 +180,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/01/1165e67aad96396bc69923ceb3434e0e-236.jpg",
       "readingMinutes": 4,
       "file": "articles/Allahin-muminlerde-yarattigi-ozel-yetenek-hayir-gozuyle-bakmak.json"
+    },
+    {
+      "id": "sevgiyle-yasayan-cennetin-guzelligini-hisseder",
+      "title": "Sevgiyle Yaşayan, Cennetin Güzelliğini Hisseder",
+      "publishedAt": "2025-11-17",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/11/nnmhv-203.jpg",
+      "readingMinutes": 3,
+      "file": "articles/sevgiyle-yasayan-cennetin-guzelligini-hisseder.json"
     }
   ]
 }
