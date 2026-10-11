@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:31:54.0497109+03:00",
+  "updatedAt": "2026-10-11T22:32:14.0518291+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -117,6 +117,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir/adsiz-tasarim-1-831.jpg",
       "readingMinutes": 7,
       "file": "articles/mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir.json"
+    },
+    {
+      "id": "ben-degisemem-benim-karakterim-boyle-demek-aslinda-ne-anlama-gelir",
+      "title": "“Ben Değişemem”, “Benim Karakterim Böyle” Demek Aslında Ne Anlama Gelir?",
+      "publishedAt": "2026-09-26",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/ben-degisemem-benim-karakterim-boyle-demek-aslinda-ne-anlama-gelir/adsiz-tasarim-6-701.jpg",
+      "readingMinutes": 5,
+      "file": "articles/ben-degisemem-benim-karakterim-boyle-demek-aslinda-ne-anlama-gelir.json"
     },
     {
       "id": "dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir",
