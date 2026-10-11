@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:17:15.8143932+03:00",
+  "updatedAt": "2026-10-11T22:17:34.4704913+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -72,6 +72,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/firavun-karakteri-muminlere-dusmanligin-ornegi/makale-kapak-ana-dosya-1280x720-163.jpg",
       "readingMinutes": 7,
       "file": "articles/firavun-karakteri-muminlere-dusmanligin-ornegi.json"
+    },
+    {
+      "id": "kulli-irade-de-cuzi-irade-de-Allaha-aittir",
+      "title": "Külli İrade de Cüzi İrade de Allah'a Aittir",
+      "publishedAt": "2026-05-25",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-391.jpg",
+      "readingMinutes": 7,
+      "file": "articles/kulli-irade-de-cuzi-irade-de-Allaha-aittir.json"
     },
     {
       "id": "mumin-ruh-tamir-ustadidir",
