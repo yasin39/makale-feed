@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:21:08.8080844+03:00",
+  "updatedAt": "2026-10-11T22:21:33.3760815+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -117,6 +117,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/kapak-denemeler-1280-x-720-piksel-419.jpg",
       "readingMinutes": 5,
       "file": "articles/musluman-dunyaperestlikten-uzak-durmalidir.json"
+    },
+    {
+      "id": "musluman-hayirda-aceleci-olmalidir",
+      "title": "Müslüman Hayırda Aceleci Olmalıdır",
+      "publishedAt": "2026-03-26",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/1-587.jpg",
+      "readingMinutes": 4,
+      "file": "articles/musluman-hayirda-aceleci-olmalidir.json"
     },
     {
       "id": "Allahi-hakkiyla-sevmek",
