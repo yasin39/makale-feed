@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:27:09.2717121+03:00",
+  "updatedAt": "2026-10-11T22:27:43.9682101+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -270,6 +270,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/05/screenshot-from-2025-05-18-07-41-21-139.png",
       "readingMinutes": 4,
       "file": "articles/kadere-karsi-direnmenin-adi-sirktir.json"
+    },
+    {
+      "id": "Allahin-isaretlerini-takip-etmek",
+      "title": "ALLAH’IN İŞARETLERİNİ TAKİP ETMEK",
+      "publishedAt": "2025-04-01",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/04/screenshot-from-2025-04-01-02-33-23-148.png",
+      "readingMinutes": 8,
+      "file": "articles/Allahin-isaretlerini-takip-etmek.json"
     },
     {
       "id": "hayati-alt-veya-ust-boyutta-yasamak",
