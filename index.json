@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:22:41.1526235+03:00",
+  "updatedAt": "2026-10-11T22:23:04.4780052+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -207,6 +207,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/11/76-119.jpg",
       "readingMinutes": 3,
       "file": "articles/vefa-fedakarlik-sabir-ve-kaliteye-ulasmanin-yolu-sevgidir.json"
+    },
+    {
+      "id": "derin-iman-sahiplerine-has-luks-sevgi",
+      "title": "Derin İman Sahiplerine Has Lüks: SEVGİ",
+      "publishedAt": "2025-10-28",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-944.jpg",
+      "readingMinutes": 5,
+      "file": "articles/derin-iman-sahiplerine-has-luks-sevgi.json"
     }
   ]
 }
