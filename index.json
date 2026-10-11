@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:31:04.0721997+03:00",
+  "updatedAt": "2026-10-11T22:31:21.5298415+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -90,6 +90,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/dunyaya-ozgu-bir-istisna-oksijen/makale-kapak-alternatif-340.jpg",
       "readingMinutes": 8,
       "file": "articles/dunyaya-ozgu-bir-istisna-oksijen.json"
+    },
+    {
+      "id": "kuran-oz-guvenin-nasil-kazanilacagini-aciklar",
+      "title": "Kuran, Öz Güvenin Nasıl Kazanılacağını Açıklar",
+      "publishedAt": "2026-10-03",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/kuran-oz-guvenin-nasil-kazanilacagini-aciklar/makale-kapak-alternatif-216.jpg",
+      "readingMinutes": 8,
+      "file": "articles/kuran-oz-guvenin-nasil-kazanilacagini-aciklar.json"
     },
     {
       "id": "muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir",
