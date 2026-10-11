@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:16:35.8162771+03:00",
+  "updatedAt": "2026-10-11T22:16:53.7991568+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -72,6 +72,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/firavun-karakteri-muminlere-dusmanligin-ornegi/makale-kapak-ana-dosya-1280x720-163.jpg",
       "readingMinutes": 7,
       "file": "articles/firavun-karakteri-muminlere-dusmanligin-ornegi.json"
+    },
+    {
+      "id": "mumin-ruh-tamir-ustadidir",
+      "title": "Mümin Ruh Tamir Üstadıdır",
+      "publishedAt": "2026-05-02",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-5-708.jpg",
+      "readingMinutes": 6,
+      "file": "articles/mumin-ruh-tamir-ustadidir.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
