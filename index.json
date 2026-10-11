@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:23:29.3970915+03:00",
+  "updatedAt": "2026-10-11T22:23:52.0524493+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -225,6 +225,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/09/ekran-goruntusu-2025-09-12-21-52-05-822.png",
       "readingMinutes": 5,
       "file": "articles/tevazu-sevginin-anahtaridir.json"
+    },
+    {
+      "id": "zer-aleminde-Allaha-verilen-ahde-sadakat",
+      "title": "Zer Aleminde Allah'a Verilen Ahde Sadakat",
+      "publishedAt": "2025-08-18",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/08/zer-alemi-1-680.jpg",
+      "readingMinutes": 7,
+      "file": "articles/zer-aleminde-Allaha-verilen-ahde-sadakat.json"
     }
   ]
 }
