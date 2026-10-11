@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:14:56.0264954+03:00",
+  "updatedAt": "2026-10-11T22:15:21.0912663+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -36,6 +36,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/felaket-gelmeden-gercegi-gormek/adsiz-tasarim-315.jpg",
       "readingMinutes": 6,
       "file": "articles/felaket-gelmeden-gercegi-gormek.json"
+    },
+    {
+      "id": "bugun-en-cok-hangi-konuyu-dusundunuz",
+      "title": "Bugün En Çok Hangi Konuyu Düşündünüz?",
+      "publishedAt": "2026-09-07",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/bugun-en-cok-hangi-konuyu-dusundunuz/kapak-ana-dosya-1280x720-7-900.jpg",
+      "readingMinutes": 6,
+      "file": "articles/bugun-en-cok-hangi-konuyu-dusundunuz.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
