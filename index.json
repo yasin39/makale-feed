@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T07:01:03.068145+03:00",
+  "updatedAt": "2026-10-11T07:12:09.2925568+03:00",
   "articles": [
     {
       "id": "kucuk-dunyalarin-insani-olmamak",
@@ -9,6 +9,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/kucuk-dunyalarin-insani-olmamak/makale-kapak-alternatif-629.jpg",
       "readingMinutes": 7,
       "file": "articles/kucuk-dunyalarin-insani-olmamak.json"
+    },
+    {
+      "id": "musluman-dunyaperestlikten-uzak-durmalidir",
+      "title": "Müslüman Dünyaperestlikten Uzak Durmalıdır",
+      "publishedAt": "2026-03-28",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/kapak-denemeler-1280-x-720-piksel-419.jpg",
+      "readingMinutes": 5,
+      "file": "articles/musluman-dunyaperestlikten-uzak-durmalidir.json"
     }
   ]
 }
