@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:19:05.0408567+03:00",
+  "updatedAt": "2026-10-11T22:19:41.3290277+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -126,6 +126,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/olum-yeni-bir-baslangictir-745-928.jpg",
       "readingMinutes": 5,
       "file": "articles/olum-yeni-bir-baslangictir.json"
+    },
+    {
+      "id": "gercek-dindar-Allahi-askla-seven-ve-onu-hic-unutmayan-kisidir",
+      "title": "Gerçek Dindar, Allah'ı Aşkla Seven ve O'nu Hiç Unutmayan Kişidir",
+      "publishedAt": "2026-01-15",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/01/happy-family-mom-dad-son-daughter-hugging-park_1106493-511539-563.avif",
+      "readingMinutes": 4,
+      "file": "articles/gercek-dindar-Allahi-askla-seven-ve-onu-hic-unutmayan-kisidir.json"
     },
     {
       "id": "Allahin-muminlerde-yarattigi-ozel-yetenek-hayir-gozuyle-bakmak",
