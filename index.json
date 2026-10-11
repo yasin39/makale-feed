@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:19:41.3290277+03:00",
+  "updatedAt": "2026-10-11T22:20:00.0932914+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -126,6 +126,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/olum-yeni-bir-baslangictir-745-928.jpg",
       "readingMinutes": 5,
       "file": "articles/olum-yeni-bir-baslangictir.json"
+    },
+    {
+      "id": "gercek-sevgi-nasil-olmali",
+      "title": "Gerçek Sevgi Nasıl Olmalı?",
+      "publishedAt": "2026-01-23",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/01/hinh-nen-may-tinh-dep-1-979.jpg",
+      "readingMinutes": 6,
+      "file": "articles/gercek-sevgi-nasil-olmali.json"
     },
     {
       "id": "gercek-dindar-Allahi-askla-seven-ve-onu-hic-unutmayan-kisidir",
