@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:20:00.0932914+03:00",
+  "updatedAt": "2026-10-11T22:20:30.748703+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -117,6 +117,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/kapak-denemeler-1280-x-720-piksel-419.jpg",
       "readingMinutes": 5,
       "file": "articles/musluman-dunyaperestlikten-uzak-durmalidir.json"
+    },
+    {
+      "id": "Allahi-hakkiyla-sevmek",
+      "title": "Allah'ı Hakkıyla Sevmek",
+      "publishedAt": "2026-02-18",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/resim-699.png",
+      "readingMinutes": 7,
+      "file": "articles/Allahi-hakkiyla-sevmek.json"
     },
     {
       "id": "olum-yeni-bir-baslangictir",
