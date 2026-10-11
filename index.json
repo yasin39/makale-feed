@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-11T22:28:02.4718585+03:00",
+  "updatedAt": "2026-10-11T22:28:25.8232597+03:00",
   "articles": [
+    {
+      "id": "kalb-i-selim-ile-Allah-in-huzuruna-varabilmek",
+      "title": "Kalb-i Selim İle Allah'ın Huzuruna Varabilmek",
+      "publishedAt": "2026-10-10",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/kalb-i-selim-ile-Allah-in-huzuruna-varabilmek/makale-kapak-alternatif-8-542.jpg",
+      "readingMinutes": 6,
+      "file": "articles/kalb-i-selim-ile-Allah-in-huzuruna-varabilmek.json"
+    },
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
       "title": "Dünyadan Geçip Giden Milyarlarca İnsan",
