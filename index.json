@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:32:14.0518291+03:00",
+  "updatedAt": "2026-10-11T22:32:31.878648+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -153,6 +153,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/bugun-en-cok-hangi-konuyu-dusundunuz/kapak-ana-dosya-1280x720-7-900.jpg",
       "readingMinutes": 6,
       "file": "articles/bugun-en-cok-hangi-konuyu-dusundunuz.json"
+    },
+    {
+      "id": "imanin-hayata-yansiyan-guzelligi-ruh-kalitesi",
+      "title": "İmanın Hayata Yansıyan Güzelliği : Ruh Kalitesi",
+      "publishedAt": "2026-09-07",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi/kapak-ana-dosya-1280x720-3-651.jpg",
+      "readingMinutes": 9,
+      "file": "articles/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
