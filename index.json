@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:14:37.104819+03:00",
+  "updatedAt": "2026-10-11T22:14:56.0264954+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -27,6 +27,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir/2-523.jpg",
       "readingMinutes": 11,
       "file": "articles/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir.json"
+    },
+    {
+      "id": "felaket-gelmeden-gercegi-gormek",
+      "title": "Felaket Gelmeden Gerçeği Görmek",
+      "publishedAt": "2026-09-10",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/felaket-gelmeden-gercegi-gormek/adsiz-tasarim-315.jpg",
+      "readingMinutes": 6,
+      "file": "articles/felaket-gelmeden-gercegi-gormek.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
