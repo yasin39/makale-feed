@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:31:21.5298415+03:00",
+  "updatedAt": "2026-10-11T22:31:54.0497109+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -108,6 +108,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir/6-653.jpg",
       "readingMinutes": 5,
       "file": "articles/muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir.json"
+    },
+    {
+      "id": "mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir",
+      "title": "Mümin Kuran'a Bakarak Eksiklerini Fark Etmelidir",
+      "publishedAt": "2026-09-29",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir/adsiz-tasarim-1-831.jpg",
+      "readingMinutes": 7,
+      "file": "articles/mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir.json"
     },
     {
       "id": "dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir",
