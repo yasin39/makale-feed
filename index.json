@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:29:33.9679714+03:00",
+  "updatedAt": "2026-10-11T22:29:46.5364854+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -36,6 +36,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gordugumuz-goruntunun-ardinda-ne-var/makale-kapak-alternatif-4-66.jpg",
       "readingMinutes": 7,
       "file": "articles/gordugumuz-goruntunun-ardinda-ne-var.json"
+    },
+    {
+      "id": "gorunenin-otesini-gorebiliyor-musunuz",
+      "title": "Görünenin Ötesini Görebiliyor Musunuz?",
+      "publishedAt": "2026-10-09",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gorunenin-otesini-gorebiliyor-musunuz/3-947.jpg",
+      "readingMinutes": 7,
+      "file": "articles/gorunenin-otesini-gorebiliyor-musunuz.json"
     },
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
