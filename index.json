@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:22:05.7451317+03:00",
+  "updatedAt": "2026-10-11T22:22:41.1526235+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -180,6 +180,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/01/1165e67aad96396bc69923ceb3434e0e-236.jpg",
       "readingMinutes": 4,
       "file": "articles/Allahin-muminlerde-yarattigi-ozel-yetenek-hayir-gozuyle-bakmak.json"
+    },
+    {
+      "id": "zorluklar-muminin-makamini-yukseltir",
+      "title": "Zorluklar Müminin Makamını Yükseltir",
+      "publishedAt": "2025-11-19",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/11/23-73.jpg",
+      "readingMinutes": 7,
+      "file": "articles/zorluklar-muminin-makamini-yukseltir.json"
     },
     {
       "id": "sevgiyle-yasayan-cennetin-guzelligini-hisseder",
