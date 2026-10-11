@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-11T22:28:25.8232597+03:00",
+  "updatedAt": "2026-10-11T22:29:02.8821404+03:00",
   "articles": [
+    {
+      "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
+      "title": "İmanda Derinleşmek İsteyene Kuran'dan Tavsiyeler",
+      "publishedAt": "2026-10-10",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler/makale-kapak-alternatif-971.jpg",
+      "readingMinutes": 6,
+      "file": "articles/imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler.json"
+    },
     {
       "id": "kalb-i-selim-ile-Allah-in-huzuruna-varabilmek",
       "title": "Kalb-i Selim İle Allah'ın Huzuruna Varabilmek",
