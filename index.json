@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:17:34.4704913+03:00",
+  "updatedAt": "2026-10-11T22:18:09.899884+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -81,6 +81,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-391.jpg",
       "readingMinutes": 7,
       "file": "articles/kulli-irade-de-cuzi-irade-de-Allaha-aittir.json"
+    },
+    {
+      "id": "Allaha-teslimiyetin-sirri",
+      "title": "Allah’a Teslimiyetin Sırrı",
+      "publishedAt": "2026-05-06",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/manzara-1-110.jpg",
+      "readingMinutes": 5,
+      "file": "articles/Allaha-teslimiyetin-sirri.json"
     },
     {
       "id": "mumin-ruh-tamir-ustadidir",
