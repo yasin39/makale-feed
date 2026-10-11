@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:32:40.9247068+03:00",
+  "updatedAt": "2026-10-11T22:34:28.4104318+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -126,6 +126,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/ben-degisemem-benim-karakterim-boyle-demek-aslinda-ne-anlama-gelir/adsiz-tasarim-6-701.jpg",
       "readingMinutes": 5,
       "file": "articles/ben-degisemem-benim-karakterim-boyle-demek-aslinda-ne-anlama-gelir.json"
+    },
+    {
+      "id": "geri-getirilemeyen-nimet-zaman",
+      "title": "Geri Getirilemeyen Nimet: Zaman",
+      "publishedAt": "2026-09-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/gun-gelir-bos-seyler-kisiyi-terk-eder/makale-kapak-3-271.jpg",
+      "readingMinutes": 6,
+      "file": "articles/geri-getirilemeyen-nimet-zaman.json"
     },
     {
       "id": "dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir",
