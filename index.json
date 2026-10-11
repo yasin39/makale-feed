@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:29:02.8821404+03:00",
+  "updatedAt": "2026-10-11T22:29:19.5317579+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -18,6 +18,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/kalb-i-selim-ile-Allah-in-huzuruna-varabilmek/makale-kapak-alternatif-8-542.jpg",
       "readingMinutes": 6,
       "file": "articles/kalb-i-selim-ile-Allah-in-huzuruna-varabilmek.json"
+    },
+    {
+      "id": "bu-el-kimin",
+      "title": "Bu El Kimin?",
+      "publishedAt": "2026-10-09",
+      "category": "Maddenin Ardındaki Sır",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/bu-el-kimin/makale-kapak-alternatif-3-184.jpg",
+      "readingMinutes": 3,
+      "file": "articles/bu-el-kimin.json"
     },
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
