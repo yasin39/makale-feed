@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:27:43.9682101+03:00",
+  "updatedAt": "2026-10-11T22:28:02.4718585+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -270,6 +270,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/05/screenshot-from-2025-05-18-07-41-21-139.png",
       "readingMinutes": 4,
       "file": "articles/kadere-karsi-direnmenin-adi-sirktir.json"
+    },
+    {
+      "id": "din-sevgiyle-yasanir",
+      "title": "DİN SEVGİYLE YAŞANIR",
+      "publishedAt": "2025-04-19",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/04/screenshot-from-2025-04-19-02-45-07-416.png",
+      "readingMinutes": 5,
+      "file": "articles/din-sevgiyle-yasanir.json"
     },
     {
       "id": "Allahin-isaretlerini-takip-etmek",
