@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:29:58.5624124+03:00",
+  "updatedAt": "2026-10-11T22:30:54.1070503+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -72,6 +72,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/kucuk-dunyalarin-insani-olmamak/makale-kapak-alternatif-629.jpg",
       "readingMinutes": 7,
       "file": "articles/kucuk-dunyalarin-insani-olmamak.json"
+    },
+    {
+      "id": "bir-yapragin-yaralanmasindan-butun-bitkiye-yayilan-haber",
+      "title": "Bir Yaprağın Yaralanmasından Bütün Bitkiye Yayılan Haber",
+      "publishedAt": "2026-10-06",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/bir-yapragin-yaralanmasindan-butun-bitkiye-yayilan-haber/makale-kapak-alternatif-4-157.jpg",
+      "readingMinutes": 13,
+      "file": "articles/bir-yapragin-yaralanmasindan-butun-bitkiye-yayilan-haber.json"
     },
     {
       "id": "muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir",
