@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:24:54.464923+03:00",
+  "updatedAt": "2026-10-11T22:25:48.3030713+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -243,6 +243,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/orange-grey-white-black-modern-minimalist-marketing-agency-business-facebook-ads-235.jpg",
       "readingMinutes": 7,
       "file": "articles/muminlerin-mutlak-velisi-Allahtir.json"
+    },
+    {
+      "id": "cennete-girisin-anahtari-mutmain-nefis",
+      "title": "CENNETE GİRİŞİN ANAHTARI: MUTMAİN NEFİS",
+      "publishedAt": "2025-06-12",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/06/ekran-resmi-2025-06-12-104740-290.png",
+      "readingMinutes": 5,
+      "file": "articles/cennete-girisin-anahtari-mutmain-nefis.json"
     }
   ]
 }
