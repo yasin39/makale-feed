@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:29:46.5364854+03:00",
+  "updatedAt": "2026-10-11T22:29:58.5624124+03:00",
   "articles": [
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
@@ -45,6 +45,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gorunenin-otesini-gorebiliyor-musunuz/3-947.jpg",
       "readingMinutes": 7,
       "file": "articles/gorunenin-otesini-gorebiliyor-musunuz.json"
+    },
+    {
+      "id": "muminin-en-guzel-yarisi-sevgide-derinlesmek",
+      "title": "Müminin En Güzel Yarışı: Sevgide Derinleşmek",
+      "publishedAt": "2026-10-08",
+      "category": "Sevgi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/muminin-en-guzel-yarisi-sevgide-derinlesmek/makale-kapak-alternatif-384.jpg",
+      "readingMinutes": 7,
+      "file": "articles/muminin-en-guzel-yarisi-sevgide-derinlesmek.json"
     },
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
