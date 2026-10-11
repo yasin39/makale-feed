@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:16:53.7991568+03:00",
+  "updatedAt": "2026-10-11T22:17:15.8143932+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -81,6 +81,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-5-708.jpg",
       "readingMinutes": 6,
       "file": "articles/mumin-ruh-tamir-ustadidir.json"
+    },
+    {
+      "id": "dikkat-farz-olan-bir-ibadettir",
+      "title": "Dikkat; Farz Olan Bir İbadettir",
+      "publishedAt": "2026-04-16",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/makale-resmi-kapak-ana-dosya-2-573.jpg",
+      "readingMinutes": 5,
+      "file": "articles/dikkat-farz-olan-bir-ibadettir.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
