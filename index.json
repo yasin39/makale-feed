@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-11T07:12:09.2925568+03:00",
+  "updatedAt": "2026-10-11T22:14:01.471421+03:00",
   "articles": [
+    {
+      "id": "dunyadan-gecip-giden-milyarlarca-insan",
+      "title": "Dünyadan Geçip Giden Milyarlarca İnsan",
+      "publishedAt": "2026-10-07",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/dunyadan-gecip-giden-milyarlarca-insan/makale-kapak-alternatif-5-219.jpg",
+      "readingMinutes": 4,
+      "file": "articles/dunyadan-gecip-giden-milyarlarca-insan.json"
+    },
     {
       "id": "kucuk-dunyalarin-insani-olmamak",
       "title": "Küçük Dünyaların İnsanı Olmamak",
