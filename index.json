@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:26:47.4963943+03:00",
+  "updatedAt": "2026-10-11T22:27:09.2717121+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -261,6 +261,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/06/screenshot-from-2025-04-01-03-00-05-975.png",
       "readingMinutes": 3,
       "file": "articles/sevgiyi-en-derin-sekilde-yasayan-insanlar-Allahin-velileri.json"
+    },
+    {
+      "id": "kadere-karsi-direnmenin-adi-sirktir",
+      "title": "Kadere Karşı Direnmenin Adı Şirktir",
+      "publishedAt": "2025-05-18",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/05/screenshot-from-2025-05-18-07-41-21-139.png",
+      "readingMinutes": 4,
+      "file": "articles/kadere-karsi-direnmenin-adi-sirktir.json"
     },
     {
       "id": "hayati-alt-veya-ust-boyutta-yasamak",
