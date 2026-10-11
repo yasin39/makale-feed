@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:23:04.4780052+03:00",
+  "updatedAt": "2026-10-11T22:23:29.3970915+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -216,6 +216,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-944.jpg",
       "readingMinutes": 5,
       "file": "articles/derin-iman-sahiplerine-has-luks-sevgi.json"
+    },
+    {
+      "id": "tevazu-sevginin-anahtaridir",
+      "title": "Tevazu Sevginin Anahtarıdır",
+      "publishedAt": "2025-09-12",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/09/ekran-goruntusu-2025-09-12-21-52-05-822.png",
+      "readingMinutes": 5,
+      "file": "articles/tevazu-sevginin-anahtaridir.json"
     }
   ]
 }
