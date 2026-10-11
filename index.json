@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:16:08.3927599+03:00",
+  "updatedAt": "2026-10-11T22:16:35.8162771+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -63,6 +63,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir/makale-kapak-ana-dosya-1280x720-577.jpg",
       "readingMinutes": 6,
       "file": "articles/dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir.json"
+    },
+    {
+      "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
+      "title": "Firavun Karakteri: Müminlere Düşmanlığın Örneği",
+      "publishedAt": "2026-06-11",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/firavun-karakteri-muminlere-dusmanligin-ornegi/makale-kapak-ana-dosya-1280x720-163.jpg",
+      "readingMinutes": 7,
+      "file": "articles/firavun-karakteri-muminlere-dusmanligin-ornegi.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
