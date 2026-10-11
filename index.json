@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:25:48.3030713+03:00",
+  "updatedAt": "2026-10-11T22:26:23.1472754+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -252,6 +252,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/06/ekran-resmi-2025-06-12-104740-290.png",
       "readingMinutes": 5,
       "file": "articles/cennete-girisin-anahtari-mutmain-nefis.json"
+    },
+    {
+      "id": "sevgiyi-en-derin-sekilde-yasayan-insanlar-Allahin-velileri",
+      "title": "SEVGİYİ EN DERİN ŞEKİLDE YAŞAYAN İNSANLAR: “ALLAH'IN VELİLERİ”",
+      "publishedAt": "2025-06-02",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/06/screenshot-from-2025-04-01-03-00-05-975.png",
+      "readingMinutes": 3,
+      "file": "articles/sevgiyi-en-derin-sekilde-yasayan-insanlar-Allahin-velileri.json"
     }
   ]
 }
