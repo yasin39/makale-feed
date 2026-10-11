@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:18:37.8825076+03:00",
+  "updatedAt": "2026-10-11T22:19:05.0408567+03:00",
   "articles": [
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
@@ -126,6 +126,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/olum-yeni-bir-baslangictir-745-928.jpg",
       "readingMinutes": 5,
       "file": "articles/olum-yeni-bir-baslangictir.json"
+    },
+    {
+      "id": "Allahin-muminlerde-yarattigi-ozel-yetenek-hayir-gozuyle-bakmak",
+      "title": "Allah’ın Müminlerde Yarattığı Özel Yetenek: Hayır Gözüyle Bakmak",
+      "publishedAt": "2026-01-11",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/01/1165e67aad96396bc69923ceb3434e0e-236.jpg",
+      "readingMinutes": 4,
+      "file": "articles/Allahin-muminlerde-yarattigi-ozel-yetenek-hayir-gozuyle-bakmak.json"
     }
   ]
 }
