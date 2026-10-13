@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:53:33.3299663+03:00",
+  "updatedAt": "2026-10-13T07:53:42.3016354+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -504,6 +504,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8739_20_temmuz_kibris_baris_harekati_ve_kibris_davasi_-2-.jpg",
       "readingMinutes": 4,
       "file": "articles/20-temmuz-kibris-baris-harekati-ve-kibris-davasi-2.json"
+    },
+    {
+      "id": "20-temmuz-kibris-baris-harekati-ve-kibris-davasi-3",
+      "title": "20 Temmuz Kıbrıs Barış Harekatı ve Kıbrıs Davası -3-",
+      "publishedAt": "2018-02-18",
+      "category": "Tarih, Politika Ve Strateji",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8740_20_temmuz_kibris_baris_harekati_ve_kibris_davasi_-3-.jpg",
+      "readingMinutes": 4,
+      "file": "articles/20-temmuz-kibris-baris-harekati-ve-kibris-davasi-3.json"
     },
     {
       "id": "21-yuzyilda-ekonominin-onculeri-islam-ulkeleri-olacak-72150_1486",
