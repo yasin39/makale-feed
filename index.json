@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:45:04.4214954+03:00",
+  "updatedAt": "2026-10-13T07:45:32.0421425+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -144,6 +144,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir/6-653.jpg",
       "readingMinutes": 5,
       "file": "articles/muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir.json"
+    },
+    {
+      "id": "gunes-isini-nasil-vitamine-donusuyor",
+      "title": "Güneş Işını Nasıl Vitamine Dönüşüyor",
+      "publishedAt": "2026-10-02",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gunes-isini-nasil-vitamine-donusuyor/adsiz-tasarim-569.jpg",
+      "readingMinutes": 3,
+      "file": "articles/gunes-isini-nasil-vitamine-donusuyor.json"
     },
     {
       "id": "mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir",
