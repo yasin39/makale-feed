@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:20:42.6491663+03:00",
+  "updatedAt": "2026-10-13T20:32:58.0083278+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -234,6 +234,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/imtihan-gecer-amel-defteri-kalir/kapak-ana-dosya-1280x720-6-907.jpg",
       "readingMinutes": 6,
       "file": "articles/imtihanlar-gecer-hesap-gunundeki-kitabimiz-baki-kalir.json"
+    },
+    {
+      "id": "dua-Allah-la-kul-arasinda-ozel-bir-yakinlik-kilar",
+      "title": "Dua, Allah’la Kul Arasında Özel Bir Yakınlık Kılar",
+      "publishedAt": "2026-08-27",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/dua-Allah-la-kul-arasinda-ozel-bir-yakinlik-kilar/kapak-ana-dosya-1280x720-2-945.jpg",
+      "readingMinutes": 5,
+      "file": "articles/dua-Allah-la-kul-arasinda-ozel-bir-yakinlik-kilar.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
