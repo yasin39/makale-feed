@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:51:11.7224782+03:00",
+  "updatedAt": "2026-10-13T07:51:29.6730417+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -504,6 +504,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8516_Ahtapotun_kollari_Avrupayi_saiiyor.jpg",
       "readingMinutes": 6,
       "file": "articles/ahtapotun-kollari-avrupayi-sariyor.json"
+    },
+    {
+      "id": "amerikanin-gizli-tarihi-2",
+      "title": "Amerika'nın gizli tarihi -2-",
+      "publishedAt": "2018-02-18",
+      "category": "Tarih, Politika Ve Strateji",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2018/02/generated_amerikanin-gizli-tarihi-2-347.jpg",
+      "readingMinutes": 5,
+      "file": "articles/amerikanin-gizli-tarihi-2.json"
     },
     {
       "id": "amerikanin-gizli-tarihi-4",
