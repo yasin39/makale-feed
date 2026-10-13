@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:17:21.4579551+03:00",
+  "updatedAt": "2026-10-13T20:18:23.6599777+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -225,6 +225,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi/kapak-ana-dosya-1280x720-3-651.jpg",
       "readingMinutes": 9,
       "file": "articles/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi.json"
+    },
+    {
+      "id": "imtihanlar-gecer-hesap-gunundeki-kitabimiz-baki-kalir",
+      "title": "İmtihanlar Geçer, Hesap Günündeki Kitabımız Baki Kalır",
+      "publishedAt": "2026-08-30",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/imtihan-gecer-amel-defteri-kalir/kapak-ana-dosya-1280x720-6-907.jpg",
+      "readingMinutes": 6,
+      "file": "articles/imtihanlar-gecer-hesap-gunundeki-kitabimiz-baki-kalir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
