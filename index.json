@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:46:20.2949752+03:00",
+  "updatedAt": "2026-10-13T07:46:48.5884883+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -486,6 +486,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/03/868b95ca8bd97f38187ca12b6c0d9f02-864.jpg",
       "readingMinutes": 4,
       "file": "articles/hayati-alt-veya-ust-boyutta-yasamak.json"
+    },
+    {
+      "id": "ahtapotun-kollari-avrupayi-sariyor",
+      "title": "Ahtapotun kolları Avrupa'yı sarıyor",
+      "publishedAt": "2018-02-18",
+      "category": "Tarih, Politika Ve Strateji",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8516_Ahtapotun_kollari_Avrupayi_saiiyor.jpg",
+      "readingMinutes": 6,
+      "file": "articles/ahtapotun-kollari-avrupayi-sariyor.json"
     }
   ]
 }
