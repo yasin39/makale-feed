@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:20:34.8437051+03:00",
+  "updatedAt": "2026-10-13T21:20:42.9214267+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -459,6 +459,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/sirk-manevi-bir-hastaliktir/makale-kapak-ana-dosya-1280x720-810.jpg",
       "readingMinutes": 11,
       "file": "articles/sirk-manevi-bir-hastaliktir.json"
+    },
+    {
+      "id": "Allahin-sonsuz-ilminin-bir-yansimasi-yapay-zeka-nimeti",
+      "title": "Allah’ın Sonsuz İlminin Bir Yansıması: Yapay Zekâ Nimeti",
+      "publishedAt": "2026-07-19",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/Allahin-sonsuz-ilminin-bir-yansimasi-yapay-zeka-nimeti/chatgpt-image-19-tem-2026-22_43_41-967.png",
+      "readingMinutes": 7,
+      "file": "articles/Allahin-sonsuz-ilminin-bir-yansimasi-yapay-zeka-nimeti.json"
     },
     {
       "id": "asiri-tuz-tuketimi-ve-yaslanma",
