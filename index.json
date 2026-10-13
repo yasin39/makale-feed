@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:43:51.181897+03:00",
+  "updatedAt": "2026-10-13T07:44:08.7427364+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -288,6 +288,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/yaprak-99.jpg",
       "readingMinutes": 2,
       "file": "articles/yapraklarin-icindeki-enerji-santrali.json"
+    },
+    {
+      "id": "atmosferi-taklit-cabasi-ve-biyosfer-projesinin-husrani",
+      "title": "Atmosferi Taklit Çabası ve Biyosfer Projesinin Hüsranı",
+      "publishedAt": "2026-02-06",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/whatsapp-image-2026-02-24-at-0301-452.jpg",
+      "readingMinutes": 5,
+      "file": "articles/atmosferi-taklit-cabasi-ve-biyosfer-projesinin-husrani.json"
     },
     {
       "id": "olum-yeni-bir-baslangictir",
