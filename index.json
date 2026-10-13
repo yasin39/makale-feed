@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:16:45.7040522+03:00",
+  "updatedAt": "2026-10-13T20:17:03.0662908+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -594,6 +594,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11442_Allah_in_rahmetinden_umut_kesmemek.jpg",
       "readingMinutes": 2,
       "file": "articles/allahin-rahmetinden-umut-kesmemek-68609_3002.json"
+    },
+    {
+      "id": "belirlenmis-vakitlerde-hamd-etmek-ve-allahi-tesbih-etmek",
+      "title": "Belirlenmiş vakitlerde hamd etmek ve Allah’ı tesbih etmek",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11431_belirlenmis_vakitlerde_hamd_ve_tesbih_etmek.jpg",
+      "readingMinutes": 2,
+      "file": "articles/belirlenmis-vakitlerde-hamd-etmek-ve-allahi-tesbih-etmek.json"
     },
     {
       "id": "bilgi-sahibi-olunmayan-bir-konunun-savunuculugunu-yapmamak",
