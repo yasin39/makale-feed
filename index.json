@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:13:13.3021413+03:00",
+  "updatedAt": "2026-10-13T20:13:45.5105269+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -585,6 +585,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8341_asiri_savunma_giderlerinin_dusundukleri.jpg",
       "readingMinutes": 5,
       "file": "articles/asiri-savunma-giderlerinin-dusundurdukleri.json"
+    },
+    {
+      "id": "bilgi-sahibi-olunmayan-bir-konunun-savunuculugunu-yapmamak",
+      "title": "Bilgi sahibi olunmayan bir konunun savunuculuğunu yapmamak",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11438_bilgi_sahibi_olunmayan_bir_konunun_savunuculugunu_yapmamak.jpg",
+      "readingMinutes": 2,
+      "file": "articles/bilgi-sahibi-olunmayan-bir-konunun-savunuculugunu-yapmamak.json"
     },
     {
       "id": "inkar-edenlerin-sahip-olduklari-zenginliklere-ozenmemek",
