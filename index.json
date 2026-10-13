@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:12:37.2009106+03:00",
+  "updatedAt": "2026-10-13T20:13:13.3021413+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -585,6 +585,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8341_asiri_savunma_giderlerinin_dusundukleri.jpg",
       "readingMinutes": 5,
       "file": "articles/asiri-savunma-giderlerinin-dusundurdukleri.json"
+    },
+    {
+      "id": "inkar-edenlerin-sahip-olduklari-zenginliklere-ozenmemek",
+      "title": "İnkar edenlerin sahip oldukları zenginliklere özenmemek",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11439_inkar_edenlerin_sahip_olduklari_zenginliklere_ve_yasam_sekillerine_ozenmemek.jpg",
+      "readingMinutes": 2,
+      "file": "articles/inkar-edenlerin-sahip-olduklari-zenginliklere-ozenmemek.json"
     }
   ]
 }
