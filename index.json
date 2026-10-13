@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:20:23.2390863+03:00",
+  "updatedAt": "2026-10-13T21:20:34.8437051+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -459,6 +459,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/sirk-manevi-bir-hastaliktir/makale-kapak-ana-dosya-1280x720-810.jpg",
       "readingMinutes": 11,
       "file": "articles/sirk-manevi-bir-hastaliktir.json"
+    },
+    {
+      "id": "asiri-tuz-tuketimi-ve-yaslanma",
+      "title": "Aşırı Tuz Tüketimi ve Yaşlanma",
+      "publishedAt": "2026-07-19",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/asiri-tuz-tuketimi-ve-yaslanma/makale-kapak-ana-dosya-1280x720-1-777.jpg",
+      "readingMinutes": 5,
+      "file": "articles/asiri-tuz-tuketimi-ve-yaslanma.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
