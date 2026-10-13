@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:12:59.7441628+03:00",
+  "updatedAt": "2026-10-13T21:15:42.2222061+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -315,6 +315,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/insan-sevgiyle-yasar/kapak-ana-dosya-1280x720-276.jpg",
       "readingMinutes": 10,
       "file": "articles/insan-sevgiyle-yasar.json"
+    },
+    {
+      "id": "komunist-dusunce-gelenek-gorenekleri-ve-dini-hedef-alir",
+      "title": "Komünist Düşünce Gelenek-Görenekleri ve Dini Hedef Alır",
+      "publishedAt": "2026-08-17",
+      "category": "Diğer İnanç Ve Felsefelere Bakış",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/komunist-dusunce-gelenek-gorenekleri-ve-dini-hedef-alir/makale-kapak-ana-dosya-1280x720-738.jpg",
+      "readingMinutes": 4,
+      "file": "articles/komunist-dusunce-gelenek-gorenekleri-ve-dini-hedef-alir.json"
     },
     {
       "id": "muslumanlik-sevgi-samimiyet-nese-ve-canliliktir",
