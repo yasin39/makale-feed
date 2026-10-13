@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:51:29.6730417+03:00",
+  "updatedAt": "2026-10-13T07:51:46.9632266+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -522,6 +522,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2018/02/generated_amerikanin-gizli-tarihi-4-220.jpg",
       "readingMinutes": 6,
       "file": "articles/amerikanin-gizli-tarihi-4.json"
+    },
+    {
+      "id": "amerikanin-gizli-tarihi-5",
+      "title": "Amerika'nın gizli tarihi -5-",
+      "publishedAt": "2018-02-18",
+      "category": "Tarih, Politika Ve Strateji",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2018/02/generated_amerikanin-gizli-tarihi-5-972.jpg",
+      "readingMinutes": 7,
+      "file": "articles/amerikanin-gizli-tarihi-5.json"
     },
     {
       "id": "asiri-savunma-giderlerinin-dusundurdukleri",
