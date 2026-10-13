@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:18:45.694249+03:00",
+  "updatedAt": "2026-10-13T20:19:10.2454074+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -495,6 +495,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/03/868b95ca8bd97f38187ca12b6c0d9f02-864.jpg",
       "readingMinutes": 4,
       "file": "articles/hayati-alt-veya-ust-boyutta-yasamak.json"
+    },
+    {
+      "id": "bu-dunyada-uzun-sure-kalmayacaginizi-sakin-anlamazliktan-gelmeyin",
+      "title": "Bu Dünyada Uzun Süre Kalmayacağınızı Sakın Anlamazlıktan Gelmeyin",
+      "publishedAt": "2018-03-15",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/11/1q1q-131.jpg",
+      "readingMinutes": 10,
+      "file": "articles/bu-dunyada-uzun-sure-kalmayacaginizi-sakin-anlamazliktan-gelmeyin.json"
     },
     {
       "id": "insan-imtihan-olmaktadir",
