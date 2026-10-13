@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:09:57.3316889+03:00",
+  "updatedAt": "2026-10-13T21:10:06.6564001+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -279,6 +279,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/kur-an-in-tum-ayetleri-sevginin-formuludur/kapak-ana-dosya-1280x720-6-469.jpg",
       "readingMinutes": 7,
       "file": "articles/kur-an-in-her-ayeti-sevgiye-cagirir.json"
+    },
+    {
+      "id": "karamsarliktan-umuda-pozitif-bir-hayat-mumkun",
+      "title": "Karamsarlıktan Umuda: Pozitif Bir Hayat Mümkün",
+      "publishedAt": "2026-08-23",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/karamsarliktan-umuda-pozitif-bir-hayat-mumkun/kapak-ana-dosya-1280x720-488.jpg",
+      "readingMinutes": 6,
+      "file": "articles/karamsarliktan-umuda-pozitif-bir-hayat-mumkun.json"
     },
     {
       "id": "gencler-yalnizliktan-ve-manevi-bosluktan-nasil-kurtulabilir",
