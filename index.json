@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:42:26.7934428+03:00",
+  "updatedAt": "2026-10-13T20:43:27.5031476+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -225,6 +225,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi/kapak-ana-dosya-1280x720-3-651.jpg",
       "readingMinutes": 9,
       "file": "articles/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi.json"
+    },
+    {
+      "id": "aklin-gucu-Allah-la-baglantidan-gelir",
+      "title": "Aklın Gücü Allah'la Bağlantıdan Gelir",
+      "publishedAt": "2026-08-31",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/aklin-gucu-Allah-la-baglantidan-gelir/1-783.jpg",
+      "readingMinutes": 6,
+      "file": "articles/aklin-gucu-Allah-la-baglantidan-gelir.json"
     },
     {
       "id": "imtihanlar-gecer-hesap-gunundeki-kitabimiz-baki-kalir",
