@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:44:41.2852976+03:00",
+  "updatedAt": "2026-10-13T07:45:04.4214954+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -108,6 +108,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/dunyaya-ozgu-bir-istisna-oksijen/makale-kapak-alternatif-340.jpg",
       "readingMinutes": 8,
       "file": "articles/dunyaya-ozgu-bir-istisna-oksijen.json"
+    },
+    {
+      "id": "schrodinger-in-kedisi-gercek-mi-oluyor",
+      "title": "Schrödinger’in Kedisi Gerçek mi Oluyor?",
+      "publishedAt": "2026-10-04",
+      "category": "Maddenin Ardındaki Sır",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/schrodinger-in-kedisi-gercek-mi-oluyor/makale-kapak-alternatif-619.jpg",
+      "readingMinutes": 8,
+      "file": "articles/schrodinger-in-kedisi-gercek-mi-oluyor.json"
     },
     {
       "id": "yapay-zeka-dawkins-i-nasil-yalanliyor",
