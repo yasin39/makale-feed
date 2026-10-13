@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:15:42.2222061+03:00",
+  "updatedAt": "2026-10-13T21:15:59.1542068+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -315,6 +315,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/insan-sevgiyle-yasar/kapak-ana-dosya-1280x720-276.jpg",
       "readingMinutes": 10,
       "file": "articles/insan-sevgiyle-yasar.json"
+    },
+    {
+      "id": "bugunun-dunyasinin-ihtiyaci-asr-i-saadet-in-sevgi-anlayisi",
+      "title": "Bugünün Dünyasının İhtiyacı: Asr-ı Saadet’in Sevgi Anlayışı",
+      "publishedAt": "2026-08-17",
+      "category": "Sevgi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/bugunun-dunyasinin-ihtiyaci-asr-i-saadet-in-sevgi-anlayisi/2-794.jpg",
+      "readingMinutes": 7,
+      "file": "articles/bugunun-dunyasinin-ihtiyaci-asr-i-saadet-in-sevgi-anlayisi.json"
     },
     {
       "id": "komunist-dusunce-gelenek-gorenekleri-ve-dini-hedef-alir",
