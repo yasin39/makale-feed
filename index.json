@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:43:27.5031476+03:00",
+  "updatedAt": "2026-10-13T20:57:41.333043+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -261,6 +261,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/kuran-a-gore-ahirette-insani-kurtaracak-olan-nedir/kapak-ana-dosya-1280x720-4-428.jpg",
       "readingMinutes": 6,
       "file": "articles/kuran-a-gore-ahirette-insani-kurtaracak-olan-nedir.json"
+    },
+    {
+      "id": "guzel-ahlaki-gormek-ogrenmek-ve-yasamak",
+      "title": "Güzel Ahlakı Görmek, Öğrenmek ve Yaşamak",
+      "publishedAt": "2026-08-25",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/guzel-ahlaki-gormek-ogrenmek-ve-yasamak/kapak-ana-dosya-1280x720-1-407.jpg",
+      "readingMinutes": 8,
+      "file": "articles/guzel-ahlaki-gormek-ogrenmek-ve-yasamak.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
