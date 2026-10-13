@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:43:15.1574602+03:00",
+  "updatedAt": "2026-10-13T07:43:51.181897+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -279,6 +279,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/spring-day-celebration-with-beautiful-nature-374.png",
       "readingMinutes": 4,
       "file": "articles/mutlulugun-sirri-Allahin-nimetlerine-sukretmektir.json"
+    },
+    {
+      "id": "yapraklarin-icindeki-enerji-santrali",
+      "title": "Yaprakların İçindeki Enerji Santrali",
+      "publishedAt": "2026-02-12",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/yaprak-99.jpg",
+      "readingMinutes": 2,
+      "file": "articles/yapraklarin-icindeki-enerji-santrali.json"
     },
     {
       "id": "olum-yeni-bir-baslangictir",
