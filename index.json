@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:13:45.5105269+03:00",
+  "updatedAt": "2026-10-13T20:13:56.4788314+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -594,6 +594,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11438_bilgi_sahibi_olunmayan_bir_konunun_savunuculugunu_yapmamak.jpg",
       "readingMinutes": 2,
       "file": "articles/bilgi-sahibi-olunmayan-bir-konunun-savunuculugunu-yapmamak.json"
+    },
+    {
+      "id": "bineklere-binildiginde-allahin-nimetlerini-anmak",
+      "title": "Bineklere binildiğinde Allah’ın nimetlerini anmak",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11436_bineklere_binildiginde_Allah_in_nimetlerini_anmak.jpg",
+      "readingMinutes": 1,
+      "file": "articles/bineklere-binildiginde-allahin-nimetlerini-anmak.json"
     },
     {
       "id": "inkar-edenlerin-sahip-olduklari-zenginliklere-ozenmemek",
