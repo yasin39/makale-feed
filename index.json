@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:57:41.333043+03:00",
+  "updatedAt": "2026-10-13T20:58:15.8963517+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -270,6 +270,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/guzel-ahlaki-gormek-ogrenmek-ve-yasamak/kapak-ana-dosya-1280x720-1-407.jpg",
       "readingMinutes": 8,
       "file": "articles/guzel-ahlaki-gormek-ogrenmek-ve-yasamak.json"
+    },
+    {
+      "id": "kur-an-in-her-ayeti-sevgiye-cagirir",
+      "title": "Kur’an’ın Her Ayeti Sevgiye Çağırır",
+      "publishedAt": "2026-08-24",
+      "category": "Sevgi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/kur-an-in-tum-ayetleri-sevginin-formuludur/kapak-ana-dosya-1280x720-6-469.jpg",
+      "readingMinutes": 7,
+      "file": "articles/kur-an-in-her-ayeti-sevgiye-cagirir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
