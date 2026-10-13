@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:09:44.1933692+03:00",
+  "updatedAt": "2026-10-13T21:09:57.3316889+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -279,6 +279,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/kur-an-in-tum-ayetleri-sevginin-formuludur/kapak-ana-dosya-1280x720-6-469.jpg",
       "readingMinutes": 7,
       "file": "articles/kur-an-in-her-ayeti-sevgiye-cagirir.json"
+    },
+    {
+      "id": "gencler-yalnizliktan-ve-manevi-bosluktan-nasil-kurtulabilir",
+      "title": "Gençler Yalnızlıktan ve Manevi Boşluktan Nasıl Kurtulabilir?",
+      "publishedAt": "2026-08-22",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/gencler-yalnizlik-ve-manevi-bosluktan-nasil-kurtulabilir/kapak-ana-dosya-1280x720-1-965.jpg",
+      "readingMinutes": 5,
+      "file": "articles/gencler-yalnizliktan-ve-manevi-bosluktan-nasil-kurtulabilir.json"
     },
     {
       "id": "insan-sevgiyle-yasar",
