@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:14:58.7457598+03:00",
+  "updatedAt": "2026-10-13T20:15:10.3771049+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -621,6 +621,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11439_inkar_edenlerin_sahip_olduklari_zenginliklere_ve_yasam_sekillerine_ozenmemek.jpg",
       "readingMinutes": 2,
       "file": "articles/inkar-edenlerin-sahip-olduklari-zenginliklere-ozenmemek.json"
+    },
+    {
+      "id": "muminlere-karsi-tevazulu-inkarcilara-karsi-caydirici-olmak",
+      "title": "Müminlere karşı tevazulu, inkarcılara karşı caydırıcı olmak",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11432_muminlere_karsi_tevazulu_inkarcilara_karsi_sert_ve_caydirici_olmak.jpg",
+      "readingMinutes": 3,
+      "file": "articles/muminlere-karsi-tevazulu-inkarcilara-karsi-caydirici-olmak.json"
     },
     {
       "id": "muslumanlara-mujde-vermek",
