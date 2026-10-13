@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:18:23.6599777+03:00",
+  "updatedAt": "2026-10-13T20:18:45.694249+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -495,6 +495,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/03/868b95ca8bd97f38187ca12b6c0d9f02-864.jpg",
       "readingMinutes": 4,
       "file": "articles/hayati-alt-veya-ust-boyutta-yasamak.json"
+    },
+    {
+      "id": "insan-imtihan-olmaktadir",
+      "title": "İnsan imtihan olmaktadır",
+      "publishedAt": "2018-03-15",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/11/1q1q-recovered-513.jpg",
+      "readingMinutes": 3,
+      "file": "articles/insan-imtihan-olmaktadir.json"
     },
     {
       "id": "20-temmuz-kibris-baris-harekati-ve-kibris-davasi-1",
