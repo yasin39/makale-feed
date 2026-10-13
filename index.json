@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:32:58.0083278+03:00",
+  "updatedAt": "2026-10-13T20:42:26.7934428+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -243,6 +243,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/dua-Allah-la-kul-arasinda-ozel-bir-yakinlik-kilar/kapak-ana-dosya-1280x720-2-945.jpg",
       "readingMinutes": 5,
       "file": "articles/dua-Allah-la-kul-arasinda-ozel-bir-yakinlik-kilar.json"
+    },
+    {
+      "id": "kuran-a-gore-ahirette-insani-kurtaracak-olan-nedir",
+      "title": "Kuran'a Göre Ahirette İnsanı Kurtaracak Olan Nedir?",
+      "publishedAt": "2026-08-26",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/kuran-a-gore-ahirette-insani-kurtaracak-olan-nedir/kapak-ana-dosya-1280x720-4-428.jpg",
+      "readingMinutes": 6,
+      "file": "articles/kuran-a-gore-ahirette-insani-kurtaracak-olan-nedir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
