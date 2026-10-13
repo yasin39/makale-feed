@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:44:08.7427364+03:00",
+  "updatedAt": "2026-10-13T07:44:41.2852976+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -108,6 +108,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/dunyaya-ozgu-bir-istisna-oksijen/makale-kapak-alternatif-340.jpg",
       "readingMinutes": 8,
       "file": "articles/dunyaya-ozgu-bir-istisna-oksijen.json"
+    },
+    {
+      "id": "yapay-zeka-dawkins-i-nasil-yalanliyor",
+      "title": "Yapay Zeka Dawkins’i Nasıl Yalanlıyor?",
+      "publishedAt": "2026-10-04",
+      "category": "Evrim Teorisinin Çöküşü",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/yapay-zeka-dawkins-i-nasil-yalanliyor/makale-kapak-alternatif-3-108.jpg",
+      "readingMinutes": 8,
+      "file": "articles/yapay-zeka-dawkins-i-nasil-yalanliyor.json"
     },
     {
       "id": "kuran-oz-guvenin-nasil-kazanilacagini-aciklar",
