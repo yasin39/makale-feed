@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:10:17.8870231+03:00",
+  "updatedAt": "2026-10-13T21:12:59.7441628+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -315,6 +315,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/insan-sevgiyle-yasar/kapak-ana-dosya-1280x720-276.jpg",
       "readingMinutes": 10,
       "file": "articles/insan-sevgiyle-yasar.json"
+    },
+    {
+      "id": "muslumanlik-sevgi-samimiyet-nese-ve-canliliktir",
+      "title": "Müslümanlık; Sevgi, Samimiyet, Neşe ve Canlılıktır",
+      "publishedAt": "2026-08-17",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/muslumanlik-sevgi-samimiyet-nese-ve-canliliktir/kapak-ana-dosya-1280x720-2-45.jpg",
+      "readingMinutes": 11,
+      "file": "articles/muslumanlik-sevgi-samimiyet-nese-ve-canliliktir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
