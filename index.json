@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:58:15.8963517+03:00",
+  "updatedAt": "2026-10-13T21:09:44.1933692+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -279,6 +279,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/kur-an-in-tum-ayetleri-sevginin-formuludur/kapak-ana-dosya-1280x720-6-469.jpg",
       "readingMinutes": 7,
       "file": "articles/kur-an-in-her-ayeti-sevgiye-cagirir.json"
+    },
+    {
+      "id": "insan-sevgiyle-yasar",
+      "title": "İnsan Sevgiyle Yaşar",
+      "publishedAt": "2026-08-19",
+      "category": "Sevgi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/insan-sevgiyle-yasar/kapak-ana-dosya-1280x720-276.jpg",
+      "readingMinutes": 10,
+      "file": "articles/insan-sevgiyle-yasar.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
