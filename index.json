@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:17:59.7045348+03:00",
+  "updatedAt": "2026-10-13T21:18:14.7707868+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -387,6 +387,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/yalnizlik-ozgurluk-degil-manevi-bir-felakettir/1-848.jpg",
       "readingMinutes": 40,
       "file": "articles/yalnizlik-ozgurluk-degil-manevi-bir-felakettir.json"
+    },
+    {
+      "id": "gercek-sevginin-kaynagi-allah-korkusudur",
+      "title": "Gerçek Sevginin Kaynağı Allah Korkusudur",
+      "publishedAt": "2026-08-03",
+      "category": "Sevgi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/gercek-sevginin-kaynagi-allah-korkusudur/makale-kapak-ana-dosya-1280x720-403.jpg",
+      "readingMinutes": 8,
+      "file": "articles/gercek-sevginin-kaynagi-allah-korkusudur.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
