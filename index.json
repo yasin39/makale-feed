@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:16:41.6750467+03:00",
+  "updatedAt": "2026-10-13T21:16:50.9729072+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -351,6 +351,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/paleoantropolojinin-karanlik-yuzu-sahtekarliklar-ve-aldatmacalar/makale-kapak-ana-dosya-1280x720-736.jpg",
       "readingMinutes": 8,
       "file": "articles/paleoantropolojinin-karanlik-yuzu-sahtekarliklar-ve-aldatmacalar.json"
+    },
+    {
+      "id": "bir-yesil-yapragin-kuantum-hesabi",
+      "title": "Bir Yeşil Yaprağın Kuantum Hesabı",
+      "publishedAt": "2026-08-10",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/bir-yesil-yapragin-kuantum-hesabi/makale-kapak-ana-dosya-1280x720-2-529.jpg",
+      "readingMinutes": 3,
+      "file": "articles/bir-yesil-yapragin-kuantum-hesabi.json"
     },
     {
       "id": "hz-hizir-kissasindan-isaretler",
