@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:19:45.2614149+03:00",
+  "updatedAt": "2026-10-13T21:20:01.0358672+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -432,6 +432,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/kehf-ehlinin-sayisini-ve-magarada-kaldiklari-sureyi-allah-bilir/makale-kapak-ana-dosya-1280x720-524.jpg",
       "readingMinutes": 5,
       "file": "articles/kehf-ehlinin-sayisini-ve-magarada-kaldiklari-sureyi-allah-bilir.json"
+    },
+    {
+      "id": "teknolojinin-gercek-sahibi-kim",
+      "title": "Teknolojinin Gerçek Sahibi Kim?",
+      "publishedAt": "2026-07-28",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/teknolojinin-gercek-sahibi-kim/makale-kapak-ana-dosya-1280x720-1-295.jpg",
+      "readingMinutes": 4,
+      "file": "articles/teknolojinin-gercek-sahibi-kim.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
