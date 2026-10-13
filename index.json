@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:14:11.6760374+03:00",
+  "updatedAt": "2026-10-13T20:14:39.3773548+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -621,6 +621,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11435_muslumanlara_mujde_vermek.jpg",
       "readingMinutes": 2,
       "file": "articles/muslumanlara-mujde-vermek.json"
+    },
+    {
+      "id": "yalan-soylememek",
+      "title": "Yalan söylememek",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11443_yalan_soylememek.jpg",
+      "readingMinutes": 2,
+      "file": "articles/yalan-soylememek.json"
     }
   ]
 }
