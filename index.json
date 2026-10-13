@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:19:36.0325765+03:00",
+  "updatedAt": "2026-10-13T21:19:45.2614149+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -423,6 +423,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/dunyanin-binlerce-yildir-temizlenen-suyu/makale-kapak-ana-dosya-1280x720-136.jpg",
       "readingMinutes": 8,
       "file": "articles/dunyanin-binlerce-yildir-temizlenen-suyu.json"
+    },
+    {
+      "id": "kehf-ehlinin-sayisini-ve-magarada-kaldiklari-sureyi-allah-bilir",
+      "title": "Kehf Ehlinin Sayısını ve Mağarada Kaldıkları Süreyi Allah Bilir",
+      "publishedAt": "2026-07-30",
+      "category": "Kitap Ehli Ve Peygamberler",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/kehf-ehlinin-sayisini-ve-magarada-kaldiklari-sureyi-allah-bilir/makale-kapak-ana-dosya-1280x720-524.jpg",
+      "readingMinutes": 5,
+      "file": "articles/kehf-ehlinin-sayisini-ve-magarada-kaldiklari-sureyi-allah-bilir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
