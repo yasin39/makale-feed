@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:18:14.7707868+03:00",
+  "updatedAt": "2026-10-13T21:18:26.1856592+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -396,6 +396,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/gercek-sevginin-kaynagi-allah-korkusudur/makale-kapak-ana-dosya-1280x720-403.jpg",
       "readingMinutes": 8,
       "file": "articles/gercek-sevginin-kaynagi-allah-korkusudur.json"
+    },
+    {
+      "id": "madde-her-an-nasil-yeniden-yaratiliyor",
+      "title": "Madde Her An Nasıl Yeniden Yaratılıyor?",
+      "publishedAt": "2026-08-01",
+      "category": "Maddenin Ardındaki Sır",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/madde-her-an-nasil-yeniden-yaratiliyor/makale-kapak-ana-dosya-1280x720-169.jpg",
+      "readingMinutes": 4,
+      "file": "articles/madde-her-an-nasil-yeniden-yaratiliyor.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
