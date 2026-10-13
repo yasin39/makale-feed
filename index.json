@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:20:13.213577+03:00",
+  "updatedAt": "2026-10-13T21:20:23.2390863+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -450,6 +450,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/dua-ettikce-hakikatin-perdeleri-nasil-acilir/makale-kapak-ana-dosya-1280x720-650.jpg",
       "readingMinutes": 8,
       "file": "articles/dua-ettikce-hakikatin-perdeleri-nasil-acilir.json"
+    },
+    {
+      "id": "sirk-manevi-bir-hastaliktir",
+      "title": "Şirk Manevi Bir Hastalıktır",
+      "publishedAt": "2026-07-22",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/sirk-manevi-bir-hastaliktir/makale-kapak-ana-dosya-1280x720-810.jpg",
+      "readingMinutes": 11,
+      "file": "articles/sirk-manevi-bir-hastaliktir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
