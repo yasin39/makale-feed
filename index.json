@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:10:06.6564001+03:00",
+  "updatedAt": "2026-10-13T21:10:17.8870231+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -279,6 +279,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/kur-an-in-tum-ayetleri-sevginin-formuludur/kapak-ana-dosya-1280x720-6-469.jpg",
       "readingMinutes": 7,
       "file": "articles/kur-an-in-her-ayeti-sevgiye-cagirir.json"
+    },
+    {
+      "id": "sindirim-sistemindeki-kusursuz-yaratilis",
+      "title": "Sindirim Sistemindeki Kusursuz Yaratılış",
+      "publishedAt": "2026-08-24",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/sindirim-sistemindeki-kusursuz-yaratilis/kapak-ana-dosya-1280x720-1-104.jpg",
+      "readingMinutes": 4,
+      "file": "articles/sindirim-sistemindeki-kusursuz-yaratilis.json"
     },
     {
       "id": "karamsarliktan-umuda-pozitif-bir-hayat-mumkun",
