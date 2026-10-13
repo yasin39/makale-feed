@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:45:32.0421425+03:00",
+  "updatedAt": "2026-10-13T07:46:20.2949752+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -153,6 +153,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gunes-isini-nasil-vitamine-donusuyor/adsiz-tasarim-569.jpg",
       "readingMinutes": 3,
       "file": "articles/gunes-isini-nasil-vitamine-donusuyor.json"
+    },
+    {
+      "id": "ahtapotlarin-hayranlik-uyandiran-kamuflaji",
+      "title": "Ahtapotların Hayranlık Uyandıran Kamuflajı",
+      "publishedAt": "2026-09-30",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/ahtapotlarin-hayranlik-uyandiran-kamuflaji/adsiz-tasarim-1-597.jpg",
+      "readingMinutes": 7,
+      "file": "articles/ahtapotlarin-hayranlik-uyandiran-kamuflaji.json"
     },
     {
       "id": "mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir",
