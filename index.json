@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:14:39.3773548+03:00",
+  "updatedAt": "2026-10-13T20:14:58.7457598+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -585,6 +585,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8341_asiri_savunma_giderlerinin_dusundukleri.jpg",
       "readingMinutes": 5,
       "file": "articles/asiri-savunma-giderlerinin-dusundurdukleri.json"
+    },
+    {
+      "id": "allahin-rahmetinden-umut-kesmemek-68609_3002",
+      "title": "Allah'ın rahmetinden umut kesmemek",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11442_Allah_in_rahmetinden_umut_kesmemek.jpg",
+      "readingMinutes": 2,
+      "file": "articles/allahin-rahmetinden-umut-kesmemek-68609_3002.json"
     },
     {
       "id": "bilgi-sahibi-olunmayan-bir-konunun-savunuculugunu-yapmamak",
