@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:49:58.8076352+03:00",
+  "updatedAt": "2026-10-13T07:50:15.1965269+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -504,6 +504,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8516_Ahtapotun_kollari_Avrupayi_saiiyor.jpg",
       "readingMinutes": 6,
       "file": "articles/ahtapotun-kollari-avrupayi-sariyor.json"
+    },
+    {
+      "id": "asiri-savunma-giderlerinin-dusundurdukleri",
+      "title": "Aşırı savunma giderlerinin düşündürdükleri",
+      "publishedAt": "2018-02-18",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8341_asiri_savunma_giderlerinin_dusundukleri.jpg",
+      "readingMinutes": 5,
+      "file": "articles/asiri-savunma-giderlerinin-dusundurdukleri.json"
     }
   ]
 }
