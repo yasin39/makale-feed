@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:53:42.3016354+03:00",
+  "updatedAt": "2026-10-13T07:54:01.4615703+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -531,6 +531,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8331_21_yuzyilin_gercek_tarihi.jpg",
       "readingMinutes": 5,
       "file": "articles/21-yuzyilin-gercek-tarihi_1856.json"
+    },
+    {
+      "id": "21-yy-turkiyenin-altin-cagi-olacak",
+      "title": "21. yy. Türkiye’nin altın çağı olacak",
+      "publishedAt": "2018-02-18",
+      "category": "Tarih, Politika Ve Strateji",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/6-makaleler/8754_21_yy_Turkiyenin_altin_cagi_olacak.jpg",
+      "readingMinutes": 3,
+      "file": "articles/21-yy-turkiyenin-altin-cagi-olacak.json"
     },
     {
       "id": "ahtapotun-kollari-avrupayi-sariyor",
