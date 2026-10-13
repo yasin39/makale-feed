@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:17:03.0662908+03:00",
+  "updatedAt": "2026-10-13T20:17:21.4579551+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -630,6 +630,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11441_bir_sey_unutuldugunda_Allah_i_zikretmek.jpg",
       "readingMinutes": 2,
       "file": "articles/bir-sey-unutuldugunda-allahi-zikretmek.json"
+    },
+    {
+      "id": "bir-topluluga-karsi-duyulan-kinin-adaletten-alikoymamasi",
+      "title": "Bir topluluğa karşı duyulan kinin adaletten alıkoymaması",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11434_bir_topluluga_karsi_duyulan_kinin_adaletten_alikoymamasi.jpg",
+      "readingMinutes": 2,
+      "file": "articles/bir-topluluga-karsi-duyulan-kinin-adaletten-alikoymamasi.json"
     },
     {
       "id": "ibadette-kararli-olmak-2",
