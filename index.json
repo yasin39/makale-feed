@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:17:19.4128148+03:00",
+  "updatedAt": "2026-10-13T21:17:50.1882845+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -369,6 +369,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/hz-hizir-kissasindan-isaretler/makale-kapak-ana-dosya-1280x720-2-81.jpg",
       "readingMinutes": 34,
       "file": "articles/hz-hizir-kissasindan-isaretler.json"
+    },
+    {
+      "id": "mutlak-kudret-ve-buyukluk-yalnizca-Allah-a-aittir",
+      "title": "Mutlak Kudret ve Büyüklük Yalnızca Allah’a Aittir",
+      "publishedAt": "2026-08-06",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/gozde-buyutulecek-yalnizca-Allah-tir/19-597.jpg",
+      "readingMinutes": 8,
+      "file": "articles/mutlak-kudret-ve-buyukluk-yalnizca-Allah-a-aittir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
