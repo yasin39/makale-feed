@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:13:56.4788314+03:00",
+  "updatedAt": "2026-10-13T20:14:11.6760374+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -612,6 +612,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11439_inkar_edenlerin_sahip_olduklari_zenginliklere_ve_yasam_sekillerine_ozenmemek.jpg",
       "readingMinutes": 2,
       "file": "articles/inkar-edenlerin-sahip-olduklari-zenginliklere-ozenmemek.json"
+    },
+    {
+      "id": "muslumanlara-mujde-vermek",
+      "title": "Müslümanlara müjde vermek",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11435_muslumanlara_mujde_vermek.jpg",
+      "readingMinutes": 2,
+      "file": "articles/muslumanlara-mujde-vermek.json"
     }
   ]
 }
