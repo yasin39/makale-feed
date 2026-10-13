@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:15:59.1542068+03:00",
+  "updatedAt": "2026-10-13T21:16:17.8543522+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -342,6 +342,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/muslumanlik-sevgi-samimiyet-nese-ve-canliliktir/kapak-ana-dosya-1280x720-2-45.jpg",
       "readingMinutes": 11,
       "file": "articles/muslumanlik-sevgi-samimiyet-nese-ve-canliliktir.json"
+    },
+    {
+      "id": "paleoantropolojinin-karanlik-yuzu-sahtekarliklar-ve-aldatmacalar",
+      "title": "Paleoantropolojinin Karanlık Yüzü: Sahtekarlıklar ve Aldatmacalar",
+      "publishedAt": "2026-08-15",
+      "category": "Evrim Teorisinin Çöküşü",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/paleoantropolojinin-karanlik-yuzu-sahtekarliklar-ve-aldatmacalar/makale-kapak-ana-dosya-1280x720-736.jpg",
+      "readingMinutes": 8,
+      "file": "articles/paleoantropolojinin-karanlik-yuzu-sahtekarliklar-ve-aldatmacalar.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
