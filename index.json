@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:15:41.5946996+03:00",
+  "updatedAt": "2026-10-13T20:16:13.8357049+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -612,6 +612,15 @@
       "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11436_bineklere_binildiginde_Allah_in_nimetlerini_anmak.jpg",
       "readingMinutes": 1,
       "file": "articles/bineklere-binildiginde-allahin-nimetlerini-anmak.json"
+    },
+    {
+      "id": "bir-sey-unutuldugunda-allahi-zikretmek",
+      "title": "Bir şey unutulduğunda Allah'ı zikretmek",
+      "publishedAt": "2017-08-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/Image/objects/41-gozardi-edilen-Kuran-hukumleri/11441_bir_sey_unutuldugunda_Allah_i_zikretmek.jpg",
+      "readingMinutes": 2,
+      "file": "articles/bir-sey-unutuldugunda-allahi-zikretmek.json"
     },
     {
       "id": "ibadette-kararli-olmak-2",
