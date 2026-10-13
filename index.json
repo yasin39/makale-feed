@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:18:26.1856592+03:00",
+  "updatedAt": "2026-10-13T21:19:25.2564259+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -396,6 +396,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/gercek-sevginin-kaynagi-allah-korkusudur/makale-kapak-ana-dosya-1280x720-403.jpg",
       "readingMinutes": 8,
       "file": "articles/gercek-sevginin-kaynagi-allah-korkusudur.json"
+    },
+    {
+      "id": "iman-edenlere-yapilan-saldiri-ve-iftiralarin-gercek-nedeni",
+      "title": "İman Edenlere Yapılan Saldırı ve İftiraların Gerçek Nedeni",
+      "publishedAt": "2026-08-01",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/iman-edenlere-yapilan-saldiri-ve-iftiralarin-gercek-nedeni/makale-kapak-ana-dosya-1280x720-3-451.jpg",
+      "readingMinutes": 5,
+      "file": "articles/iman-edenlere-yapilan-saldiri-ve-iftiralarin-gercek-nedeni.json"
     },
     {
       "id": "madde-her-an-nasil-yeniden-yaratiliyor",
