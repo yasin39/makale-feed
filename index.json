@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:17:50.1882845+03:00",
+  "updatedAt": "2026-10-13T21:17:59.7045348+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -378,6 +378,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/gozde-buyutulecek-yalnizca-Allah-tir/19-597.jpg",
       "readingMinutes": 8,
       "file": "articles/mutlak-kudret-ve-buyukluk-yalnizca-Allah-a-aittir.json"
+    },
+    {
+      "id": "yalnizlik-ozgurluk-degil-manevi-bir-felakettir",
+      "title": "Yalnızlık Özgürlük Değil, Manevi Bir Felakettir",
+      "publishedAt": "2026-08-04",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/yalnizlik-ozgurluk-degil-manevi-bir-felakettir/1-848.jpg",
+      "readingMinutes": 40,
+      "file": "articles/yalnizlik-ozgurluk-degil-manevi-bir-felakettir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
