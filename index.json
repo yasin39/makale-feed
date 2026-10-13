@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:42:22.6402448+03:00",
+  "updatedAt": "2026-10-13T07:42:49.560415+03:00",
   "articles": [
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
@@ -9,6 +9,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/engel-tanimayan-hayalet-parcaciklar/makale-kapak-etobur-bitkiler1-244.jpg",
       "readingMinutes": 4,
       "file": "articles/engel-tanimayan-hayalet-parcaciklar.json"
+    },
+    {
+      "id": "gunes-firtinalari",
+      "title": "Güneş Fırtınaları",
+      "publishedAt": "2026-10-12",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gunes-firtinalari/makale-kapak-etobur-bitkiler1-2-820.jpg",
+      "readingMinutes": 13,
+      "file": "articles/gunes-firtinalari.json"
     },
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
