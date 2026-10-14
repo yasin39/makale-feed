@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:30:48.4216928+03:00",
+  "updatedAt": "2026-10-15T00:30:54.7949814+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -630,6 +630,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/tamgmgyet-huzel-bhlakgn-lapgsgdgr/makale-kapak-ana-dosya-1280x720-331.jpg",
       "readingMinutes": 8,
       "file": "articles/samimiyet-guzel-ahlakin-kapisidir.json"
+    },
+    {
+      "id": "gercek-ask-ve-tutku-Allahin-muminlere-has-yarattigi-duygulardir",
+      "title": "Gerçek Aşk ve Tutku, Allah’ın Müminlere Has Yarattığı Duygulardır",
+      "publishedAt": "2026-06-22",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/hercek-bsk-ve-uutku-bllahgn-numgnlere-gas-zarattggg-euygulardgr/makale-kapak-ana-dosya-1280x720-198.jpg",
+      "readingMinutes": 8,
+      "file": "articles/gercek-ask-ve-tutku-Allahin-muminlere-has-yarattigi-duygulardir.json"
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
