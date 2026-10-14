@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:36:12.9182756+03:00",
+  "updatedAt": "2026-10-15T00:36:20.5102564+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -819,6 +819,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/kapak-denemeler-1280-x-720-piksel-419.jpg",
       "readingMinutes": 5,
       "file": "articles/musluman-dunyaperestlikten-uzak-durmalidir.json"
+    },
+    {
+      "id": "muslumanlara-karsi-mucadele-edenlerin-degismeyen-ozellikleri",
+      "title": "Müslümanlara Karşı Mücadele Edenlerin Değişmeyen Özellikleri",
+      "publishedAt": "2026-03-28",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/muslumanlarakarsiyazisiz1280x720-445.jpg",
+      "readingMinutes": 9,
+      "file": "articles/muslumanlara-karsi-mucadele-edenlerin-degismeyen-ozellikleri.json"
     },
     {
       "id": "musluman-hayirda-aceleci-olmalidir",
