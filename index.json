@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-13T21:20:42.9214267+03:00",
+  "updatedAt": "2026-10-14T21:10:13.155596+03:00",
   "articles": [
+    {
+      "id": "zalimlige-duyulan-hayranligin-ardindaki-yanilgi",
+      "title": "Zalimliğe Duyulan Hayranlığın Ardındaki Yanılgı",
+      "publishedAt": "2026-10-13",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/zalimlige-duyulan-hayranligin-ardindaki-yanilgi/1-695.jpg",
+      "readingMinutes": 18,
+      "file": "articles/zalimlige-duyulan-hayranligin-ardindaki-yanilgi.json"
+    },
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
       "title": "Engel Tanımayan Hayalet Parçacıklar",
