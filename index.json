@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:44:18.1878816+03:00",
+  "updatedAt": "2026-10-15T00:44:33.6945047+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -900,6 +900,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/yaprak-99.jpg",
       "readingMinutes": 2,
       "file": "articles/yapraklarin-icindeki-enerji-santrali.json"
+    },
+    {
+      "id": "zamana-bagli-sonsuza-acilan-ibadetler",
+      "title": "Zamana Bağlı, Sonsuza Açılan İbadetler",
+      "publishedAt": "2026-02-10",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/02/zaman-916.jpg",
+      "readingMinutes": 9,
+      "file": "articles/zamana-bagli-sonsuza-acilan-ibadetler.json"
     },
     {
       "id": "atmosferi-taklit-cabasi-ve-biyosfer-projesinin-husrani",
