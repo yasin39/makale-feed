@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:43:50.0081381+03:00",
+  "updatedAt": "2026-10-15T00:44:04.5015019+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -864,6 +864,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/god-1-664.jpg",
       "readingMinutes": 6,
       "file": "articles/din-guzel-ahlaktir-sevgidir.json"
+    },
+    {
+      "id": "Allah-her-seyi-sarip-kusatandir",
+      "title": "Allah Her Şeyi Sarıp Kuşatandır",
+      "publishedAt": "2026-02-28",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/dizan-bez-nazvaniya-1-964.jpg",
+      "readingMinutes": 7,
+      "file": "articles/Allah-her-seyi-sarip-kusatandir.json"
     },
     {
       "id": "Allahi-hakkiyla-sevmek",
