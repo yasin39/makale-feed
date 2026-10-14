@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:30:54.7949814+03:00",
+  "updatedAt": "2026-10-15T00:31:24.350404+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -639,6 +639,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/hercek-bsk-ve-uutku-bllahgn-numgnlere-gas-zarattggg-euygulardgr/makale-kapak-ana-dosya-1280x720-198.jpg",
       "readingMinutes": 8,
       "file": "articles/gercek-ask-ve-tutku-Allahin-muminlere-has-yarattigi-duygulardir.json"
+    },
+    {
+      "id": "futbol-ile-kitleleri-kazanmak-2",
+      "title": "Futbol İle Kitleleri Kazanmak",
+      "publishedAt": "2026-06-19",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/futbol-gle-kgtlelerg-kazanmak_8003/makale-kapak-ana-dosya-1280x720-300.jpg",
+      "readingMinutes": 6,
+      "file": "articles/futbol-ile-kitleleri-kazanmak-2.json"
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
