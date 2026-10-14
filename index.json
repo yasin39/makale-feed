@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:31:55.6545383+03:00",
+  "updatedAt": "2026-10-15T00:32:16.7083726+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -675,6 +675,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-613.jpg",
       "readingMinutes": 7,
       "file": "articles/dogru-kararlar-almanin-yolu-samimi-olmaktir.json"
+    },
+    {
+      "id": "bediuzzaman-said-nursi-ve-talebelerine-yonelik-baskilar-iftiralar-ve-yargilamalar",
+      "title": "Bediüzzaman Said Nursi ve Talebelerine Yönelik Baskılar, İftiralar ve Yargılamalar",
+      "publishedAt": "2026-05-31",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-352.jpg",
+      "readingMinutes": 27,
+      "file": "articles/bediuzzaman-said-nursi-ve-talebelerine-yonelik-baskilar-iftiralar-ve-yargilamalar.json"
     },
     {
       "id": "kulli-irade-de-cuzi-irade-de-Allaha-aittir",
