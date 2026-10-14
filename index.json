@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:50:21.9747438+03:00",
+  "updatedAt": "2026-10-15T00:50:37.5805639+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -999,6 +999,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/11/76-119.jpg",
       "readingMinutes": 3,
       "file": "articles/vefa-fedakarlik-sabir-ve-kaliteye-ulasmanin-yolu-sevgidir.json"
+    },
+    {
+      "id": "sevginin-insandaki-pozitif-etkisi_7995",
+      "title": "Sevginin İnsandaki Pozitif Etkisi",
+      "publishedAt": "2025-11-07",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-3-354.jpg",
+      "readingMinutes": 3,
+      "file": "articles/sevginin-insandaki-pozitif-etkisi_7995.json"
     },
     {
       "id": "derin-iman-sahiplerine-has-luks-sevgi",
