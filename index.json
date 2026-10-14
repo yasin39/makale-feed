@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:34:55.6855733+03:00",
+  "updatedAt": "2026-10-15T00:35:11.3001036+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -765,6 +765,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/1-3.jpg",
       "readingMinutes": 2,
       "file": "articles/kuran-i-kerimde-termodinamik-isaretler.json"
+    },
+    {
+      "id": "okullarda-artan-siddet-nasil-durdurulabilir",
+      "title": "Okullarda Artan Şiddet Nasıl Durdurulabilir?",
+      "publishedAt": "2026-04-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/kuranda-sefkat-ve-adalet-4-593.jpg",
+      "readingMinutes": 6,
+      "file": "articles/okullarda-artan-siddet-nasil-durdurulabilir.json"
     },
     {
       "id": "dikkat-farz-olan-bir-ibadettir",
