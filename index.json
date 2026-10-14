@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:26:13.5641579+03:00",
+  "updatedAt": "2026-10-15T00:26:27.2348264+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -270,6 +270,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi/kapak-ana-dosya-1280x720-3-651.jpg",
       "readingMinutes": 9,
       "file": "articles/imanin-hayata-yansiyan-guzelligi-ruh-kalitesi.json"
+    },
+    {
+      "id": "insan-kendisini-yeterli-gordugunde-neler-olur",
+      "title": "İnsan Kendisini Yeterli Gördüğünde Neler Olur?",
+      "publishedAt": "2026-09-01",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/insan-kendisini-yeterli-gordugunde-neler-olur/3-559.jpg",
+      "readingMinutes": 7,
+      "file": "articles/insan-kendisini-yeterli-gordugunde-neler-olur.json"
     },
     {
       "id": "aklin-gucu-Allah-la-baglantidan-gelir",
