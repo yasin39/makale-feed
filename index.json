@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:25:41.1073768+03:00",
+  "updatedAt": "2026-10-15T00:25:57.4079243+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -243,6 +243,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/felaket-gelmeden-gercegi-gormek/adsiz-tasarim-315.jpg",
       "readingMinutes": 6,
       "file": "articles/felaket-gelmeden-gercegi-gormek.json"
+    },
+    {
+      "id": "bagisiklik-sistemi-Allah-in-insan-bedenindeki-muhtesem-koruma-mekanizmasi",
+      "title": "Bağışıklık Sistemi: Allah’ın İnsan Bedenindeki Muhteşem Koruma Mekanizması",
+      "publishedAt": "2026-09-09",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/bagisiklik-sistemi-Allah-in-insan-bedenindeki-muhtesem-koruma-mekanizmasi/kapak-ana-dosya-1280x720-322.jpg",
+      "readingMinutes": 5,
+      "file": "articles/bagisiklik-sistemi-Allah-in-insan-bedenindeki-muhtesem-koruma-mekanizmasi.json"
     },
     {
       "id": "bugun-en-cok-hangi-konuyu-dusundunuz",
