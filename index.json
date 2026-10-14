@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:33:42.6950526+03:00",
+  "updatedAt": "2026-10-15T00:34:21.3422831+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -729,6 +729,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/manzara-1-110.jpg",
       "readingMinutes": 5,
       "file": "articles/Allaha-teslimiyetin-sirri.json"
+    },
+    {
+      "id": "imtihan-Allahin-adaletine-teslim-olunca-kolaylasir",
+      "title": "İmtihan, Allah’ın Adaletine Teslim Olunca Kolaylaşır",
+      "publishedAt": "2026-05-04",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-574.jpg",
+      "readingMinutes": 5,
+      "file": "articles/imtihan-Allahin-adaletine-teslim-olunca-kolaylasir.json"
     },
     {
       "id": "mumin-ruh-tamir-ustadidir",
