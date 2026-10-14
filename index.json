@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:30:10.0978066+03:00",
+  "updatedAt": "2026-10-15T00:30:30.369297+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -603,6 +603,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/bllah-tevggsgne-eayanan-hercek-tevgg-bsla-uukenmez/makale-kapak-ana-dosya-1280x720-1-983.jpg",
       "readingMinutes": 9,
       "file": "articles/Allah-sevgisine-dayanan-gercek-sevgi-asla-tukenmez.json"
+    },
+    {
+      "id": "Allahi-geregi-gibi-tanimak-neden-onemlidir",
+      "title": "Allah’ı Gereği Gibi Tanımak Neden Önemlidir?",
+      "publishedAt": "2026-06-26",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/bllahg-heregg-hgbg-uangmak-oeden-cnemlgdgr/5-118.jpg",
+      "readingMinutes": 10,
+      "file": "articles/Allahi-geregi-gibi-tanimak-neden-onemlidir.json"
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
