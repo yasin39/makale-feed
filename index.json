@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:32:16.7083726+03:00",
+  "updatedAt": "2026-10-15T00:32:34.6694651+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -684,6 +684,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-352.jpg",
       "readingMinutes": 27,
       "file": "articles/bediuzzaman-said-nursi-ve-talebelerine-yonelik-baskilar-iftiralar-ve-yargilamalar.json"
+    },
+    {
+      "id": "hesap-gunu-pisman-olmak-fayda-vermeyecektir",
+      "title": "Hesap Günü Pişman Olmak Fayda Vermeyecektir",
+      "publishedAt": "2026-05-29",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-509.jpg",
+      "readingMinutes": 5,
+      "file": "articles/hesap-gunu-pisman-olmak-fayda-vermeyecektir.json"
     },
     {
       "id": "kulli-irade-de-cuzi-irade-de-Allaha-aittir",
