@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:32:34.6694651+03:00",
+  "updatedAt": "2026-10-15T00:32:45.2832868+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -693,6 +693,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-509.jpg",
       "readingMinutes": 5,
       "file": "articles/hesap-gunu-pisman-olmak-fayda-vermeyecektir.json"
+    },
+    {
+      "id": "Allahin-dilemesi-her-seyin-uzerindedir",
+      "title": "Allah’ın Dilemesi Her Şeyin Üzerindedir",
+      "publishedAt": "2026-05-28",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-889.jpg",
+      "readingMinutes": 7,
+      "file": "articles/Allahin-dilemesi-her-seyin-uzerindedir.json"
     },
     {
       "id": "kulli-irade-de-cuzi-irade-de-Allaha-aittir",
