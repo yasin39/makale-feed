@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:34:28.0863822+03:00",
+  "updatedAt": "2026-10-15T00:34:34.7185089+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -747,6 +747,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-5-708.jpg",
       "readingMinutes": 6,
       "file": "articles/mumin-ruh-tamir-ustadidir.json"
+    },
+    {
+      "id": "Allaha-teslimiyet",
+      "title": "Allah’a Teslimiyet",
+      "publishedAt": "2026-04-30",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/Allaha-teslimiyet/adsiz-tasarim-96.jpg",
+      "readingMinutes": 6,
+      "file": "articles/Allaha-teslimiyet.json"
     },
     {
       "id": "dikkat-farz-olan-bir-ibadettir",
