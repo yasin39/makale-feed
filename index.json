@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:25:23.6554346+03:00",
+  "updatedAt": "2026-10-15T00:25:41.1073768+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -225,6 +225,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir/2-523.jpg",
       "readingMinutes": 11,
       "file": "articles/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir.json"
+    },
+    {
+      "id": "Allah-in-kuran-daki-vaatlerine-ve-uyarilarina-ulfetle-bakmaktan-kacinmak",
+      "title": "Allah’ın Kuran'daki Vaatlerine ve Uyarılarına Ülfetle Bakmaktan Kaçınmak",
+      "publishedAt": "2026-09-10",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/Allah-in-kuran-daki-vaatlerine-ve-uyarilarina-ulfetle-bakmaktan-kacinmak/kapak-ana-dosya-1280x720-3-823.jpg",
+      "readingMinutes": 6,
+      "file": "articles/Allah-in-kuran-daki-vaatlerine-ve-uyarilarina-ulfetle-bakmaktan-kacinmak.json"
     },
     {
       "id": "felaket-gelmeden-gercegi-gormek",
