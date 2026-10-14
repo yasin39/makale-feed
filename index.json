@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-14T21:10:13.155596+03:00",
+  "updatedAt": "2026-10-14T21:10:27.4613046+03:00",
   "articles": [
+    {
+      "id": "ustunluk-tutkusu",
+      "title": "Üstünlük Tutkusu",
+      "publishedAt": "2026-10-13",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/ustunluk-tutkusu/makale-kapakgunes-1-891.jpg",
+      "readingMinutes": 9,
+      "file": "articles/ustunluk-tutkusu.json"
+    },
     {
       "id": "zalimlige-duyulan-hayranligin-ardindaki-yanilgi",
       "title": "Zalimliğe Duyulan Hayranlığın Ardındaki Yanılgı",
