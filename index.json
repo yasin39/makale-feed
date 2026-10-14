@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:30:39.7373353+03:00",
+  "updatedAt": "2026-10-15T00:30:48.4216928+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -621,6 +621,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/eergden-lalbe-luranda-arperme-nucgzesg/makale-kapak-ana-dosya-1280x720-712.jpg",
       "readingMinutes": 4,
       "file": "articles/deriden-kalbe-kuranda-urperme-mucizesi-makale.json"
+    },
+    {
+      "id": "samimiyet-guzel-ahlakin-kapisidir",
+      "title": "Samimiyet Güzel Ahlakın Kapısıdır",
+      "publishedAt": "2026-06-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/tamgmgyet-huzel-bhlakgn-lapgsgdgr/makale-kapak-ana-dosya-1280x720-331.jpg",
+      "readingMinutes": 8,
+      "file": "articles/samimiyet-guzel-ahlakin-kapisidir.json"
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
