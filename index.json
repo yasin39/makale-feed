@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:51:10.2558035+03:00",
+  "updatedAt": "2026-10-15T00:51:29.9504303+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -1035,6 +1035,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/04/makale-kapak-versiyon_-ebat-403.jpg",
       "readingMinutes": 9,
       "file": "articles/mutlulugun-tek-yolu-Allahi-ve-tecellilerini-sevmektir.json"
+    },
+    {
+      "id": "muslumanlarda-dayanisma-ve-birligin-onemi",
+      "title": "Müslümanlarda Dayanışma ve Birliğin Önemi",
+      "publishedAt": "2025-10-06",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/10/birlesen-eller-min-750x430-574.jpg",
+      "readingMinutes": 6,
+      "file": "articles/muslumanlarda-dayanisma-ve-birligin-onemi.json"
     },
     {
       "id": "tevazu-sevginin-anahtaridir",
