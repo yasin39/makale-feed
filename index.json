@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:51:49.9435745+03:00",
+  "updatedAt": "2026-10-15T00:54:23.0440766+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -1080,6 +1080,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/orange-grey-white-black-modern-minimalist-marketing-agency-business-facebook-ads-235.jpg",
       "readingMinutes": 7,
       "file": "articles/muminlerin-mutlak-velisi-Allahtir.json"
+    },
+    {
+      "id": "siradan-gorunen-bir-olayda-beklenmedik-bir-ders-olabilir",
+      "title": "Sıradan Görünen Bir Olayda Beklenmedik Bir Ders Olabilir",
+      "publishedAt": "2025-07-13",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/07/cocuk-706.jpg",
+      "readingMinutes": 6,
+      "file": "articles/siradan-gorunen-bir-olayda-beklenmedik-bir-ders-olabilir.json"
     },
     {
       "id": "cennete-girisin-anahtari-mutmain-nefis",
