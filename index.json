@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:50:37.5805639+03:00",
+  "updatedAt": "2026-10-15T00:51:00.0086932+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -1017,6 +1017,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-944.jpg",
       "readingMinutes": 5,
       "file": "articles/derin-iman-sahiplerine-has-luks-sevgi.json"
+    },
+    {
+      "id": "cenneti-cennet-yapan-sevgidir",
+      "title": "Cenneti Cennet Yapan Sevgidir",
+      "publishedAt": "2025-10-20",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-2-60.jpg",
+      "readingMinutes": 4,
+      "file": "articles/cenneti-cennet-yapan-sevgidir.json"
     },
     {
       "id": "tevazu-sevginin-anahtaridir",
