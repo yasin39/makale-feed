@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:31:47.9452472+03:00",
+  "updatedAt": "2026-10-15T00:31:55.6545383+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -666,6 +666,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/islamda-sevgi-baglilik-ve-yakinlik-olcusu-soy-degil-takvadir/makale-kapak-ana-dosya-1280x720-3-937.jpg",
       "readingMinutes": 13,
       "file": "articles/islamda-sevgi-baglilik-ve-yakinlik-olcusu-soy-degil-takvadir.json"
+    },
+    {
+      "id": "dogru-kararlar-almanin-yolu-samimi-olmaktir",
+      "title": "Doğru Kararlar Almanın Yolu Samimi Olmaktır",
+      "publishedAt": "2026-06-05",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-613.jpg",
+      "readingMinutes": 7,
+      "file": "articles/dogru-kararlar-almanin-yolu-samimi-olmaktir.json"
     },
     {
       "id": "kulli-irade-de-cuzi-irade-de-Allaha-aittir",
