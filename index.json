@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:36:27.7295588+03:00",
+  "updatedAt": "2026-10-15T00:43:35.9901922+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -828,6 +828,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/muslumanlarakarsiyazisiz1280x720-445.jpg",
       "readingMinutes": 9,
       "file": "articles/muslumanlara-karsi-mucadele-edenlerin-degismeyen-ozellikleri.json"
+    },
+    {
+      "id": "islamiyet-bilim-ve-teknolojiye-nasil-yon-verdi",
+      "title": "İslamiyet Bilim ve Teknolojiye Nasıl Yön Verdi?",
+      "publishedAt": "2026-03-26",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/2-731.jpg",
+      "readingMinutes": 7,
+      "file": "articles/islamiyet-bilim-ve-teknolojiye-nasil-yon-verdi.json"
     },
     {
       "id": "musluman-hayirda-aceleci-olmalidir",
