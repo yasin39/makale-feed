@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:35:11.3001036+03:00",
+  "updatedAt": "2026-10-15T00:35:23.7092898+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -774,6 +774,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/kuranda-sefkat-ve-adalet-4-593.jpg",
       "readingMinutes": 6,
       "file": "articles/okullarda-artan-siddet-nasil-durdurulabilir.json"
+    },
+    {
+      "id": "toplumda-artan-siddet-olaylarinin-onlenmesinde-egitimin-rolu",
+      "title": "Toplumda Artan Şiddet Olaylarının Önlenmesinde Eğitimin Rolü",
+      "publishedAt": "2026-04-18",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/makale-resmi-kapak-ana-dosya-1-752.jpg",
+      "readingMinutes": 5,
+      "file": "articles/toplumda-artan-siddet-olaylarinin-onlenmesinde-egitimin-rolu.json"
     },
     {
       "id": "dikkat-farz-olan-bir-ibadettir",
