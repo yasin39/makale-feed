@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:35:33.1661314+03:00",
+  "updatedAt": "2026-10-15T00:35:40.5465866+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -792,6 +792,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/makale-resmi-kapak-ana-dosya-2-573.jpg",
       "readingMinutes": 5,
       "file": "articles/dikkat-farz-olan-bir-ibadettir.json"
+    },
+    {
+      "id": "Allahin-istedigi-tevekkul",
+      "title": "Allah'ın İstediği Tevekkül",
+      "publishedAt": "2026-04-13",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/makale-resmi-kapak-542.jpg",
+      "readingMinutes": 5,
+      "file": "articles/Allahin-istedigi-tevekkul.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
