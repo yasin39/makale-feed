@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:27:56.6646781+03:00",
+  "updatedAt": "2026-10-15T00:28:04.6697639+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -432,6 +432,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/gozde-buyutulecek-yalnizca-Allah-tir/19-597.jpg",
       "readingMinutes": 8,
       "file": "articles/mutlak-kudret-ve-buyukluk-yalnizca-Allah-a-aittir.json"
+    },
+    {
+      "id": "en-ideal-adalet-anlayisi-islam-ahlaki-ile-mumkundur",
+      "title": "En İdeal Adalet Anlayışı, İslam Ahlakı ile Mümkündür",
+      "publishedAt": "2026-08-04",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/08/en-ideal-adalet-anlayisi-islam-ahlaki-ile-mumkundur/makale-kapak-ana-dosya-1280x720-1-735.jpg",
+      "readingMinutes": 5,
+      "file": "articles/en-ideal-adalet-anlayisi-islam-ahlaki-ile-mumkundur.json"
     },
     {
       "id": "yalnizlik-ozgurluk-degil-manevi-bir-felakettir",
