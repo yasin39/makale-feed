@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:47:16.4436922+03:00",
+  "updatedAt": "2026-10-15T00:48:41.8340088+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -945,6 +945,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/01/happy-family-mom-dad-son-daughter-hugging-park_1106493-511539-563.avif",
       "readingMinutes": 4,
       "file": "articles/gercek-dindar-Allahi-askla-seven-ve-onu-hic-unutmayan-kisidir.json"
+    },
+    {
+      "id": "savasin-cozumu-diplomasi-degil-kurana-dayali-sevgidir",
+      "title": "Savaşın Çözümü Diplomasi Değil, Kuran’a Dayalı Sevgidir",
+      "publishedAt": "2026-01-12",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/01/whatsapp-image-2026-01-12-at-014221-496.jpeg",
+      "readingMinutes": 4,
+      "file": "articles/savasin-cozumu-diplomasi-degil-kurana-dayali-sevgidir.json"
     },
     {
       "id": "Allahin-muminlerde-yarattigi-ozel-yetenek-hayir-gozuyle-bakmak",
