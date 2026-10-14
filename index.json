@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:29:33.9527203+03:00",
+  "updatedAt": "2026-10-15T00:29:40.9416428+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -567,6 +567,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir/makale-kapak-ana-dosya-1280x720-577.jpg",
       "readingMinutes": 6,
       "file": "articles/dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir.json"
+    },
+    {
+      "id": "kuran-ahlakinin-yayilmasinin-en-onemli-sartlarindan-biri-muslumanlarin-birlik-ve-dayanismasidir",
+      "title": "Kuran Ahlakının Yayılmasının En Önemli Şartlarından Biri Müslümanların Birlik ve Dayanışmasıdır",
+      "publishedAt": "2026-07-11",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/kuran-ahlakinin-yayilmasinin-en-onemli-sartlarindan-biri-muslumanlarin-birlik-ve-dayanismasidir/makale-kapak-ana-dosya-1280x720-1-495.jpg",
+      "readingMinutes": 5,
+      "file": "articles/kuran-ahlakinin-yayilmasinin-en-onemli-sartlarindan-biri-muslumanlarin-birlik-ve-dayanismasidir.json"
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
