@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:30:03.73643+03:00",
+  "updatedAt": "2026-10-15T00:30:10.0978066+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -594,6 +594,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/duayi-iyi-anlamak/1-948.jpg",
       "readingMinutes": 14,
       "file": "articles/duayi-iyi-anlamak.json"
+    },
+    {
+      "id": "Allah-sevgisine-dayanan-gercek-sevgi-asla-tukenmez",
+      "title": "Allah Sevgisine Dayanan Gerçek Sevgi Asla Tükenmez",
+      "publishedAt": "2026-06-29",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/06/bllah-tevggsgne-eayanan-hercek-tevgg-bsla-uukenmez/makale-kapak-ana-dosya-1280x720-1-983.jpg",
+      "readingMinutes": 9,
+      "file": "articles/Allah-sevgisine-dayanan-gercek-sevgi-asla-tukenmez.json"
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
