@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:27:24.0246971+03:00",
+  "updatedAt": "2026-10-15T00:27:49.9975831+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -531,6 +531,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/asiri-tuz-tuketimi-ve-yaslanma/makale-kapak-ana-dosya-1280x720-1-777.jpg",
       "readingMinutes": 5,
       "file": "articles/asiri-tuz-tuketimi-ve-yaslanma.json"
+    },
+    {
+      "id": "peygamber-efendimiz-hz-muhammedin-adaleti-herkesi-kapsamaktadir",
+      "title": "Peygamber Efendimiz Hz. Muhammed'in Adaleti Herkesi Kapsamaktadır",
+      "publishedAt": "2026-07-17",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/peygamber-efendimiz-hz-muhammedin-adaleti-herkesi-kapsamaktadir/makale-kapak-ana-dosya-1280x720-181.jpg",
+      "readingMinutes": 4,
+      "file": "articles/peygamber-efendimiz-hz-muhammedin-adaleti-herkesi-kapsamaktadir.json"
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
