@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:28:26.657559+03:00",
+  "updatedAt": "2026-10-15T00:29:26.8465644+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -540,6 +540,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/asiri-tuz-tuketimi-ve-yaslanma/makale-kapak-ana-dosya-1280x720-1-777.jpg",
       "readingMinutes": 5,
       "file": "articles/asiri-tuz-tuketimi-ve-yaslanma.json"
+    },
+    {
+      "id": "gercek-adaletin-temeli-kuran-ahlakinin-yasanmasidir",
+      "title": "Gerçek Adaletin Temeli, Kuran Ahlakının Yaşanmasıdır",
+      "publishedAt": "2026-07-17",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/gercek-adaletin-temeli-kuran-ahlakinin-yasanmasidir/makale-kapak-ana-dosya-1280x720-286.jpg",
+      "readingMinutes": 4,
+      "file": "articles/gercek-adaletin-temeli-kuran-ahlakinin-yasanmasidir.json"
     },
     {
       "id": "peygamber-efendimiz-hz-muhammedin-adaleti-herkesi-kapsamaktadir",
