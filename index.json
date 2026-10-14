@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:32:45.2832868+03:00",
+  "updatedAt": "2026-10-15T00:33:26.9849329+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -702,6 +702,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-1-889.jpg",
       "readingMinutes": 7,
       "file": "articles/Allahin-dilemesi-her-seyin-uzerindedir.json"
+    },
+    {
+      "id": "gercek-ruh-ustunlugu-nasil-kazanilir",
+      "title": "Gerçek Ruh Üstünlüğü Nasıl Kazanılır?",
+      "publishedAt": "2026-05-26",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-438.jpg",
+      "readingMinutes": 5,
+      "file": "articles/gercek-ruh-ustunlugu-nasil-kazanilir.json"
     },
     {
       "id": "kulli-irade-de-cuzi-irade-de-Allaha-aittir",
