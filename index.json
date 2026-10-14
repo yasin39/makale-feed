@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:35:40.5465866+03:00",
+  "updatedAt": "2026-10-15T00:35:50.9897421+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -801,6 +801,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/04/makale-resmi-kapak-542.jpg",
       "readingMinutes": 5,
       "file": "articles/Allahin-istedigi-tevekkul.json"
+    },
+    {
+      "id": "tartismacilik-toplumsal-huzuru-tehdit-eden-bir-beladir",
+      "title": "Tartışmacılık Toplumsal Huzuru Tehdit Eden Bir Beladır",
+      "publishedAt": "2026-04-02",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/04/rert-304.jpg",
+      "readingMinutes": 4,
+      "file": "articles/tartismacilik-toplumsal-huzuru-tehdit-eden-bir-beladir.json"
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
