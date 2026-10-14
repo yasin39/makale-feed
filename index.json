@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:36:20.5102564+03:00",
+  "updatedAt": "2026-10-15T00:36:27.7295588+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -837,6 +837,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/1-587.jpg",
       "readingMinutes": 4,
       "file": "articles/musluman-hayirda-aceleci-olmalidir.json"
+    },
+    {
+      "id": "sevmek-bir-sanattir",
+      "title": "Sevmek Bir Sanattır",
+      "publishedAt": "2026-03-26",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/chatgpt-image-26-mar-2026-00_36_45-869.png",
+      "readingMinutes": 6,
+      "file": "articles/sevmek-bir-sanattir.json"
     },
     {
       "id": "Allahi-hakkiyla-sevmek",
