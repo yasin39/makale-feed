@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:29:40.9416428+03:00",
+  "updatedAt": "2026-10-15T00:29:57.0643437+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -576,6 +576,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/kuran-ahlakinin-yayilmasinin-en-onemli-sartlarindan-biri-muslumanlarin-birlik-ve-dayanismasidir/makale-kapak-ana-dosya-1280x720-1-495.jpg",
       "readingMinutes": 5,
       "file": "articles/kuran-ahlakinin-yayilmasinin-en-onemli-sartlarindan-biri-muslumanlarin-birlik-ve-dayanismasidir.json"
+    },
+    {
+      "id": "insan-fitrati-yalnizliga-degil-sevgiye-ve-dayanismaya-gore-yaratilmistir",
+      "title": "İnsan Fıtratı Yalnızlığa Değil, Sevgiye ve Dayanışmaya Göre Yaratılmıştır",
+      "publishedAt": "2026-07-03",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/07/insan-fitrati-yalnizliga-degil-sevgiye-ve-dayanismaya-gore-yaratilmistir/makale-kapak-ana-dosya-1280x720-958.jpg",
+      "readingMinutes": 10,
+      "file": "articles/insan-fitrati-yalnizliga-degil-sevgiye-ve-dayanismaya-gore-yaratilmistir.json"
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
