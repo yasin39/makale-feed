@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:43:43.0000055+03:00",
+  "updatedAt": "2026-10-15T00:43:50.0081381+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -855,6 +855,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/chatgpt-image-26-mar-2026-00_36_45-869.png",
       "readingMinutes": 6,
       "file": "articles/sevmek-bir-sanattir.json"
+    },
+    {
+      "id": "din-guzel-ahlaktir-sevgidir",
+      "title": "Din Güzel Ahlaktır, Sevgidir",
+      "publishedAt": "2026-03-10",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/god-1-664.jpg",
+      "readingMinutes": 6,
+      "file": "articles/din-guzel-ahlaktir-sevgidir.json"
     },
     {
       "id": "Allahi-hakkiyla-sevmek",
