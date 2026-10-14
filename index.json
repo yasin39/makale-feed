@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:10:27.4613046+03:00",
+  "updatedAt": "2026-10-15T00:25:02.6317104+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -180,6 +180,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/ahtapotlarin-hayranlik-uyandiran-kamuflaji/adsiz-tasarim-1-597.jpg",
       "readingMinutes": 7,
       "file": "articles/ahtapotlarin-hayranlik-uyandiran-kamuflaji.json"
+    },
+    {
+      "id": "kendini-unutan-insan",
+      "title": "Kendini Unutan İnsan",
+      "publishedAt": "2026-09-29",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/kendini-unutan-insan/adsiz-tasarim-3-528.jpg",
+      "readingMinutes": 5,
+      "file": "articles/kendini-unutan-insan.json"
     },
     {
       "id": "mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir",
