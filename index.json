@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:03:57.6555971+03:00",
+  "updatedAt": "2026-10-16T07:20:11.6061692+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -1134,6 +1134,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/04/screenshot-from-2025-04-19-02-45-07-416.png",
       "readingMinutes": 5,
       "file": "articles/din-sevgiyle-yasanir.json"
+    },
+    {
+      "id": "demokrasi-laiklik-ve-adaletin-ozu-kurandadir",
+      "title": "Demokrasi, Laiklik ve Adaletin Özü Kuran'dadır",
+      "publishedAt": "2025-04-14",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/04/screenshot-from-2025-04-14-04-02-08-782.png",
+      "readingMinutes": 6,
+      "file": "articles/demokrasi-laiklik-ve-adaletin-ozu-kurandadir.json"
     },
     {
       "id": "Allahin-isaretlerini-takip-etmek",
