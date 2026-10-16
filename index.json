@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T07:20:11.6061692+03:00",
+  "updatedAt": "2026-10-16T07:20:48.3713266+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -1152,6 +1152,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/04/screenshot-from-2025-04-01-02-33-23-148.png",
       "readingMinutes": 8,
       "file": "articles/Allahin-isaretlerini-takip-etmek.json"
+    },
+    {
+      "id": "muslumanlarin-galibiyetten-once-maglubiyet-yasamasi-adetullahtir",
+      "title": "Müslümanların Galibiyetten Önce Mağlubiyet Yaşaması Adetullah'tır",
+      "publishedAt": "2025-03-24",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/03/screenshot-from-2025-03-24-04-42-46-771.png",
+      "readingMinutes": 6,
+      "file": "articles/muslumanlarin-galibiyetten-once-maglubiyet-yasamasi-adetullahtir.json"
     },
     {
       "id": "hayati-alt-veya-ust-boyutta-yasamak",
