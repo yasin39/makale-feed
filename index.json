@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T12:57:43.8091885+03:00",
+  "updatedAt": "2026-10-17T13:02:11.2355731+03:00",
   "articles": [
     {
       "id": "ustunluk-tutkusu",
@@ -1098,6 +1098,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2025/07/cocuk-706.jpg",
       "readingMinutes": 6,
       "file": "articles/siradan-gorunen-bir-olayda-beklenmedik-bir-ders-olabilir.json"
+    },
+    {
+      "id": "kalite-guclu-imanla-olusur",
+      "title": "Kalite Güçlü İmanla Oluşur",
+      "publishedAt": "2025-06-25",
+      "category": "Güzel Konular",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2025/06/d558adbdfce88bde97bd9694a7bab7d1-51.jpg",
+      "readingMinutes": 10,
+      "file": "articles/kalite-guclu-imanla-olusur.json"
     },
     {
       "id": "cennete-girisin-anahtari-mutmain-nefis",
