@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:04:39.4738053+03:00",
+  "updatedAt": "2026-10-17T13:05:06.6805673+03:00",
   "articles": [
     {
       "id": "saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir",
@@ -855,6 +855,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/muslumanlarakarsiyazisiz1280x720-445.jpg",
       "readingMinutes": 9,
       "file": "articles/muslumanlara-karsi-mucadele-edenlerin-degismeyen-ozellikleri.json"
+    },
+    {
+      "id": "abdnin-irana-saldirisiyla-baslayan-savas-bir-din-savasidir",
+      "title": "ABD’nin İran’a Saldırısıyla Başlayan Savaş Bir Din Savaşıdır",
+      "publishedAt": "2026-03-27",
+      "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
+      "coverImageUrl": "https://g.fmanager.net/files/image/2026/03/dinsavasikapak-204.jpg",
+      "readingMinutes": 11,
+      "file": "articles/abdnin-irana-saldirisiyla-baslayan-savas-bir-din-savasidir.json"
     },
     {
       "id": "islamiyet-bilim-ve-teknolojiye-nasil-yon-verdi",
