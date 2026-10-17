@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-17T13:02:11.2355731+03:00",
+  "updatedAt": "2026-10-17T13:04:13.9220483+03:00",
   "articles": [
+    {
+      "id": "saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir",
+      "title": "Saff Suresi’nde Müjdelenen Elçi, Hz. Mehdi’dir",
+      "publishedAt": "2026-10-16",
+      "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir/stimella-10-686.jpg",
+      "readingMinutes": 9,
+      "file": "articles/saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir.json"
+    },
     {
       "id": "ustunluk-tutkusu",
       "title": "Üstünlük Tutkusu",
