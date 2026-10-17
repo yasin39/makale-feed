@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:04:13.9220483+03:00",
+  "updatedAt": "2026-10-17T13:04:39.4738053+03:00",
   "articles": [
     {
       "id": "saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir",
@@ -9,6 +9,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir/stimella-10-686.jpg",
       "readingMinutes": 9,
       "file": "articles/saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir.json"
+    },
+    {
+      "id": "hadislerde-bildirilen-deccaliyetin-cehennemi-van-daki-aden-bahcesidir",
+      "title": "Hadislerde Bildirilen Deccaliyetin Cehennemi, Van’daki Aden Bahçesidir",
+      "publishedAt": "2026-10-14",
+      "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/hadislerde-haber-verilen-deccaliyetin-cehennemi-van-daki-aden-bahcesidir/stimella-8-391.jpg",
+      "readingMinutes": 19,
+      "file": "articles/hadislerde-bildirilen-deccaliyetin-cehennemi-van-daki-aden-bahcesidir.json"
     },
     {
       "id": "ustunluk-tutkusu",
