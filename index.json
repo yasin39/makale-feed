@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-17T13:05:06.6805673+03:00",
+  "updatedAt": "2026-10-19T08:45:40.3462696+03:00",
   "articles": [
+    {
+      "id": "Allah-sevgisi-tum-sevgilerin-zirvesidir",
+      "title": "Allah Sevgisi, Tüm Sevgilerin Zirvesidir",
+      "publishedAt": "2026-10-18",
+      "category": "Sevgi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/Allah-sevgisi-tum-sevgilerin-zirvesidir/7-895.jpg",
+      "readingMinutes": 8,
+      "file": "articles/Allah-sevgisi-tum-sevgilerin-zirvesidir.json"
+    },
     {
       "id": "saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir",
       "title": "Saff Suresi’nde Müjdelenen Elçi, Hz. Mehdi’dir",
