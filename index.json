@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-21T20:03:09.9192256+03:00",
+  "updatedAt": "2026-10-21T20:04:22.9460536+03:00",
   "articles": [
+    {
+      "id": "etv3-proteini-ve-immun-toleransi",
+      "title": "Etv3 Proteini Ve İmmün Toleransı",
+      "publishedAt": "2026-10-20",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/etv3-proteini-ve-immun-toleransi/makale-kapakgunes-3-781.jpg",
+      "readingMinutes": 12,
+      "file": "articles/etv3-proteini-ve-immun-toleransi.json"
+    },
     {
       "id": "hucredeki-su-dengesi",
       "title": "Hücredeki Su Dengesi",
