@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-19T08:46:04.1639127+03:00",
+  "updatedAt": "2026-10-21T20:03:09.9192256+03:00",
   "articles": [
+    {
+      "id": "hucredeki-su-dengesi",
+      "title": "Hücredeki Su Dengesi",
+      "publishedAt": "2026-10-19",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/hucredeki-su-dengesi/1-809.jpg",
+      "readingMinutes": 2,
+      "file": "articles/hucredeki-su-dengesi.json"
+    },
     {
       "id": "Allah-in-isimlerinin-zikirlerin-ve-namazda-okunan-ayetlerin-anlamini-bilmenin-onemi",
       "title": "Allah’ın İsimlerinin, Zikirlerin ve Namazda Okunan Ayetlerin Anlamını Bilmenin Önemi",
