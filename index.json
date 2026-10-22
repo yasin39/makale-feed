@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-21T20:04:22.9460536+03:00",
+  "updatedAt": "2026-10-22T13:29:40.2284127+03:00",
   "articles": [
+    {
+      "id": "ruya-ve-gercek-arasindaki-bag",
+      "title": "Rüya ve Gerçek Arasındaki Bağ",
+      "publishedAt": "2026-10-21",
+      "category": "Maddenin Ardındaki Sır",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/ruya-ve-gercek-arasindaki-bag/ben-neredeyim-2-858.jpg",
+      "readingMinutes": 8,
+      "file": "articles/ruya-ve-gercek-arasindaki-bag.json"
+    },
     {
       "id": "etv3-proteini-ve-immun-toleransi",
       "title": "Etv3 Proteini Ve İmmün Toleransı",
