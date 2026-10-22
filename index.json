@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T13:29:40.2284127+03:00",
+  "updatedAt": "2026-10-22T13:37:24.9049076+03:00",
   "articles": [
     {
       "id": "ruya-ve-gercek-arasindaki-bag",
@@ -9,6 +9,15 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/ruya-ve-gercek-arasindaki-bag/ben-neredeyim-2-858.jpg",
       "readingMinutes": 8,
       "file": "articles/ruya-ve-gercek-arasindaki-bag.json"
+    },
+    {
+      "id": "ben-neredeyim",
+      "title": "Ben Neredeyim?",
+      "publishedAt": "2026-10-20",
+      "category": "Maddenin Ardındaki Sır",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/ben-neredeyim/ben-neredeyim-535.jpg",
+      "readingMinutes": 5,
+      "file": "articles/ben-neredeyim.json"
     },
     {
       "id": "etv3-proteini-ve-immun-toleransi",
