@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:56:54.5560035+03:00",
+  "updatedAt": "2026-10-23T23:57:06.69606+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -90,6 +90,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/Allah-sevgisi-tum-sevgilerin-zirvesidir/7-895.jpg",
       "readingMinutes": 8,
       "file": "articles/Allah-sevgisi-tum-sevgilerin-zirvesidir.json"
+    },
+    {
+      "id": "gundemburada-31346",
+      "sourceId": "gundemburada",
+      "title": "Siyonizm Kelimesi ile İlgili Yanlış Bilinenler – \uD83C\uDF99️",
+      "publishedAt": "2026-10-18",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/siyonizm_kapak_775x465.jpeg",
+      "readingMinutes": 11,
+      "file": "articles/gundemburada-31346.json"
     },
     {
       "id": "saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir",
