@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:57:06.69606+03:00",
+  "updatedAt": "2026-10-23T23:58:02.2723359+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -100,6 +100,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/siyonizm_kapak_775x465.jpeg",
       "readingMinutes": 11,
       "file": "articles/gundemburada-31346.json"
+    },
+    {
+      "id": "gundemburada-31326",
+      "sourceId": "gundemburada",
+      "title": "Dizi ve Filmlerde Şiddetin Normalleştirilmesine Karşı Tedbir Alınmalı – \uD83C\uDF99️",
+      "publishedAt": "2026-10-17",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/dizi_filmlerde_siddet_kapak_775x465.jpg",
+      "readingMinutes": 15,
+      "file": "articles/gundemburada-31326.json"
     },
     {
       "id": "saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir",
