@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-10-22T13:37:24.9049076+03:00",
+  "updatedAt": "2026-10-23T23:55:37.7427484+03:00",
   "articles": [
     {
+      "id": "gundemburada-31416",
+      "sourceId": "gundemburada",
+      "title": "Allah’ın Rızası Yerine Kendi Çıkarını Seçenlerin Ahiretteki Üç Cevabı – \uD83C\uDF99️",
+      "publishedAt": "2026-10-23",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/Allah_rizasi_kapak_775x465.jpg",
+      "readingMinutes": 9,
+      "file": "articles/gundemburada-31416.json"
+    },
+    {
       "id": "ruya-ve-gercek-arasindaki-bag",
+      "sourceId": "harunyahya",
       "title": "Rüya ve Gerçek Arasındaki Bağ",
       "publishedAt": "2026-10-21",
       "category": "Maddenin Ardındaki Sır",
@@ -12,6 +23,7 @@
     },
     {
       "id": "ben-neredeyim",
+      "sourceId": "harunyahya",
       "title": "Ben Neredeyim?",
       "publishedAt": "2026-10-20",
       "category": "Maddenin Ardındaki Sır",
@@ -21,6 +33,7 @@
     },
     {
       "id": "etv3-proteini-ve-immun-toleransi",
+      "sourceId": "harunyahya",
       "title": "Etv3 Proteini Ve İmmün Toleransı",
       "publishedAt": "2026-10-20",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -30,6 +43,7 @@
     },
     {
       "id": "hucredeki-su-dengesi",
+      "sourceId": "harunyahya",
       "title": "Hücredeki Su Dengesi",
       "publishedAt": "2026-10-19",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -39,6 +53,7 @@
     },
     {
       "id": "Allah-in-isimlerinin-zikirlerin-ve-namazda-okunan-ayetlerin-anlamini-bilmenin-onemi",
+      "sourceId": "harunyahya",
       "title": "Allah’ın İsimlerinin, Zikirlerin ve Namazda Okunan Ayetlerin Anlamını Bilmenin Önemi",
       "publishedAt": "2026-10-18",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -48,6 +63,7 @@
     },
     {
       "id": "Allah-sevgisi-tum-sevgilerin-zirvesidir",
+      "sourceId": "harunyahya",
       "title": "Allah Sevgisi, Tüm Sevgilerin Zirvesidir",
       "publishedAt": "2026-10-18",
       "category": "Sevgi",
@@ -57,6 +73,7 @@
     },
     {
       "id": "saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir",
+      "sourceId": "harunyahya",
       "title": "Saff Suresi’nde Müjdelenen Elçi, Hz. Mehdi’dir",
       "publishedAt": "2026-10-16",
       "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
@@ -66,6 +83,7 @@
     },
     {
       "id": "hadislerde-bildirilen-deccaliyetin-cehennemi-van-daki-aden-bahcesidir",
+      "sourceId": "harunyahya",
       "title": "Hadislerde Bildirilen Deccaliyetin Cehennemi, Van’daki Aden Bahçesidir",
       "publishedAt": "2026-10-14",
       "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
@@ -75,6 +93,7 @@
     },
     {
       "id": "ustunluk-tutkusu",
+      "sourceId": "harunyahya",
       "title": "Üstünlük Tutkusu",
       "publishedAt": "2026-10-13",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -84,6 +103,7 @@
     },
     {
       "id": "yumurtadan-cikmadan-tehlikeye-tepki-veren-kurbagalar",
+      "sourceId": "harunyahya",
       "title": "Yumurtadan Çıkmadan Tehlikeye Tepki Veren Kurbağalar",
       "publishedAt": "2026-10-13",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -93,6 +113,7 @@
     },
     {
       "id": "zalimlige-duyulan-hayranligin-ardindaki-yanilgi",
+      "sourceId": "harunyahya",
       "title": "Zalimliğe Duyulan Hayranlığın Ardındaki Yanılgı",
       "publishedAt": "2026-10-13",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -102,6 +123,7 @@
     },
     {
       "id": "engel-tanimayan-hayalet-parcaciklar",
+      "sourceId": "harunyahya",
       "title": "Engel Tanımayan Hayalet Parçacıklar",
       "publishedAt": "2026-10-12",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -111,6 +133,7 @@
     },
     {
       "id": "gunes-firtinalari",
+      "sourceId": "harunyahya",
       "title": "Güneş Fırtınaları",
       "publishedAt": "2026-10-12",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -120,6 +143,7 @@
     },
     {
       "id": "imanda-derinlesmek-isteyene-kuran-dan-tavsiyeler",
+      "sourceId": "harunyahya",
       "title": "İmanda Derinleşmek İsteyene Kuran'dan Tavsiyeler",
       "publishedAt": "2026-10-10",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -129,6 +153,7 @@
     },
     {
       "id": "kalb-i-selim-ile-Allah-in-huzuruna-varabilmek",
+      "sourceId": "harunyahya",
       "title": "Kalb-i Selim İle Allah'ın Huzuruna Varabilmek",
       "publishedAt": "2026-10-10",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -138,6 +163,7 @@
     },
     {
       "id": "bu-el-kimin",
+      "sourceId": "harunyahya",
       "title": "Bu El Kimin?",
       "publishedAt": "2026-10-09",
       "category": "Maddenin Ardındaki Sır",
@@ -147,6 +173,7 @@
     },
     {
       "id": "gordugumuz-goruntunun-ardinda-ne-var",
+      "sourceId": "harunyahya",
       "title": "Gördüğümüz Görüntünün Ardında Ne Var?",
       "publishedAt": "2026-10-09",
       "category": "Maddenin Ardındaki Sır",
@@ -156,6 +183,7 @@
     },
     {
       "id": "gorunenin-otesini-gorebiliyor-musunuz",
+      "sourceId": "harunyahya",
       "title": "Görünenin Ötesini Görebiliyor Musunuz?",
       "publishedAt": "2026-10-09",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -165,6 +193,7 @@
     },
     {
       "id": "muminin-en-guzel-yarisi-sevgide-derinlesmek",
+      "sourceId": "harunyahya",
       "title": "Müminin En Güzel Yarışı: Sevgide Derinleşmek",
       "publishedAt": "2026-10-08",
       "category": "Sevgi",
@@ -174,6 +203,7 @@
     },
     {
       "id": "dunyadan-gecip-giden-milyarlarca-insan",
+      "sourceId": "harunyahya",
       "title": "Dünyadan Geçip Giden Milyarlarca İnsan",
       "publishedAt": "2026-10-07",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -183,6 +213,7 @@
     },
     {
       "id": "kucuk-dunyalarin-insani-olmamak",
+      "sourceId": "harunyahya",
       "title": "Küçük Dünyaların İnsanı Olmamak",
       "publishedAt": "2026-10-07",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -192,6 +223,7 @@
     },
     {
       "id": "bir-yapragin-yaralanmasindan-butun-bitkiye-yayilan-haber",
+      "sourceId": "harunyahya",
       "title": "Bir Yaprağın Yaralanmasından Bütün Bitkiye Yayılan Haber",
       "publishedAt": "2026-10-06",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -201,6 +233,7 @@
     },
     {
       "id": "dunyaya-ozgu-bir-istisna-oksijen",
+      "sourceId": "harunyahya",
       "title": "Dünyaya Özgü Bir İstisna: Oksijen",
       "publishedAt": "2026-10-06",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -210,6 +243,7 @@
     },
     {
       "id": "schrodinger-in-kedisi-gercek-mi-oluyor",
+      "sourceId": "harunyahya",
       "title": "Schrödinger’in Kedisi Gerçek mi Oluyor?",
       "publishedAt": "2026-10-04",
       "category": "Maddenin Ardındaki Sır",
@@ -219,6 +253,7 @@
     },
     {
       "id": "yapay-zeka-dawkins-i-nasil-yalanliyor",
+      "sourceId": "harunyahya",
       "title": "Yapay Zeka Dawkins’i Nasıl Yalanlıyor?",
       "publishedAt": "2026-10-04",
       "category": "Evrim Teorisinin Çöküşü",
@@ -228,6 +263,7 @@
     },
     {
       "id": "kuran-oz-guvenin-nasil-kazanilacagini-aciklar",
+      "sourceId": "harunyahya",
       "title": "Kuran, Öz Güvenin Nasıl Kazanılacağını Açıklar",
       "publishedAt": "2026-10-03",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -237,6 +273,7 @@
     },
     {
       "id": "muminin-ayirt-edici-bir-ozelligi-cahiliyeye-benzememesidir",
+      "sourceId": "harunyahya",
       "title": "Müminin Ayırt Edici Bir Özelliği Cahiliyeye Benzememesidir",
       "publishedAt": "2026-10-03",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -246,6 +283,7 @@
     },
     {
       "id": "gunes-isini-nasil-vitamine-donusuyor",
+      "sourceId": "harunyahya",
       "title": "Güneş Işını Nasıl Vitamine Dönüşüyor",
       "publishedAt": "2026-10-02",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -255,6 +293,7 @@
     },
     {
       "id": "ahtapotlarin-hayranlik-uyandiran-kamuflaji",
+      "sourceId": "harunyahya",
       "title": "Ahtapotların Hayranlık Uyandıran Kamuflajı",
       "publishedAt": "2026-09-30",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -264,6 +303,7 @@
     },
     {
       "id": "kendini-unutan-insan",
+      "sourceId": "harunyahya",
       "title": "Kendini Unutan İnsan",
       "publishedAt": "2026-09-29",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -273,6 +313,7 @@
     },
     {
       "id": "mumin-kuran-a-bakarak-eksiklerini-fark-etmelidir",
+      "sourceId": "harunyahya",
       "title": "Mümin Kuran'a Bakarak Eksiklerini Fark Etmelidir",
       "publishedAt": "2026-09-29",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -282,6 +323,7 @@
     },
     {
       "id": "ben-degisemem-benim-karakterim-boyle-demek-aslinda-ne-anlama-gelir",
+      "sourceId": "harunyahya",
       "title": "“Ben Değişemem”, “Benim Karakterim Böyle” Demek Aslında Ne Anlama Gelir?",
       "publishedAt": "2026-09-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -291,6 +333,7 @@
     },
     {
       "id": "geri-getirilemeyen-nimet-zaman",
+      "sourceId": "harunyahya",
       "title": "Geri Getirilemeyen Nimet: Zaman",
       "publishedAt": "2026-09-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -300,6 +343,7 @@
     },
     {
       "id": "dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir",
+      "sourceId": "harunyahya",
       "title": "Dünya Hayatı Hırsla Bağlanmak İçin Değil, İmtihan İçin Yaratılmıştır",
       "publishedAt": "2026-09-21",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -309,6 +353,7 @@
     },
     {
       "id": "Allah-in-kuran-daki-vaatlerine-ve-uyarilarina-ulfetle-bakmaktan-kacinmak",
+      "sourceId": "harunyahya",
       "title": "Allah’ın Kuran'daki Vaatlerine ve Uyarılarına Ülfetle Bakmaktan Kaçınmak",
       "publishedAt": "2026-09-10",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -318,6 +363,7 @@
     },
     {
       "id": "felaket-gelmeden-gercegi-gormek",
+      "sourceId": "harunyahya",
       "title": "Felaket Gelmeden Gerçeği Görmek",
       "publishedAt": "2026-09-10",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -327,6 +373,7 @@
     },
     {
       "id": "bagisiklik-sistemi-Allah-in-insan-bedenindeki-muhtesem-koruma-mekanizmasi",
+      "sourceId": "harunyahya",
       "title": "Bağışıklık Sistemi: Allah’ın İnsan Bedenindeki Muhteşem Koruma Mekanizması",
       "publishedAt": "2026-09-09",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -336,6 +383,7 @@
     },
     {
       "id": "bugun-en-cok-hangi-konuyu-dusundunuz",
+      "sourceId": "harunyahya",
       "title": "Bugün En Çok Hangi Konuyu Düşündünüz?",
       "publishedAt": "2026-09-07",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -345,6 +393,7 @@
     },
     {
       "id": "imanin-hayata-yansiyan-guzelligi-ruh-kalitesi",
+      "sourceId": "harunyahya",
       "title": "İmanın Hayata Yansıyan Güzelliği : Ruh Kalitesi",
       "publishedAt": "2026-09-07",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -354,6 +403,7 @@
     },
     {
       "id": "insan-kendisini-yeterli-gordugunde-neler-olur",
+      "sourceId": "harunyahya",
       "title": "İnsan Kendisini Yeterli Gördüğünde Neler Olur?",
       "publishedAt": "2026-09-01",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -363,6 +413,7 @@
     },
     {
       "id": "aklin-gucu-Allah-la-baglantidan-gelir",
+      "sourceId": "harunyahya",
       "title": "Aklın Gücü Allah'la Bağlantıdan Gelir",
       "publishedAt": "2026-08-31",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -372,6 +423,7 @@
     },
     {
       "id": "imtihanlar-gecer-hesap-gunundeki-kitabimiz-baki-kalir",
+      "sourceId": "harunyahya",
       "title": "İmtihanlar Geçer, Hesap Günündeki Kitabımız Baki Kalır",
       "publishedAt": "2026-08-30",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -381,6 +433,7 @@
     },
     {
       "id": "dua-Allah-la-kul-arasinda-ozel-bir-yakinlik-kilar",
+      "sourceId": "harunyahya",
       "title": "Dua, Allah’la Kul Arasında Özel Bir Yakınlık Kılar",
       "publishedAt": "2026-08-27",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -390,6 +443,7 @@
     },
     {
       "id": "kuran-a-gore-ahirette-insani-kurtaracak-olan-nedir",
+      "sourceId": "harunyahya",
       "title": "Kuran'a Göre Ahirette İnsanı Kurtaracak Olan Nedir?",
       "publishedAt": "2026-08-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -399,6 +453,7 @@
     },
     {
       "id": "guzel-ahlaki-gormek-ogrenmek-ve-yasamak",
+      "sourceId": "harunyahya",
       "title": "Güzel Ahlakı Görmek, Öğrenmek ve Yaşamak",
       "publishedAt": "2026-08-25",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -408,6 +463,7 @@
     },
     {
       "id": "kur-an-in-her-ayeti-sevgiye-cagirir",
+      "sourceId": "harunyahya",
       "title": "Kur’an’ın Her Ayeti Sevgiye Çağırır",
       "publishedAt": "2026-08-24",
       "category": "Sevgi",
@@ -417,6 +473,7 @@
     },
     {
       "id": "sindirim-sistemindeki-kusursuz-yaratilis",
+      "sourceId": "harunyahya",
       "title": "Sindirim Sistemindeki Kusursuz Yaratılış",
       "publishedAt": "2026-08-24",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -426,6 +483,7 @@
     },
     {
       "id": "karamsarliktan-umuda-pozitif-bir-hayat-mumkun",
+      "sourceId": "harunyahya",
       "title": "Karamsarlıktan Umuda: Pozitif Bir Hayat Mümkün",
       "publishedAt": "2026-08-23",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -435,6 +493,7 @@
     },
     {
       "id": "gencler-yalnizliktan-ve-manevi-bosluktan-nasil-kurtulabilir",
+      "sourceId": "harunyahya",
       "title": "Gençler Yalnızlıktan ve Manevi Boşluktan Nasıl Kurtulabilir?",
       "publishedAt": "2026-08-22",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -444,6 +503,7 @@
     },
     {
       "id": "insan-sevgiyle-yasar",
+      "sourceId": "harunyahya",
       "title": "İnsan Sevgiyle Yaşar",
       "publishedAt": "2026-08-19",
       "category": "Sevgi",
@@ -453,6 +513,7 @@
     },
     {
       "id": "bugunun-dunyasinin-ihtiyaci-asr-i-saadet-in-sevgi-anlayisi",
+      "sourceId": "harunyahya",
       "title": "Bugünün Dünyasının İhtiyacı: Asr-ı Saadet’in Sevgi Anlayışı",
       "publishedAt": "2026-08-17",
       "category": "Sevgi",
@@ -462,6 +523,7 @@
     },
     {
       "id": "komunist-dusunce-gelenek-gorenekleri-ve-dini-hedef-alir",
+      "sourceId": "harunyahya",
       "title": "Komünist Düşünce Gelenek-Görenekleri ve Dini Hedef Alır",
       "publishedAt": "2026-08-17",
       "category": "Diğer İnanç Ve Felsefelere Bakış",
@@ -471,6 +533,7 @@
     },
     {
       "id": "muslumanlik-sevgi-samimiyet-nese-ve-canliliktir",
+      "sourceId": "harunyahya",
       "title": "Müslümanlık; Sevgi, Samimiyet, Neşe ve Canlılıktır",
       "publishedAt": "2026-08-17",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -480,6 +543,7 @@
     },
     {
       "id": "paleoantropolojinin-karanlik-yuzu-sahtekarliklar-ve-aldatmacalar",
+      "sourceId": "harunyahya",
       "title": "Paleoantropolojinin Karanlık Yüzü: Sahtekarlıklar ve Aldatmacalar",
       "publishedAt": "2026-08-15",
       "category": "Evrim Teorisinin Çöküşü",
@@ -489,6 +553,7 @@
     },
     {
       "id": "bir-yesil-yapragin-kuantum-hesabi",
+      "sourceId": "harunyahya",
       "title": "Bir Yeşil Yaprağın Kuantum Hesabı",
       "publishedAt": "2026-08-10",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -498,6 +563,7 @@
     },
     {
       "id": "hz-hizir-kissasindan-isaretler",
+      "sourceId": "harunyahya",
       "title": "Hz. Hızır Kıssasından İşaretler",
       "publishedAt": "2026-08-10",
       "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
@@ -507,6 +573,7 @@
     },
     {
       "id": "mutlak-kudret-ve-buyukluk-yalnizca-Allah-a-aittir",
+      "sourceId": "harunyahya",
       "title": "Mutlak Kudret ve Büyüklük Yalnızca Allah’a Aittir",
       "publishedAt": "2026-08-06",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -516,6 +583,7 @@
     },
     {
       "id": "en-ideal-adalet-anlayisi-islam-ahlaki-ile-mumkundur",
+      "sourceId": "harunyahya",
       "title": "En İdeal Adalet Anlayışı, İslam Ahlakı ile Mümkündür",
       "publishedAt": "2026-08-04",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -525,6 +593,7 @@
     },
     {
       "id": "yalnizlik-ozgurluk-degil-manevi-bir-felakettir",
+      "sourceId": "harunyahya",
       "title": "Yalnızlık Özgürlük Değil, Manevi Bir Felakettir",
       "publishedAt": "2026-08-04",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -534,6 +603,7 @@
     },
     {
       "id": "gercek-sevginin-kaynagi-allah-korkusudur",
+      "sourceId": "harunyahya",
       "title": "Gerçek Sevginin Kaynağı Allah Korkusudur",
       "publishedAt": "2026-08-03",
       "category": "Sevgi",
@@ -543,6 +613,7 @@
     },
     {
       "id": "iman-edenlere-yapilan-saldiri-ve-iftiralarin-gercek-nedeni",
+      "sourceId": "harunyahya",
       "title": "İman Edenlere Yapılan Saldırı ve İftiraların Gerçek Nedeni",
       "publishedAt": "2026-08-01",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -552,6 +623,7 @@
     },
     {
       "id": "madde-her-an-nasil-yeniden-yaratiliyor",
+      "sourceId": "harunyahya",
       "title": "Madde Her An Nasıl Yeniden Yaratılıyor?",
       "publishedAt": "2026-08-01",
       "category": "Maddenin Ardındaki Sır",
@@ -561,6 +633,7 @@
     },
     {
       "id": "dunyanin-binlerce-yildir-temizlenen-suyu",
+      "sourceId": "harunyahya",
       "title": "Dünyanın Binlerce Yıldır Temizlenen Suyu",
       "publishedAt": "2026-07-30",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -570,6 +643,7 @@
     },
     {
       "id": "kehf-ehlinin-sayisini-ve-magarada-kaldiklari-sureyi-allah-bilir",
+      "sourceId": "harunyahya",
       "title": "Kehf Ehlinin Sayısını ve Mağarada Kaldıkları Süreyi Allah Bilir",
       "publishedAt": "2026-07-30",
       "category": "Kitap Ehli Ve Peygamberler",
@@ -579,6 +653,7 @@
     },
     {
       "id": "teknolojinin-gercek-sahibi-kim",
+      "sourceId": "harunyahya",
       "title": "Teknolojinin Gerçek Sahibi Kim?",
       "publishedAt": "2026-07-28",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -588,6 +663,7 @@
     },
     {
       "id": "dua-ettikce-hakikatin-perdeleri-nasil-acilir",
+      "sourceId": "harunyahya",
       "title": "Dua Ettikçe Hakikatin Perdeleri Nasıl Açılır?",
       "publishedAt": "2026-07-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -597,6 +673,7 @@
     },
     {
       "id": "sirk-manevi-bir-hastaliktir",
+      "sourceId": "harunyahya",
       "title": "Şirk Manevi Bir Hastalıktır",
       "publishedAt": "2026-07-22",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -606,6 +683,7 @@
     },
     {
       "id": "Allahin-sonsuz-ilminin-bir-yansimasi-yapay-zeka-nimeti",
+      "sourceId": "harunyahya",
       "title": "Allah’ın Sonsuz İlminin Bir Yansıması: Yapay Zekâ Nimeti",
       "publishedAt": "2026-07-19",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -615,6 +693,7 @@
     },
     {
       "id": "asiri-tuz-tuketimi-ve-yaslanma",
+      "sourceId": "harunyahya",
       "title": "Aşırı Tuz Tüketimi ve Yaşlanma",
       "publishedAt": "2026-07-19",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -624,6 +703,7 @@
     },
     {
       "id": "gercek-adaletin-temeli-kuran-ahlakinin-yasanmasidir",
+      "sourceId": "harunyahya",
       "title": "Gerçek Adaletin Temeli, Kuran Ahlakının Yaşanmasıdır",
       "publishedAt": "2026-07-17",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -633,6 +713,7 @@
     },
     {
       "id": "peygamber-efendimiz-hz-muhammedin-adaleti-herkesi-kapsamaktadir",
+      "sourceId": "harunyahya",
       "title": "Peygamber Efendimiz Hz. Muhammed'in Adaleti Herkesi Kapsamaktadır",
       "publishedAt": "2026-07-17",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -642,6 +723,7 @@
     },
     {
       "id": "dunya-savaslar-ve-acilarla-sarsilirken-mumin-nasil-yasamalidir",
+      "sourceId": "harunyahya",
       "title": "Dünya Savaşlar ve Acılarla Sarsılırken Mümin Nasıl Yaşamalıdır?",
       "publishedAt": "2026-07-15",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -651,6 +733,7 @@
     },
     {
       "id": "kuran-ahlakinin-yayilmasinin-en-onemli-sartlarindan-biri-muslumanlarin-birlik-ve-dayanismasidir",
+      "sourceId": "harunyahya",
       "title": "Kuran Ahlakının Yayılmasının En Önemli Şartlarından Biri Müslümanların Birlik ve Dayanışmasıdır",
       "publishedAt": "2026-07-11",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -660,6 +743,7 @@
     },
     {
       "id": "insan-fitrati-yalnizliga-degil-sevgiye-ve-dayanismaya-gore-yaratilmistir",
+      "sourceId": "harunyahya",
       "title": "İnsan Fıtratı Yalnızlığa Değil, Sevgiye ve Dayanışmaya Göre Yaratılmıştır",
       "publishedAt": "2026-07-03",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -669,6 +753,7 @@
     },
     {
       "id": "duayi-iyi-anlamak",
+      "sourceId": "harunyahya",
       "title": "\"Dua'yı\" İyi Anlamak",
       "publishedAt": "2026-07-02",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -678,6 +763,7 @@
     },
     {
       "id": "Allah-sevgisine-dayanan-gercek-sevgi-asla-tukenmez",
+      "sourceId": "harunyahya",
       "title": "Allah Sevgisine Dayanan Gerçek Sevgi Asla Tükenmez",
       "publishedAt": "2026-06-29",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -687,6 +773,7 @@
     },
     {
       "id": "Allahi-geregi-gibi-tanimak-neden-onemlidir",
+      "sourceId": "harunyahya",
       "title": "Allah’ı Gereği Gibi Tanımak Neden Önemlidir?",
       "publishedAt": "2026-06-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -696,6 +783,7 @@
     },
     {
       "id": "deriden-kalbe-kuranda-urperme-mucizesi-makale",
+      "sourceId": "harunyahya",
       "title": "Deriden Kalbe: Kur’an’da Ürperme Mucizesi",
       "publishedAt": "2026-06-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -705,6 +793,7 @@
     },
     {
       "id": "samimiyet-guzel-ahlakin-kapisidir",
+      "sourceId": "harunyahya",
       "title": "Samimiyet Güzel Ahlakın Kapısıdır",
       "publishedAt": "2026-06-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -714,6 +803,7 @@
     },
     {
       "id": "gercek-ask-ve-tutku-Allahin-muminlere-has-yarattigi-duygulardir",
+      "sourceId": "harunyahya",
       "title": "Gerçek Aşk ve Tutku, Allah’ın Müminlere Has Yarattığı Duygulardır",
       "publishedAt": "2026-06-22",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -723,6 +813,7 @@
     },
     {
       "id": "futbol-ile-kitleleri-kazanmak-2",
+      "sourceId": "harunyahya",
       "title": "Futbol İle Kitleleri Kazanmak",
       "publishedAt": "2026-06-19",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -732,6 +823,7 @@
     },
     {
       "id": "firavun-karakteri-muminlere-dusmanligin-ornegi",
+      "sourceId": "harunyahya",
       "title": "Firavun Karakteri: Müminlere Düşmanlığın Örneği",
       "publishedAt": "2026-06-11",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -741,6 +833,7 @@
     },
     {
       "id": "islamda-sevgi-baglilik-ve-yakinlik-olcusu-soy-degil-takvadir",
+      "sourceId": "harunyahya",
       "title": "İslam’da Sevgi, Bağlılık ve Yakınlık Ölçüsü Soy Değil, Takvadır",
       "publishedAt": "2026-06-09",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -750,6 +843,7 @@
     },
     {
       "id": "dogru-kararlar-almanin-yolu-samimi-olmaktir",
+      "sourceId": "harunyahya",
       "title": "Doğru Kararlar Almanın Yolu Samimi Olmaktır",
       "publishedAt": "2026-06-05",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -759,6 +853,7 @@
     },
     {
       "id": "bediuzzaman-said-nursi-ve-talebelerine-yonelik-baskilar-iftiralar-ve-yargilamalar",
+      "sourceId": "harunyahya",
       "title": "Bediüzzaman Said Nursi ve Talebelerine Yönelik Baskılar, İftiralar ve Yargılamalar",
       "publishedAt": "2026-05-31",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -768,6 +863,7 @@
     },
     {
       "id": "hesap-gunu-pisman-olmak-fayda-vermeyecektir",
+      "sourceId": "harunyahya",
       "title": "Hesap Günü Pişman Olmak Fayda Vermeyecektir",
       "publishedAt": "2026-05-29",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -777,6 +873,7 @@
     },
     {
       "id": "Allahin-dilemesi-her-seyin-uzerindedir",
+      "sourceId": "harunyahya",
       "title": "Allah’ın Dilemesi Her Şeyin Üzerindedir",
       "publishedAt": "2026-05-28",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -786,6 +883,7 @@
     },
     {
       "id": "gercek-ruh-ustunlugu-nasil-kazanilir",
+      "sourceId": "harunyahya",
       "title": "Gerçek Ruh Üstünlüğü Nasıl Kazanılır?",
       "publishedAt": "2026-05-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -795,6 +893,7 @@
     },
     {
       "id": "kulli-irade-de-cuzi-irade-de-Allaha-aittir",
+      "sourceId": "harunyahya",
       "title": "Külli İrade de Cüzi İrade de Allah'a Aittir",
       "publishedAt": "2026-05-25",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -804,6 +903,7 @@
     },
     {
       "id": "Allaha-teslimiyetin-sirri",
+      "sourceId": "harunyahya",
       "title": "Allah’a Teslimiyetin Sırrı",
       "publishedAt": "2026-05-06",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -813,6 +913,7 @@
     },
     {
       "id": "imtihan-Allahin-adaletine-teslim-olunca-kolaylasir",
+      "sourceId": "harunyahya",
       "title": "İmtihan, Allah’ın Adaletine Teslim Olunca Kolaylaşır",
       "publishedAt": "2026-05-04",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -822,6 +923,7 @@
     },
     {
       "id": "mumin-ruh-tamir-ustadidir",
+      "sourceId": "harunyahya",
       "title": "Mümin Ruh Tamir Üstadıdır",
       "publishedAt": "2026-05-02",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -831,6 +933,7 @@
     },
     {
       "id": "Allaha-teslimiyet",
+      "sourceId": "harunyahya",
       "title": "Allah’a Teslimiyet",
       "publishedAt": "2026-04-30",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -840,6 +943,7 @@
     },
     {
       "id": "kuran-i-kerimde-termodinamik-isaretler",
+      "sourceId": "harunyahya",
       "title": "Kur'an-ı Kerim'de Termodinamik İşaretler",
       "publishedAt": "2026-04-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -849,6 +953,7 @@
     },
     {
       "id": "okullarda-artan-siddet-nasil-durdurulabilir",
+      "sourceId": "harunyahya",
       "title": "Okullarda Artan Şiddet Nasıl Durdurulabilir?",
       "publishedAt": "2026-04-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -858,6 +963,7 @@
     },
     {
       "id": "toplumda-artan-siddet-olaylarinin-onlenmesinde-egitimin-rolu",
+      "sourceId": "harunyahya",
       "title": "Toplumda Artan Şiddet Olaylarının Önlenmesinde Eğitimin Rolü",
       "publishedAt": "2026-04-18",
       "category": "Güzel Konular",
@@ -867,6 +973,7 @@
     },
     {
       "id": "dikkat-farz-olan-bir-ibadettir",
+      "sourceId": "harunyahya",
       "title": "Dikkat; Farz Olan Bir İbadettir",
       "publishedAt": "2026-04-16",
       "category": "Güzel Konular",
@@ -876,6 +983,7 @@
     },
     {
       "id": "Allahin-istedigi-tevekkul",
+      "sourceId": "harunyahya",
       "title": "Allah'ın İstediği Tevekkül",
       "publishedAt": "2026-04-13",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -885,6 +993,7 @@
     },
     {
       "id": "tartismacilik-toplumsal-huzuru-tehdit-eden-bir-beladir",
+      "sourceId": "harunyahya",
       "title": "Tartışmacılık Toplumsal Huzuru Tehdit Eden Bir Beladır",
       "publishedAt": "2026-04-02",
       "category": "Güzel Konular",
@@ -894,6 +1003,7 @@
     },
     {
       "id": "musluman-dunyaperestlikten-uzak-durmalidir",
+      "sourceId": "harunyahya",
       "title": "Müslüman Dünyaperestlikten Uzak Durmalıdır",
       "publishedAt": "2026-03-28",
       "category": "Güzel Konular",
@@ -903,6 +1013,7 @@
     },
     {
       "id": "muslumanlara-karsi-mucadele-edenlerin-degismeyen-ozellikleri",
+      "sourceId": "harunyahya",
       "title": "Müslümanlara Karşı Mücadele Edenlerin Değişmeyen Özellikleri",
       "publishedAt": "2026-03-28",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -912,6 +1023,7 @@
     },
     {
       "id": "abdnin-irana-saldirisiyla-baslayan-savas-bir-din-savasidir",
+      "sourceId": "harunyahya",
       "title": "ABD’nin İran’a Saldırısıyla Başlayan Savaş Bir Din Savaşıdır",
       "publishedAt": "2026-03-27",
       "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
@@ -921,6 +1033,7 @@
     },
     {
       "id": "islamiyet-bilim-ve-teknolojiye-nasil-yon-verdi",
+      "sourceId": "harunyahya",
       "title": "İslamiyet Bilim ve Teknolojiye Nasıl Yön Verdi?",
       "publishedAt": "2026-03-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -930,6 +1043,7 @@
     },
     {
       "id": "musluman-hayirda-aceleci-olmalidir",
+      "sourceId": "harunyahya",
       "title": "Müslüman Hayırda Aceleci Olmalıdır",
       "publishedAt": "2026-03-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -939,6 +1053,7 @@
     },
     {
       "id": "sevmek-bir-sanattir",
+      "sourceId": "harunyahya",
       "title": "Sevmek Bir Sanattır",
       "publishedAt": "2026-03-26",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -948,6 +1063,7 @@
     },
     {
       "id": "din-guzel-ahlaktir-sevgidir",
+      "sourceId": "harunyahya",
       "title": "Din Güzel Ahlaktır, Sevgidir",
       "publishedAt": "2026-03-10",
       "category": "Güzel Konular",
@@ -957,6 +1073,7 @@
     },
     {
       "id": "Allah-her-seyi-sarip-kusatandir",
+      "sourceId": "harunyahya",
       "title": "Allah Her Şeyi Sarıp Kuşatandır",
       "publishedAt": "2026-02-28",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -966,6 +1083,7 @@
     },
     {
       "id": "Allahi-hakkiyla-sevmek",
+      "sourceId": "harunyahya",
       "title": "Allah'ı Hakkıyla Sevmek",
       "publishedAt": "2026-02-18",
       "category": "Güzel Konular",
@@ -975,6 +1093,7 @@
     },
     {
       "id": "mutlulugun-sirri-Allahin-nimetlerine-sukretmektir",
+      "sourceId": "harunyahya",
       "title": "Mutluluğun Sırrı Allah’ın Nimetlerine Şükretmektir",
       "publishedAt": "2026-02-15",
       "category": "Güzel Konular",
@@ -984,6 +1103,7 @@
     },
     {
       "id": "yapraklarin-icindeki-enerji-santrali",
+      "sourceId": "harunyahya",
       "title": "Yaprakların İçindeki Enerji Santrali",
       "publishedAt": "2026-02-12",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -993,6 +1113,7 @@
     },
     {
       "id": "zamana-bagli-sonsuza-acilan-ibadetler",
+      "sourceId": "harunyahya",
       "title": "Zamana Bağlı, Sonsuza Açılan İbadetler",
       "publishedAt": "2026-02-10",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1002,6 +1123,7 @@
     },
     {
       "id": "atmosferi-taklit-cabasi-ve-biyosfer-projesinin-husrani",
+      "sourceId": "harunyahya",
       "title": "Atmosferi Taklit Çabası ve Biyosfer Projesinin Hüsranı",
       "publishedAt": "2026-02-06",
       "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
@@ -1011,6 +1133,7 @@
     },
     {
       "id": "olum-yeni-bir-baslangictir",
+      "sourceId": "harunyahya",
       "title": "Ölüm yeni bir başlangıçtır",
       "publishedAt": "2026-01-31",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1020,6 +1143,7 @@
     },
     {
       "id": "gercek-sevgi-nasil-olmali",
+      "sourceId": "harunyahya",
       "title": "Gerçek Sevgi Nasıl Olmalı?",
       "publishedAt": "2026-01-23",
       "category": "Güzel Konular",
@@ -1029,6 +1153,7 @@
     },
     {
       "id": "gercek-dindar-Allahi-askla-seven-ve-onu-hic-unutmayan-kisidir",
+      "sourceId": "harunyahya",
       "title": "Gerçek Dindar, Allah'ı Aşkla Seven ve O'nu Hiç Unutmayan Kişidir",
       "publishedAt": "2026-01-15",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1038,6 +1163,7 @@
     },
     {
       "id": "savasin-cozumu-diplomasi-degil-kurana-dayali-sevgidir",
+      "sourceId": "harunyahya",
       "title": "Savaşın Çözümü Diplomasi Değil, Kuran’a Dayalı Sevgidir",
       "publishedAt": "2026-01-12",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1047,6 +1173,7 @@
     },
     {
       "id": "Allahin-muminlerde-yarattigi-ozel-yetenek-hayir-gozuyle-bakmak",
+      "sourceId": "harunyahya",
       "title": "Allah’ın Müminlerde Yarattığı Özel Yetenek: Hayır Gözüyle Bakmak",
       "publishedAt": "2026-01-11",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1056,6 +1183,7 @@
     },
     {
       "id": "siddet-egiliminin-nedeni-manevi-bosluk-ve-sevgisizlik",
+      "sourceId": "harunyahya",
       "title": "Şiddet Eğiliminin Nedeni: Manevi Boşluk Ve Sevgisizlik",
       "publishedAt": "2025-12-01",
       "category": "Güzel Konular",
@@ -1065,6 +1193,7 @@
     },
     {
       "id": "zorluklar-muminin-makamini-yukseltir",
+      "sourceId": "harunyahya",
       "title": "Zorluklar Müminin Makamını Yükseltir",
       "publishedAt": "2025-11-19",
       "category": "Güzel Konular",
@@ -1074,6 +1203,7 @@
     },
     {
       "id": "sevgiyle-yasayan-cennetin-guzelligini-hisseder",
+      "sourceId": "harunyahya",
       "title": "Sevgiyle Yaşayan, Cennetin Güzelliğini Hisseder",
       "publishedAt": "2025-11-17",
       "category": "Güzel Konular",
@@ -1083,6 +1213,7 @@
     },
     {
       "id": "vefa-fedakarlik-sabir-ve-kaliteye-ulasmanin-yolu-sevgidir",
+      "sourceId": "harunyahya",
       "title": "Vefa, Fedakârlık, Sabır ve Kaliteye ulaşmanın yolu Sevgidir",
       "publishedAt": "2025-11-17",
       "category": "Güzel Konular",
@@ -1092,6 +1223,7 @@
     },
     {
       "id": "sevginin-insandaki-pozitif-etkisi_7995",
+      "sourceId": "harunyahya",
       "title": "Sevginin İnsandaki Pozitif Etkisi",
       "publishedAt": "2025-11-07",
       "category": "Güzel Konular",
@@ -1101,6 +1233,7 @@
     },
     {
       "id": "derin-iman-sahiplerine-has-luks-sevgi",
+      "sourceId": "harunyahya",
       "title": "Derin İman Sahiplerine Has Lüks: SEVGİ",
       "publishedAt": "2025-10-28",
       "category": "Güzel Konular",
@@ -1110,6 +1243,7 @@
     },
     {
       "id": "cenneti-cennet-yapan-sevgidir",
+      "sourceId": "harunyahya",
       "title": "Cenneti Cennet Yapan Sevgidir",
       "publishedAt": "2025-10-20",
       "category": "Güzel Konular",
@@ -1119,6 +1253,7 @@
     },
     {
       "id": "mutlulugun-tek-yolu-Allahi-ve-tecellilerini-sevmektir",
+      "sourceId": "harunyahya",
       "title": "Mutluluğun Tek Yolu: Allah’ı ve Tecellilerini Sevmektir",
       "publishedAt": "2025-10-15",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1128,6 +1263,7 @@
     },
     {
       "id": "muslumanlarda-dayanisma-ve-birligin-onemi",
+      "sourceId": "harunyahya",
       "title": "Müslümanlarda Dayanışma ve Birliğin Önemi",
       "publishedAt": "2025-10-06",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1137,6 +1273,7 @@
     },
     {
       "id": "Allahtan-baska-kuvvet-yoktur",
+      "sourceId": "harunyahya",
       "title": "Allah'tan Başka Kuvvet Yoktur",
       "publishedAt": "2025-09-30",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1146,6 +1283,7 @@
     },
     {
       "id": "tevazu-sevginin-anahtaridir",
+      "sourceId": "harunyahya",
       "title": "Tevazu Sevginin Anahtarıdır",
       "publishedAt": "2025-09-12",
       "category": "Güzel Konular",
@@ -1155,6 +1293,7 @@
     },
     {
       "id": "zer-aleminde-Allaha-verilen-ahde-sadakat",
+      "sourceId": "harunyahya",
       "title": "Zer Aleminde Allah'a Verilen Ahde Sadakat",
       "publishedAt": "2025-08-18",
       "category": "Güzel Konular",
@@ -1164,6 +1303,7 @@
     },
     {
       "id": "muminlerin-mutlak-velisi-Allahtir",
+      "sourceId": "harunyahya",
       "title": "Müminlerin Mutlak Velisi Allah'tır",
       "publishedAt": "2025-08-03",
       "category": "Güzel Konular",
@@ -1173,6 +1313,7 @@
     },
     {
       "id": "siradan-gorunen-bir-olayda-beklenmedik-bir-ders-olabilir",
+      "sourceId": "harunyahya",
       "title": "Sıradan Görünen Bir Olayda Beklenmedik Bir Ders Olabilir",
       "publishedAt": "2025-07-13",
       "category": "Güzel Konular",
@@ -1182,6 +1323,7 @@
     },
     {
       "id": "kalite-guclu-imanla-olusur",
+      "sourceId": "harunyahya",
       "title": "Kalite Güçlü İmanla Oluşur",
       "publishedAt": "2025-06-25",
       "category": "Güzel Konular",
@@ -1191,6 +1333,7 @@
     },
     {
       "id": "cennete-girisin-anahtari-mutmain-nefis",
+      "sourceId": "harunyahya",
       "title": "CENNETE GİRİŞİN ANAHTARI: MUTMAİN NEFİS",
       "publishedAt": "2025-06-12",
       "category": "Güzel Konular",
@@ -1200,6 +1343,7 @@
     },
     {
       "id": "sevgiyi-en-derin-sekilde-yasayan-insanlar-Allahin-velileri",
+      "sourceId": "harunyahya",
       "title": "SEVGİYİ EN DERİN ŞEKİLDE YAŞAYAN İNSANLAR: “ALLAH'IN VELİLERİ”",
       "publishedAt": "2025-06-02",
       "category": "Güzel Konular",
@@ -1209,6 +1353,7 @@
     },
     {
       "id": "kadere-karsi-direnmenin-adi-sirktir",
+      "sourceId": "harunyahya",
       "title": "Kadere Karşı Direnmenin Adı Şirktir",
       "publishedAt": "2025-05-18",
       "category": "Güzel Konular",
@@ -1218,6 +1363,7 @@
     },
     {
       "id": "din-sevgiyle-yasanir",
+      "sourceId": "harunyahya",
       "title": "DİN SEVGİYLE YAŞANIR",
       "publishedAt": "2025-04-19",
       "category": "Güzel Konular",
@@ -1227,6 +1373,7 @@
     },
     {
       "id": "demokrasi-laiklik-ve-adaletin-ozu-kurandadir",
+      "sourceId": "harunyahya",
       "title": "Demokrasi, Laiklik ve Adaletin Özü Kuran'dadır",
       "publishedAt": "2025-04-14",
       "category": "Güzel Konular",
@@ -1236,6 +1383,7 @@
     },
     {
       "id": "Allahin-isaretlerini-takip-etmek",
+      "sourceId": "harunyahya",
       "title": "ALLAH’IN İŞARETLERİNİ TAKİP ETMEK",
       "publishedAt": "2025-04-01",
       "category": "Güzel Konular",
@@ -1245,6 +1393,7 @@
     },
     {
       "id": "muslumanlarin-galibiyetten-once-maglubiyet-yasamasi-adetullahtir",
+      "sourceId": "harunyahya",
       "title": "Müslümanların Galibiyetten Önce Mağlubiyet Yaşaması Adetullah'tır",
       "publishedAt": "2025-03-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1254,6 +1403,7 @@
     },
     {
       "id": "hayati-alt-veya-ust-boyutta-yasamak",
+      "sourceId": "harunyahya",
       "title": "HAYATI ALT VEYA ÜST BOYUTTA YAŞAMAK",
       "publishedAt": "2025-03-08",
       "category": "Güzel Konular",
@@ -1263,6 +1413,7 @@
     },
     {
       "id": "ahiretin-ve-hesap-gununun-varligini-sakin-anlamazliktan-gelmeyin",
+      "sourceId": "harunyahya",
       "title": "Ahiretin ve Hesap Gününün Varlığını Sakın Anlamazlıktan Gelmeyin",
       "publishedAt": "2018-03-15",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1272,6 +1423,7 @@
     },
     {
       "id": "bu-dunyada-uzun-sure-kalmayacaginizi-sakin-anlamazliktan-gelmeyin",
+      "sourceId": "harunyahya",
       "title": "Bu Dünyada Uzun Süre Kalmayacağınızı Sakın Anlamazlıktan Gelmeyin",
       "publishedAt": "2018-03-15",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1281,6 +1433,7 @@
     },
     {
       "id": "insan-imtihan-olmaktadir",
+      "sourceId": "harunyahya",
       "title": "İnsan imtihan olmaktadır",
       "publishedAt": "2018-03-15",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1290,6 +1443,7 @@
     },
     {
       "id": "olum-gercegini-sakin-anlamazliktan-gelmeyin",
+      "sourceId": "harunyahya",
       "title": "Ölüm Gerçeğini Sakın Anlamazlıktan Gelmeyin",
       "publishedAt": "2018-03-15",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1299,6 +1453,7 @@
     },
     {
       "id": "20-temmuz-kibris-baris-harekati-ve-kibris-davasi-1",
+      "sourceId": "harunyahya",
       "title": "20 Temmuz Kıbrıs Barış Harekatı ve Kıbrıs Davası -1-",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1308,6 +1463,7 @@
     },
     {
       "id": "20-temmuz-kibris-baris-harekati-ve-kibris-davasi-2",
+      "sourceId": "harunyahya",
       "title": "20 Temmuz Kıbrıs Barış Harekatı ve Kıbrıs Davası -2-",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1317,6 +1473,7 @@
     },
     {
       "id": "20-temmuz-kibris-baris-harekati-ve-kibris-davasi-3",
+      "sourceId": "harunyahya",
       "title": "20 Temmuz Kıbrıs Barış Harekatı ve Kıbrıs Davası -3-",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1326,6 +1483,7 @@
     },
     {
       "id": "21-yuzyilda-ekonominin-onculeri-islam-ulkeleri-olacak-72150_1486",
+      "sourceId": "harunyahya",
       "title": "21. Yüzyılda ekonominin öncüleri İslam ülkeleri olacak",
       "publishedAt": "2018-02-18",
       "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
@@ -1335,6 +1493,7 @@
     },
     {
       "id": "21-yuzyilin-gercek-tarihi_1856",
+      "sourceId": "harunyahya",
       "title": "21. Yüzyılın gerçek tarihi",
       "publishedAt": "2018-02-18",
       "category": "Ahir Zaman, Hz. Mehdi Ve Hz. İsa",
@@ -1344,6 +1503,7 @@
     },
     {
       "id": "21-yy-turkiyenin-altin-cagi-olacak",
+      "sourceId": "harunyahya",
       "title": "21. yy. Türkiye’nin altın çağı olacak",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1353,6 +1513,7 @@
     },
     {
       "id": "ahtapotun-kollari-avrupayi-sariyor",
+      "sourceId": "harunyahya",
       "title": "Ahtapotun kolları Avrupa'yı sarıyor",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1362,6 +1523,7 @@
     },
     {
       "id": "amerikanin-gizli-tarihi-2",
+      "sourceId": "harunyahya",
       "title": "Amerika'nın gizli tarihi -2-",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1371,6 +1533,7 @@
     },
     {
       "id": "amerikanin-gizli-tarihi-4",
+      "sourceId": "harunyahya",
       "title": "Amerika'nın gizli tarihi -4-",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1380,6 +1543,7 @@
     },
     {
       "id": "amerikanin-gizli-tarihi-5",
+      "sourceId": "harunyahya",
       "title": "Amerika'nın gizli tarihi -5-",
       "publishedAt": "2018-02-18",
       "category": "Tarih, Politika Ve Strateji",
@@ -1389,6 +1553,7 @@
     },
     {
       "id": "asiri-savunma-giderlerinin-dusundurdukleri",
+      "sourceId": "harunyahya",
       "title": "Aşırı savunma giderlerinin düşündürdükleri",
       "publishedAt": "2018-02-18",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1398,6 +1563,7 @@
     },
     {
       "id": "allahin-rahmetinden-umut-kesmemek-68609_3002",
+      "sourceId": "harunyahya",
       "title": "Allah'ın rahmetinden umut kesmemek",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1407,6 +1573,7 @@
     },
     {
       "id": "belirlenmis-vakitlerde-hamd-etmek-ve-allahi-tesbih-etmek",
+      "sourceId": "harunyahya",
       "title": "Belirlenmiş vakitlerde hamd etmek ve Allah’ı tesbih etmek",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1416,6 +1583,7 @@
     },
     {
       "id": "bilgi-sahibi-olunmayan-bir-konunun-savunuculugunu-yapmamak",
+      "sourceId": "harunyahya",
       "title": "Bilgi sahibi olunmayan bir konunun savunuculuğunu yapmamak",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1425,6 +1593,7 @@
     },
     {
       "id": "bineklere-binildiginde-allahin-nimetlerini-anmak",
+      "sourceId": "harunyahya",
       "title": "Bineklere binildiğinde Allah’ın nimetlerini anmak",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1434,6 +1603,7 @@
     },
     {
       "id": "bir-sey-unutuldugunda-allahi-zikretmek",
+      "sourceId": "harunyahya",
       "title": "Bir şey unutulduğunda Allah'ı zikretmek",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1443,6 +1613,7 @@
     },
     {
       "id": "bir-topluluga-karsi-duyulan-kinin-adaletten-alikoymamasi",
+      "sourceId": "harunyahya",
       "title": "Bir topluluğa karşı duyulan kinin adaletten alıkoymaması",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1452,6 +1623,7 @@
     },
     {
       "id": "ibadette-kararli-olmak-2",
+      "sourceId": "harunyahya",
       "title": "İbadette kararlı olmak",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1461,6 +1633,7 @@
     },
     {
       "id": "inkar-edenlerin-sahip-olduklari-zenginliklere-ozenmemek",
+      "sourceId": "harunyahya",
       "title": "İnkar edenlerin sahip oldukları zenginliklere özenmemek",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1470,6 +1643,7 @@
     },
     {
       "id": "insaallah-demek-14922_6772",
+      "sourceId": "harunyahya",
       "title": "\"İnşaAllah\" demek",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1479,6 +1653,7 @@
     },
     {
       "id": "muminlere-karsi-tevazulu-inkarcilara-karsi-caydirici-olmak",
+      "sourceId": "harunyahya",
       "title": "Müminlere karşı tevazulu, inkarcılara karşı caydırıcı olmak",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1488,6 +1663,7 @@
     },
     {
       "id": "muslumanlara-mujde-vermek",
+      "sourceId": "harunyahya",
       "title": "Müslümanlara müjde vermek",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
@@ -1497,6 +1673,7 @@
     },
     {
       "id": "yalan-soylememek",
+      "sourceId": "harunyahya",
       "title": "Yalan söylememek",
       "publishedAt": "2017-08-24",
       "category": "Kuran Ahlakı Ve Derin Düşünmek",
