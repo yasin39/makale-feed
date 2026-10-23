@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:55:37.7427484+03:00",
+  "updatedAt": "2026-10-23T23:56:06.3534807+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/Allah_rizasi_kapak_775x465.jpg",
       "readingMinutes": 9,
       "file": "articles/gundemburada-31416.json"
+    },
+    {
+      "id": "gundemburada-31400",
+      "sourceId": "gundemburada",
+      "title": "İnsanları Sevgiden Uzaklaştıran Oyun: Sevgi Rolü Yapmak – \uD83C\uDF99️",
+      "publishedAt": "2026-10-22",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/sevgi_rolu_yapmak_775x465.jpg",
+      "readingMinutes": 29,
+      "file": "articles/gundemburada-31400.json"
     },
     {
       "id": "ruya-ve-gercek-arasindaki-bag",
