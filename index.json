@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:14:48.2437056+03:00",
+  "updatedAt": "2026-10-24T00:15:28.7908353+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -360,6 +360,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/yapay-zeka-dawkins-i-nasil-yalanliyor/makale-kapak-alternatif-3-108.jpg",
       "readingMinutes": 8,
       "file": "articles/yapay-zeka-dawkins-i-nasil-yalanliyor.json"
+    },
+    {
+      "id": "gundemburada-31184",
+      "sourceId": "gundemburada",
+      "title": "Kötüye Hayranlık Manevi Bir Yıkımdır – \uD83C\uDF99️",
+      "publishedAt": "2026-10-03",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/kotuye-hayranlik-manevi-bir-yikimdir.jpg",
+      "readingMinutes": 18,
+      "file": "articles/gundemburada-31184.json"
     },
     {
       "id": "kuran-oz-guvenin-nasil-kazanilacagini-aciklar",
