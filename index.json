@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:58:14.1873456+03:00",
+  "updatedAt": "2026-10-23T23:58:31.5055095+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -130,6 +130,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir/stimella-10-686.jpg",
       "readingMinutes": 9,
       "file": "articles/saff-suresi-nde-mujdelenen-elci-hz-mehdi-dir.json"
+    },
+    {
+      "id": "gundemburada-31288",
+      "sourceId": "gundemburada",
+      "title": "Okullarda Harun Yahya Eserleriyle Konferanslar Verilirken, Okul Saldırıları Olmuyordu – \uD83C\uDF99️",
+      "publishedAt": "2026-10-15",
+      "category": "Bülten, Kamuoyu Duyurusu",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/kapak_okulsaldirisi.png",
+      "readingMinutes": 4,
+      "file": "articles/gundemburada-31288.json"
     },
     {
       "id": "hadislerde-bildirilen-deccaliyetin-cehennemi-van-daki-aden-bahcesidir",
