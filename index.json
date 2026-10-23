@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:58:02.2723359+03:00",
+  "updatedAt": "2026-10-23T23:58:14.1873456+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -100,6 +100,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/siyonizm_kapak_775x465.jpeg",
       "readingMinutes": 11,
       "file": "articles/gundemburada-31346.json"
+    },
+    {
+      "id": "gundemburada-31317",
+      "sourceId": "gundemburada",
+      "title": "Sevgide Tereddüt Olmaz: Gerçek Sevgi Menfaat Üzerine Kurulmaz – \uD83C\uDF99️",
+      "publishedAt": "2026-10-17",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/Sevgide-Tereddu%CC%88t-Olmaz.jpg",
+      "readingMinutes": 16,
+      "file": "articles/gundemburada-31317.json"
     },
     {
       "id": "gundemburada-31326",
