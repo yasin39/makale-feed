@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:14:27.3873302+03:00",
+  "updatedAt": "2026-10-24T00:14:41.3967207+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -280,6 +280,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/dunyadan-gecip-giden-milyarlarca-insan/makale-kapak-alternatif-5-219.jpg",
       "readingMinutes": 4,
       "file": "articles/dunyadan-gecip-giden-milyarlarca-insan.json"
+    },
+    {
+      "id": "gundemburada-31198",
+      "sourceId": "gundemburada",
+      "title": "Dindar Gençlik Hedefi Güzel, Peki Dindar Gençlik Nasıl Yetişmeli?",
+      "publishedAt": "2026-10-07",
+      "category": "Kamuoyu Duyurusu",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/dindar_genclik.jpg",
+      "readingMinutes": 5,
+      "file": "articles/gundemburada-31198.json"
     },
     {
       "id": "gundemburada-31204",
