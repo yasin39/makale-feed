@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:56:06.3534807+03:00",
+  "updatedAt": "2026-10-23T23:56:54.5560035+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/Allah_rizasi_kapak_775x465.jpg",
       "readingMinutes": 9,
       "file": "articles/gundemburada-31416.json"
+    },
+    {
+      "id": "gundemburada-31397",
+      "sourceId": "gundemburada",
+      "title": "Gerçek Müslümanlık, Sorumluluk Almayı ve Çaba Göstermeyi Gerektirir – \uD83C\uDF99️",
+      "publishedAt": "2026-10-22",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/muslumanin_sorumlulugu_kapak_775x465.jpg",
+      "readingMinutes": 8,
+      "file": "articles/gundemburada-31397.json"
     },
     {
       "id": "gundemburada-31400",
