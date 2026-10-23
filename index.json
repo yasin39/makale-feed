@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:14:41.3967207+03:00",
+  "updatedAt": "2026-10-24T00:14:48.2437056+03:00",
   "articles": [
     {
       "id": "gundemburada-31416",
@@ -330,6 +330,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/dunyaya-ozgu-bir-istisna-oksijen/makale-kapak-alternatif-340.jpg",
       "readingMinutes": 8,
       "file": "articles/dunyaya-ozgu-bir-istisna-oksijen.json"
+    },
+    {
+      "id": "gundemburada-31192",
+      "sourceId": "gundemburada",
+      "title": "Hz. Mehdi’nin Kimliğinin Gizli Tutulmasındaki Hikmet ve Allah’ın Koruması – \uD83C\uDF99️",
+      "publishedAt": "2026-10-05",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/hz-mehdi-kapak.jpg",
+      "readingMinutes": 14,
+      "file": "articles/gundemburada-31192.json"
     },
     {
       "id": "schrodinger-in-kedisi-gercek-mi-oluyor",
