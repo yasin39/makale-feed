@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:12:28.3341643+03:00",
+  "updatedAt": "2026-10-24T20:14:51.7152335+03:00",
   "articles": [
     {
       "id": "Allah-a-derin-ve-samimi-bag-ile-baglananlar-yalnizca-o-nu-dost-ve-veli-edinirler",
@@ -40,6 +40,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/sevgi_rolu_yapmak_775x465.jpg",
       "readingMinutes": 29,
       "file": "articles/gundemburada-31400.json"
+    },
+    {
+      "id": "gundemburada-31392",
+      "sourceId": "gundemburada",
+      "title": "Adnan Oktar’dan Prof. Dr. Ümit Kocasakal’a Destek Açıklaması",
+      "publishedAt": "2026-10-21",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/umit_kocasakal_775x465.jpg",
+      "readingMinutes": 22,
+      "file": "articles/gundemburada-31392.json"
     },
     {
       "id": "ruya-ve-gercek-arasindaki-bag",
