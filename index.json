@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T20:14:51.7152335+03:00",
+  "updatedAt": "2026-10-26T11:18:57.2887514+03:00",
   "articles": [
+    {
+      "id": "gercek-sevgi-tereddut-etmez",
+      "sourceId": "harunyahya",
+      "title": "Gerçek Sevgi Tereddüt Etmez",
+      "publishedAt": "2026-10-26",
+      "category": "Sevgi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/gercek-sevgi-tereddut-etmez/bir-dokunusun-ardindaki-kapak-master-2-180.jpg",
+      "readingMinutes": 16,
+      "file": "articles/gercek-sevgi-tereddut-etmez.json"
+    },
     {
       "id": "Allah-a-derin-ve-samimi-bag-ile-baglananlar-yalnizca-o-nu-dost-ve-veli-edinirler",
       "sourceId": "harunyahya",
