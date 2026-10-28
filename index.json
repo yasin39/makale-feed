@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-28T21:10:46.5438823+03:00",
+  "updatedAt": "2026-10-28T21:11:12.9324925+03:00",
   "articles": [
+    {
+      "id": "gundemburada-31459",
+      "sourceId": "gundemburada",
+      "title": "Kur’an’da Başörtüsü Hükmü Olmadığına Dair Açıklamalar – \uD83C\uDF99️",
+      "publishedAt": "2026-10-28",
+      "category": "Tekzip",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/kuranda_basortusu_hukmu_kapak.jpg",
+      "readingMinutes": 10,
+      "file": "articles/gundemburada-31459.json"
+    },
     {
       "id": "kara-deliklerin-muazzam-gucu",
       "sourceId": "harunyahya",
