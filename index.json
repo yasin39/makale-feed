@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:29:59.4564322+03:00",
+  "updatedAt": "2026-10-30T13:30:30.5920531+03:00",
   "articles": [
     {
       "id": "beyni-virusler-sekillendirdi-masali-ve-dna-da-virus-kalintilari-bulundugu-iddiasina-cevap",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/beyni-virusler-sekillendirdi-masali-ve-dna-da-virus-kalintilari-bulundugu-iddiasina-cevap/fatiha-kapak-master-144.jpg",
       "readingMinutes": 11,
       "file": "articles/beyni-virusler-sekillendirdi-masali-ve-dna-da-virus-kalintilari-bulundugu-iddiasina-cevap.json"
+    },
+    {
+      "id": "gundemburada-31468",
+      "sourceId": "gundemburada",
+      "title": "Zayıflama İğnelerinin Bilinçsiz Kullanımı ve Sağlık Riskleri – \uD83C\uDF99️",
+      "publishedAt": "2026-10-29",
+      "category": "Bülten, Kamuoyu Duyurusu",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/zayiflama_igneleri_kapak.jpeg",
+      "readingMinutes": 11,
+      "file": "articles/gundemburada-31468.json"
     },
     {
       "id": "gundemburada-31459",
