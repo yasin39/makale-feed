@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:10:35.6846457+03:00",
+  "updatedAt": "2026-11-02T20:11:01.3336769+03:00",
   "articles": [
     {
       "id": "dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/dizi-ve-filmlere-farkli-bir-bakis-acisiyla-bakmak/video-kapak-resimleri-946.jpg",
       "readingMinutes": 5,
       "file": "articles/dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor.json"
+    },
+    {
+      "id": "gundemburada-31516",
+      "sourceId": "gundemburada",
+      "title": "Okullardaki Şiddet, Çocukların Allah Sevgisiyle Yetiştirilmesiyle Son Bulur",
+      "publishedAt": "2026-11-01",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/okul_siddet.jpg",
+      "readingMinutes": 19,
+      "file": "articles/gundemburada-31516.json"
     },
     {
       "id": "insan-dunyada-kendini-hakli-gosterebilir-peki-ya-ahirette",
