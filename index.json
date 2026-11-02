@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-30T13:30:30.5920531+03:00",
+  "updatedAt": "2026-11-02T20:10:09.6545008+03:00",
   "articles": [
+    {
+      "id": "dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor",
+      "sourceId": "harunyahya",
+      "title": "Dizi ve Filmlerde İzlediklerimiz Bize Neler Öğretiyor?",
+      "publishedAt": "2026-11-02",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/dizi-ve-filmlere-farkli-bir-bakis-acisiyla-bakmak/video-kapak-resimleri-946.jpg",
+      "readingMinutes": 5,
+      "file": "articles/dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor.json"
+    },
     {
       "id": "beyni-virusler-sekillendirdi-masali-ve-dna-da-virus-kalintilari-bulundugu-iddiasina-cevap",
       "sourceId": "harunyahya",
