@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:10:23.5792595+03:00",
+  "updatedAt": "2026-11-02T20:10:35.6846457+03:00",
   "articles": [
     {
       "id": "dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/dizi-ve-filmlere-farkli-bir-bakis-acisiyla-bakmak/video-kapak-resimleri-946.jpg",
       "readingMinutes": 5,
       "file": "articles/dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor.json"
+    },
+    {
+      "id": "insan-dunyada-kendini-hakli-gosterebilir-peki-ya-ahirette",
+      "sourceId": "harunyahya",
+      "title": "İnsan Dünyada Kendini Haklı Gösterebilir, Peki Ya Ahirette?",
+      "publishedAt": "2026-10-31",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/insan-dunyada-kendini-hakli-gosterebilir-peki-ya-ahirette/makale-kapak-6-65.jpg",
+      "readingMinutes": 9,
+      "file": "articles/insan-dunyada-kendini-hakli-gosterebilir-peki-ya-ahirette.json"
     },
     {
       "id": "muslumanim-demenin-hayattaki-karsiligi",
