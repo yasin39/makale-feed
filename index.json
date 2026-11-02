@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:10:09.6545008+03:00",
+  "updatedAt": "2026-11-02T20:10:23.5792595+03:00",
   "articles": [
     {
       "id": "dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/dizi-ve-filmlere-farkli-bir-bakis-acisiyla-bakmak/video-kapak-resimleri-946.jpg",
       "readingMinutes": 5,
       "file": "articles/dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor.json"
+    },
+    {
+      "id": "muslumanim-demenin-hayattaki-karsiligi",
+      "sourceId": "harunyahya",
+      "title": "“Müslümanım” Demenin Hayattaki Karşılığı",
+      "publishedAt": "2026-10-31",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/muslumanim-demenin-hayattaki-karsiligi/makale-kapak-ayna-4-316.jpg",
+      "readingMinutes": 7,
+      "file": "articles/muslumanim-demenin-hayattaki-karsiligi.json"
     },
     {
       "id": "beyni-virusler-sekillendirdi-masali-ve-dna-da-virus-kalintilari-bulundugu-iddiasina-cevap",
