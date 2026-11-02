@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:11:01.3336769+03:00",
+  "updatedAt": "2026-11-02T20:11:49.8458034+03:00",
   "articles": [
     {
       "id": "dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor",
@@ -40,6 +40,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/10/muslumanim-demenin-hayattaki-karsiligi/makale-kapak-ayna-4-316.jpg",
       "readingMinutes": 7,
       "file": "articles/muslumanim-demenin-hayattaki-karsiligi.json"
+    },
+    {
+      "id": "gundemburada-31483",
+      "sourceId": "gundemburada",
+      "title": "Beyin Göçünün Gerçek Nedeni: Gençler Özgürlük İstiyor – \uD83C\uDF99️",
+      "publishedAt": "2026-10-30",
+      "category": "Bülten, Kamuoyu Duyurusu",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/10/beyin_gocu_kapak_775x465.jpg",
+      "readingMinutes": 7,
+      "file": "articles/gundemburada-31483.json"
     },
     {
       "id": "beyni-virusler-sekillendirdi-masali-ve-dna-da-virus-kalintilari-bulundugu-iddiasina-cevap",
