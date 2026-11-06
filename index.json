@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:42:43.4213264+03:00",
+  "updatedAt": "2026-11-06T16:42:56.6334709+03:00",
   "articles": [
     {
       "id": "gundemburada-31565",
@@ -1270,6 +1270,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/makale-kapak-ana-dosya-1280x720-391.jpg",
       "readingMinutes": 7,
       "file": "articles/kulli-irade-de-cuzi-irade-de-Allaha-aittir.json"
+    },
+    {
+      "id": "yirmi-yas-dislerinin-bilinmeyen-degeri",
+      "sourceId": "harunyahya",
+      "title": "Yirmi Yaş Dişlerinin Bilinmeyen Değeri",
+      "publishedAt": "2026-05-10",
+      "category": "Yaratılış Delilleri",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/05/chatgpt-image-9-may-2026-15_30_48-409.png",
+      "readingMinutes": 3,
+      "file": "articles/yirmi-yas-dislerinin-bilinmeyen-degeri.json"
     },
     {
       "id": "Allaha-teslimiyetin-sirri",
