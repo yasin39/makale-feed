@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:37:32.3113588+03:00",
+  "updatedAt": "2026-11-06T16:38:48.3390764+03:00",
   "articles": [
     {
       "id": "incir-ve-zeytinde-yeni-kesfedilen-yaratilis-mucizeleri",
@@ -20,6 +20,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/kalabaliklar-sizi-aldatmasin/fatiha-kapak-master-9-575.jpg",
       "readingMinutes": 5,
       "file": "articles/kalabaliklar-sizi-aldatmasin.json"
+    },
+    {
+      "id": "gundemburada-31530",
+      "sourceId": "gundemburada",
+      "title": "İslam’da Zenginlik Helaldir – \uD83C\uDF99️",
+      "publishedAt": "2026-11-03",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/image009.jpg",
+      "readingMinutes": 28,
+      "file": "articles/gundemburada-31530.json"
     },
     {
       "id": "dizi-ve-filmlerde-izlediklerimiz-bize-neler-ogretiyor",
