@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:40:46.9556329+03:00",
+  "updatedAt": "2026-11-06T16:41:29.3431717+03:00",
   "articles": [
     {
       "id": "gundemburada-31565",
@@ -680,6 +680,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir/2-523.jpg",
       "readingMinutes": 11,
       "file": "articles/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir.json"
+    },
+    {
+      "id": "kur-an-da-saglikli-uyku-pozisyonuna-mi-dikkat-cekiliyor",
+      "sourceId": "harunyahya",
+      "title": "Kur’an’da Sağlıklı Uyku Pozisyonuna Mı Dikkat Çekiliyor?",
+      "publishedAt": "2026-09-17",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/kur-an-da-saglikli-uyku-pozisyonuna-mi-dikkat-cekiliyor/ahirzaman-alametleri-banner-1-721.jpg",
+      "readingMinutes": 7,
+      "file": "articles/kur-an-da-saglikli-uyku-pozisyonuna-mi-dikkat-cekiliyor.json"
     },
     {
       "id": "Allah-in-kuran-daki-vaatlerine-ve-uyarilarina-ulfetle-bakmaktan-kacinmak",
