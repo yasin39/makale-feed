@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:41:29.3431717+03:00",
+  "updatedAt": "2026-11-06T16:41:50.9172299+03:00",
   "articles": [
     {
       "id": "gundemburada-31565",
@@ -680,6 +680,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir/2-523.jpg",
       "readingMinutes": 11,
       "file": "articles/dunya-hayati-hirsla-baglanmak-icin-degil-imtihan-icin-yaratilmistir.json"
+    },
+    {
+      "id": "hipertansiyon-tedavisinde-implant-teknolojileri",
+      "sourceId": "harunyahya",
+      "title": "Hipertansiyon Tedavisinde İmplant Teknolojileri",
+      "publishedAt": "2026-09-17",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/09/hipertansiyon-tedavisinde-implant-teknolojileri/makalekapak-1-867.jpg",
+      "readingMinutes": 4,
+      "file": "articles/hipertansiyon-tedavisinde-implant-teknolojileri.json"
     },
     {
       "id": "kur-an-da-saglikli-uyku-pozisyonuna-mi-dikkat-cekiliyor",
