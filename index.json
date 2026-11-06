@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:39:59.4906068+03:00",
+  "updatedAt": "2026-11-06T16:40:13.3383877+03:00",
   "articles": [
     {
       "id": "gundemburada-31565",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/vicdan_kapak_775x465.jpg",
       "readingMinutes": 14,
       "file": "articles/gundemburada-31565.json"
+    },
+    {
+      "id": "gundemburada-31576",
+      "sourceId": "gundemburada",
+      "title": "Müslümanların Birlikte Mutlu Olmasının Sırrı Nedir? – \uD83C\uDF99️",
+      "publishedAt": "2026-11-05",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/muslumanlar_birlikte_mutluluk_775x465.jpg",
+      "readingMinutes": 7,
+      "file": "articles/gundemburada-31576.json"
     },
     {
       "id": "gundemburada-31557",
