@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:40:13.3383877+03:00",
+  "updatedAt": "2026-11-06T16:40:46.9556329+03:00",
   "articles": [
     {
       "id": "gundemburada-31565",
@@ -20,6 +20,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/muslumanlar_birlikte_mutluluk_775x465.jpg",
       "readingMinutes": 7,
       "file": "articles/gundemburada-31576.json"
+    },
+    {
+      "id": "gundemburada-31579",
+      "sourceId": "gundemburada",
+      "title": "Medyada Tekrarlanan İftiralar ve Delilsiz Suçlamalarla Algı Oluşturma",
+      "publishedAt": "2026-11-05",
+      "category": "Dilekçe",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/medya_adalet_kapak_775x465.jpg",
+      "readingMinutes": 13,
+      "file": "articles/gundemburada-31579.json"
     },
     {
       "id": "gundemburada-31557",
