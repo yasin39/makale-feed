@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:48:56.4351057+03:00",
+  "updatedAt": "2026-11-09T18:00:31.6860808+03:00",
   "articles": [
     {
       "id": "gundemburada-31640",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/medyada_siddet_ve_iyilik_775x465.jpg",
       "readingMinutes": 7,
       "file": "articles/gundemburada-31640.json"
+    },
+    {
+      "id": "tas-tepeler-dinlerin-evrimi-masalini-tarihe-gomuyor",
+      "sourceId": "harunyahya",
+      "title": "Taş Tepeler Dinlerin Evrimi Masalını Tarihe Gömüyor",
+      "publishedAt": "2026-11-07",
+      "category": "Tarih, Politika Ve Strateji",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/tas-tepeler-dinlerin-evrimi-masalini-tarihe-gomuyor/makale-kapak-ayna-968.jpg",
+      "readingMinutes": 8,
+      "file": "articles/tas-tepeler-dinlerin-evrimi-masalini-tarihe-gomuyor.json"
     },
     {
       "id": "basortusu-zorunluluk-mu-kadinin-tercihi-mi",
