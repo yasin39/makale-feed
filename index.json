@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T18:00:31.6860808+03:00",
+  "updatedAt": "2026-11-10T18:48:05.5353438+03:00",
   "articles": [
     {
       "id": "gundemburada-31640",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/medyada_siddet_ve_iyilik_775x465.jpg",
       "readingMinutes": 7,
       "file": "articles/gundemburada-31640.json"
+    },
+    {
+      "id": "seytan-kalbi-kusatmak-ister",
+      "sourceId": "harunyahya",
+      "title": "Şeytan Kalbi Kuşatmak İster",
+      "publishedAt": "2026-11-07",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/seytan-kalbi-kusatmak-ister/makale-kapak-ayna-4-26.jpg",
+      "readingMinutes": 5,
+      "file": "articles/seytan-kalbi-kusatmak-ister.json"
     },
     {
       "id": "tas-tepeler-dinlerin-evrimi-masalini-tarihe-gomuyor",
