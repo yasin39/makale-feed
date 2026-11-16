@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:44:24.487026+03:00",
+  "updatedAt": "2026-11-16T13:44:40.7243457+03:00",
   "articles": [
     {
       "id": "kendimizle-yuzlesme-vakti",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/kendimizle-yuzlesme-vakti/makale-kapak-418.jpg",
       "readingMinutes": 5,
       "file": "articles/kendimizle-yuzlesme-vakti.json"
+    },
+    {
+      "id": "aerojel-isiyi-yalitan-mucizevi-malzeme",
+      "sourceId": "harunyahya",
+      "title": "Aerojel: Isıyı Yalıtan Mucizevi Malzeme",
+      "publishedAt": "2026-11-13",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/aerojel-isiyi-yalitan-mucizevi-malzeme/makale-kapak-master-2-592.jpg",
+      "readingMinutes": 4,
+      "file": "articles/aerojel-isiyi-yalitan-mucizevi-malzeme.json"
     },
     {
       "id": "kizbocegi-bir-kanatta-sakli-muhtesem-dunya",
