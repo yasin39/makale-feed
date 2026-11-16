@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:44:56.1056051+03:00",
+  "updatedAt": "2026-11-16T13:45:08.1528402+03:00",
   "articles": [
     {
       "id": "kendimizle-yuzlesme-vakti",
@@ -40,6 +40,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/atmosferin-gorunmez-deterjani/makale-kapak-master-2-595.jpg",
       "readingMinutes": 5,
       "file": "articles/atmosferin-gorunmez-deterjani.json"
+    },
+    {
+      "id": "furkan-ozturk-un-deneyine-yaratilis-acisindan-bakis",
+      "sourceId": "harunyahya",
+      "title": "Furkan Öztürk’ün Deneyine Yaratılış Açısından Bakış",
+      "publishedAt": "2026-11-11",
+      "category": "Evrim Teorisinin Çöküşü",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/furkan-ozturk-un-deneyine-yaratilis-acisindan-bakis/makale-kapak-master-1-940.jpg",
+      "readingMinutes": 16,
+      "file": "articles/furkan-ozturk-un-deneyine-yaratilis-acisindan-bakis.json"
     },
     {
       "id": "gundemburada-31640",
