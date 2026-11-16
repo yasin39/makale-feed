@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:46:35.8953323+03:00",
+  "updatedAt": "2026-11-16T13:46:46.9762589+03:00",
   "articles": [
     {
       "id": "kendimizle-yuzlesme-vakti",
@@ -70,6 +70,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/dabbetul_arz_kapak_775x465.jpg",
       "readingMinutes": 18,
       "file": "articles/gundemburada-31711.json"
+    },
+    {
+      "id": "gundemburada-31699",
+      "sourceId": "gundemburada",
+      "title": "Kur’an’da Mehdiyetin İşaretleri ve Hz. Mehdi’nin Gizlenmesindeki Hikmet – \uD83C\uDF99️",
+      "publishedAt": "2026-11-10",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/mehdiyet_kapak_775x465.jpg",
+      "readingMinutes": 27,
+      "file": "articles/gundemburada-31699.json"
     },
     {
       "id": "gundemburada-31640",
