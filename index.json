@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:45:08.1528402+03:00",
+  "updatedAt": "2026-11-16T13:46:07.8079895+03:00",
   "articles": [
     {
       "id": "kendimizle-yuzlesme-vakti",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/kendimizle-yuzlesme-vakti/makale-kapak-418.jpg",
       "readingMinutes": 5,
       "file": "articles/kendimizle-yuzlesme-vakti.json"
+    },
+    {
+      "id": "gundemburada-31771",
+      "sourceId": "gundemburada",
+      "title": "Risale-i Nur’da Hz. Mehdi’nin İlmi Mücadelesi, İnsan Sevgisi ve Güzel Ahlakı",
+      "publishedAt": "2026-11-14",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/Risale_i_Nur_Hz_Mehdi_Kapak_775x465.jpg",
+      "readingMinutes": 18,
+      "file": "articles/gundemburada-31771.json"
     },
     {
       "id": "aerojel-isiyi-yalitan-mucizevi-malzeme",
