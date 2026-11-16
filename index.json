@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:46:07.8079895+03:00",
+  "updatedAt": "2026-11-16T13:46:35.8953323+03:00",
   "articles": [
     {
       "id": "kendimizle-yuzlesme-vakti",
@@ -60,6 +60,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/furkan-ozturk-un-deneyine-yaratilis-acisindan-bakis/makale-kapak-master-1-940.jpg",
       "readingMinutes": 16,
       "file": "articles/furkan-ozturk-un-deneyine-yaratilis-acisindan-bakis.json"
+    },
+    {
+      "id": "gundemburada-31711",
+      "sourceId": "gundemburada",
+      "title": "Kuran’da Dabbetü’l Arz’ın İşaretleri: Bilgisayar, İnternet ve Yapay Zeka Teknolojisi",
+      "publishedAt": "2026-11-11",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/dabbetul_arz_kapak_775x465.jpg",
+      "readingMinutes": 18,
+      "file": "articles/gundemburada-31711.json"
     },
     {
       "id": "gundemburada-31640",
