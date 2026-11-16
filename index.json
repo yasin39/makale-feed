@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:46:56.2641805+03:00",
+  "updatedAt": "2026-11-16T13:48:51.0516232+03:00",
   "articles": [
     {
       "id": "kendimizle-yuzlesme-vakti",
@@ -80,6 +80,16 @@
       "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/mehdiyet_kapak_775x465.jpg",
       "readingMinutes": 27,
       "file": "articles/gundemburada-31699.json"
+    },
+    {
+      "id": "gundemburada-31651",
+      "sourceId": "gundemburada",
+      "title": "Mutluluğun Kaynağı İslam Ahlakı ve Sevgidir – \uD83C\uDF99️",
+      "publishedAt": "2026-11-09",
+      "category": "Bülten, Kamuoyu Duyurusu",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/islam_ahlaki_sevgi_kapak_775x465.jpg",
+      "readingMinutes": 18,
+      "file": "articles/gundemburada-31651.json"
     },
     {
       "id": "gundemburada-31686",
