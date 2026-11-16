@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:44:11.4909557+03:00",
+  "updatedAt": "2026-11-16T13:44:24.487026+03:00",
   "articles": [
     {
       "id": "kendimizle-yuzlesme-vakti",
@@ -10,6 +10,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/kendimizle-yuzlesme-vakti/makale-kapak-418.jpg",
       "readingMinutes": 5,
       "file": "articles/kendimizle-yuzlesme-vakti.json"
+    },
+    {
+      "id": "kizbocegi-bir-kanatta-sakli-muhtesem-dunya",
+      "sourceId": "harunyahya",
+      "title": "Kızböceği: Bir Kanatta Saklı Muhteşem Dünya",
+      "publishedAt": "2026-11-13",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/kizbocegi-bir-kanatta-sakli-muhtesem-dunya/makale-kapak-master-10-724.jpg",
+      "readingMinutes": 7,
+      "file": "articles/kizbocegi-bir-kanatta-sakli-muhtesem-dunya.json"
     },
     {
       "id": "gundemburada-31640",
