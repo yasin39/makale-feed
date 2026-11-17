@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-17T07:19:49.7156407+03:00",
+  "updatedAt": "2026-11-17T07:20:06.8785996+03:00",
   "articles": [
+    {
+      "id": "gundemburada-31794",
+      "sourceId": "gundemburada",
+      "title": "Hasetin Sinsi Dili – \uD83C\uDF99️",
+      "publishedAt": "2026-11-16",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/hasetin_sinsi_dili_775x465.jpg",
+      "readingMinutes": 11,
+      "file": "articles/gundemburada-31794.json"
+    },
     {
       "id": "gundemburada-31802",
       "sourceId": "gundemburada",
