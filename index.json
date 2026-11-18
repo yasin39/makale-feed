@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-17T07:20:06.8785996+03:00",
+  "updatedAt": "2026-11-18T11:50:02.1118046+03:00",
   "articles": [
+    {
+      "id": "guzel-bakan-guzel-gorur",
+      "sourceId": "harunyahya",
+      "title": "Güzel Bakan Güzel Görür",
+      "publishedAt": "2026-11-17",
+      "category": "Kuran Ahlakı Ve Derin Düşünmek",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/guzel-bakan-guzel-gorur/makale-kapak-kizbocegi-1-966.jpg",
+      "readingMinutes": 4,
+      "file": "articles/guzel-bakan-guzel-gorur.json"
+    },
     {
       "id": "gundemburada-31794",
       "sourceId": "gundemburada",
