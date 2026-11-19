@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:57:36.2868085+03:00",
+  "updatedAt": "2026-11-19T18:57:55.956238+03:00",
   "articles": [
     {
       "id": "evrimin-ilkel-yag-balonu-patladi",
@@ -20,6 +20,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/evrimsel-yaratilis-yanilgisi/makale-kapak-5-57.jpg",
       "readingMinutes": 10,
       "file": "articles/evrimsel-yaratilis-yanilgisi.json"
+    },
+    {
+      "id": "gundemburada-31845",
+      "sourceId": "gundemburada",
+      "title": "Müslüman İçin İslam’ın Şartı, Kur’an’a Tam Uymaktır – \uD83C\uDF99️",
+      "publishedAt": "2026-11-18",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/dindarim_dinin_hukumlerine_uymamak_775x465.jpg",
+      "readingMinutes": 8,
+      "file": "articles/gundemburada-31845.json"
     },
     {
       "id": "gundemburada-31848",
