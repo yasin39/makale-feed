@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-19T18:51:19.5352562+03:00",
+  "updatedAt": "2026-11-19T18:51:40.3777676+03:00",
   "articles": [
+    {
+      "id": "evrimin-ilkel-yag-balonu-patladi",
+      "sourceId": "harunyahya",
+      "title": "Evrimin İlkel Yağ Balonu Patladı",
+      "publishedAt": "2026-11-19",
+      "category": "Evrim Teorisinin Çöküşü",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/evrimin-ilkel-yag-balonu-patladi/makale-kapak-2-954.jpg",
+      "readingMinutes": 4,
+      "file": "articles/evrimin-ilkel-yag-balonu-patladi.json"
+    },
     {
       "id": "evrimsel-yaratilis-yanilgisi",
       "sourceId": "harunyahya",
