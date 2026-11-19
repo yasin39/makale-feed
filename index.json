@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:59:03.8778635+03:00",
+  "updatedAt": "2026-11-19T18:59:23.7496099+03:00",
   "articles": [
     {
       "id": "evrimin-ilkel-yag-balonu-patladi",
@@ -20,6 +20,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/evrimsel-yaratilis-yanilgisi/makale-kapak-5-57.jpg",
       "readingMinutes": 10,
       "file": "articles/evrimsel-yaratilis-yanilgisi.json"
+    },
+    {
+      "id": "gundemburada-31831",
+      "sourceId": "gundemburada",
+      "title": "Ahir Zamanda Katil Niçin Öldürdüğünü, Maktul Niçin Öldürüldüğünü Bilmeyecek – \uD83C\uDF99️",
+      "publishedAt": "2026-11-18",
+      "category": "Ahir Zaman Alametleri, Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/ahir_zamanda_katil_kapak_775x465.jpg",
+      "readingMinutes": 5,
+      "file": "articles/gundemburada-31831.json"
     },
     {
       "id": "gundemburada-31837",
