@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:51:40.3777676+03:00",
+  "updatedAt": "2026-11-19T18:57:10.4957384+03:00",
   "articles": [
     {
       "id": "evrimin-ilkel-yag-balonu-patladi",
@@ -20,6 +20,16 @@
       "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/evrimsel-yaratilis-yanilgisi/makale-kapak-5-57.jpg",
       "readingMinutes": 10,
       "file": "articles/evrimsel-yaratilis-yanilgisi.json"
+    },
+    {
+      "id": "gundemburada-31848",
+      "sourceId": "gundemburada",
+      "title": "Türkiye’de Mutsuzluğun Çözümü: Gerçek İman ve Sevgi",
+      "publishedAt": "2026-11-18",
+      "category": "Bülten",
+      "coverImageUrl": "https://www.gundemburada.net/wp-content/uploads/2026/11/mutsuz_bir_ulke_kapak_775x465.jpg",
+      "readingMinutes": 8,
+      "file": "articles/gundemburada-31848.json"
     },
     {
       "id": "guzel-bakan-guzel-gorur",
