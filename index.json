@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-23T14:04:29.4762678+03:00",
+  "updatedAt": "2026-11-26T18:28:47.1286045+03:00",
   "articles": [
+    {
+      "id": "Allah-in-dogadaki-sanatindan-ilham-alan-tasarimlar-biyomimikri",
+      "sourceId": "harunyahya",
+      "title": "Allah’ın Doğadaki Sanatından İlham Alan Tasarımlar:Biyomimikri",
+      "publishedAt": "2026-11-24",
+      "category": "İman Hakikatleri Ve Yaratılış Mucizesi",
+      "coverImageUrl": "https://g.fmanager.net/files/tr/articles/2026/11/Allah-in-dogadaki-sanatindan-ilham-alan-tasarimlar-biyomimikri/makale-kapak-sonsuz-adalet-9-420.jpg",
+      "readingMinutes": 7,
+      "file": "articles/Allah-in-dogadaki-sanatindan-ilham-alan-tasarimlar-biyomimikri.json"
+    },
     {
       "id": "hz-isa-nin-as-yeniden-gelisi-buyuk-bir-mujdedir",
       "sourceId": "harunyahya",
